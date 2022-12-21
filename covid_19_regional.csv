@@ -1,0 +1,3548 @@
+﻿date1,state,ConfirmedIndianNational,ConfirmedForeignNational,Cured,Deaths,Confirmed
+30/01/2020,Kerala,1,0,0,0,1
+31/01/2020,Kerala,1,0,0,0,1
+01/02/2020,Kerala,2,0,0,0,2
+02/02/2020,Kerala,3,0,0,0,3
+03/02/2020,Kerala,3,0,0,0,3
+04/02/2020,Kerala,3,0,0,0,3
+05/02/2020,Kerala,3,0,0,0,3
+06/02/2020,Kerala,3,0,0,0,3
+07/02/2020,Kerala,3,0,0,0,3
+08/02/2020,Kerala,3,0,0,0,3
+09/02/2020,Kerala,3,0,0,0,3
+10/02/2020,Kerala,3,0,0,0,3
+11/02/2020,Kerala,3,0,0,0,3
+12/02/2020,Kerala,3,0,0,0,3
+13/02/2020,Kerala,3,0,0,0,3
+14/02/2020,Kerala,3,0,0,0,3
+15/02/2020,Kerala,3,0,0,0,3
+16/02/2020,Kerala,3,0,0,0,3
+17/02/2020,Kerala,3,0,0,0,3
+18/02/2020,Kerala,3,0,0,0,3
+19/02/2020,Kerala,3,0,0,0,3
+20/02/2020,Kerala,3,0,0,0,3
+21/02/2020,Kerala,3,0,0,0,3
+22/02/2020,Kerala,3,0,0,0,3
+23/02/2020,Kerala,3,0,0,0,3
+24/02/2020,Kerala,3,0,0,0,3
+25/02/2020,Kerala,3,0,0,0,3
+26/02/2020,Kerala,3,0,0,0,3
+27/02/2020,Kerala,3,0,0,0,3
+28/02/2020,Kerala,3,0,0,0,3
+29/02/2020,Kerala,3,0,0,0,3
+01/03/2020,Kerala,3,0,0,0,3
+02/03/2020,Telangana,1,0,0,0,1
+02/03/2020,Kerala,3,0,0,0,3
+02/03/2020,Delhi,1,0,0,0,1
+03/03/2020,Telangana,1,0,0,0,1
+03/03/2020,Rajasthan,0,1,0,0,1
+03/03/2020,Kerala,3,0,3,0,3
+03/03/2020,Delhi,1,0,0,0,1
+04/03/2020,Uttar Pradesh,6,0,0,0,6
+04/03/2020,Kerala,3,0,3,0,3
+04/03/2020,Haryana,0,2,0,0,2
+04/03/2020,Delhi,1,0,0,0,1
+04/03/2020,Telangana,1,0,0,0,1
+04/03/2020,Rajasthan,1,14,0,0,15
+05/03/2020,Delhi,2,0,0,0,2
+05/03/2020,Haryana,0,2,0,0,2
+05/03/2020,Kerala,3,0,3,0,3
+05/03/2020,Rajasthan,1,14,0,0,15
+05/03/2020,Telangana,1,0,0,0,1
+05/03/2020,Uttar Pradesh,7,0,0,0,7
+06/03/2020,Delhi,3,0,0,0,3
+06/03/2020,Haryana,0,2,0,0,2
+06/03/2020,Kerala,3,0,3,0,3
+06/03/2020,Rajasthan,1,14,0,0,15
+06/03/2020,Uttar Pradesh,7,0,0,0,7
+06/03/2020,Telangana,1,0,0,0,1
+07/03/2020,Kerala,3,0,3,0,3
+07/03/2020,Uttar Pradesh,7,0,0,0,7
+07/03/2020,Ladakh,2,0,0,0,2
+07/03/2020,Telangana,1,0,0,0,1
+07/03/2020,Tamil Nadu,1,0,0,0,1
+07/03/2020,Delhi,3,0,0,0,3
+07/03/2020,Haryana,0,2,0,0,2
+07/03/2020,Rajasthan,1,14,0,0,15
+08/03/2020,Ladakh,2,0,0,0,2
+08/03/2020,Telangana,1,0,0,0,1
+08/03/2020,Tamil Nadu,1,0,0,0,1
+08/03/2020,Rajasthan,1,14,0,0,15
+08/03/2020,Kerala,8,0,3,0,8
+08/03/2020,Haryana,0,2,0,0,2
+08/03/2020,Delhi,3,0,0,0,3
+08/03/2020,Uttar Pradesh,7,0,0,0,7
+09/03/2020,Ladakh,2,0,0,0,2
+09/03/2020,Karnataka,1,0,0,0,1
+09/03/2020,Kerala,9,0,3,0,9
+09/03/2020,Maharashtra,2,0,0,0,2
+09/03/2020,Punjab,1,0,0,0,1
+09/03/2020,Rajasthan,1,14,0,0,15
+09/03/2020,Tamil Nadu,1,0,0,0,1
+09/03/2020,Telangana,1,0,0,0,1
+09/03/2020,Jammu and Kashmir,1,0,0,0,1
+09/03/2020,Uttar Pradesh,7,0,0,0,7
+09/03/2020,Haryana,0,2,0,0,2
+09/03/2020,Delhi,4,0,0,0,4
+10/03/2020,Uttar Pradesh,7,0,0,0,7
+10/03/2020,Ladakh,2,0,0,0,2
+10/03/2020,Delhi,4,0,0,0,4
+10/03/2020,Haryana,0,2,0,0,2
+10/03/2020,Karnataka,4,0,0,0,4
+10/03/2020,Kerala,15,0,3,0,15
+10/03/2020,Maharashtra,5,0,0,0,5
+10/03/2020,Punjab,1,0,0,0,1
+10/03/2020,Rajasthan,1,14,0,0,15
+10/03/2020,Tamil Nadu,1,0,0,0,1
+10/03/2020,Telangana,1,0,0,0,1
+10/03/2020,Jammu and Kashmir,1,0,0,0,1
+11/03/2020,Maharashtra,2,0,0,0,2
+11/03/2020,Delhi,5,0,0,0,5
+11/03/2020,Haryana,0,14,0,0,14
+11/03/2020,Kerala,17,0,3,0,17
+11/03/2020,Rajasthan,1,2,0,0,3
+11/03/2020,Telangana,1,0,0,0,1
+11/03/2020,Uttar Pradesh,9,0,0,0,9
+11/03/2020,Ladakh,2,0,0,0,2
+11/03/2020,Tamil Nadu,1,0,0,0,1
+11/03/2020,Jammu and Kashmir,1,0,0,0,1
+11/03/2020,Punjab,1,0,0,0,1
+11/03/2020,Karnataka,4,0,0,0,4
+12/03/2020,Delhi,6,0,0,0,6
+12/03/2020,Haryana,0,14,0,0,14
+12/03/2020,Kerala,17,0,3,0,17
+12/03/2020,Rajasthan,1,2,0,0,3
+12/03/2020,Telangana,1,0,0,0,1
+12/03/2020,Uttar Pradesh,10,1,0,0,11
+12/03/2020,Ladakh,3,0,0,0,3
+12/03/2020,Tamil Nadu,1,0,0,0,1
+12/03/2020,Jammu and Kashmir,1,0,0,0,1
+12/03/2020,Punjab,1,0,0,0,1
+12/03/2020,Karnataka,4,0,0,0,4
+12/03/2020,Maharashtra,11,0,0,0,11
+12/03/2020,Andhra Pradesh,1,0,0,0,1
+13/03/2020,Delhi,6,0,0,0,6
+13/03/2020,Haryana,0,14,0,0,14
+13/03/2020,Kerala,19,0,3,0,19
+13/03/2020,Rajasthan,1,2,0,0,3
+13/03/2020,Telangana,1,0,0,0,1
+13/03/2020,Uttar Pradesh,10,1,0,0,11
+13/03/2020,Ladakh,3,0,0,0,3
+13/03/2020,Tamil Nadu,1,0,0,0,1
+13/03/2020,Jammu and Kashmir,1,0,0,0,1
+13/03/2020,Punjab,1,0,0,0,1
+13/03/2020,Karnataka,6,0,0,1,6
+13/03/2020,Maharashtra,14,0,0,0,14
+13/03/2020,Andhra Pradesh,1,0,0,0,1
+14/03/2020,Delhi,7,0,1,1,7
+14/03/2020,Haryana,0,14,0,0,14
+14/03/2020,Kerala,19,0,3,0,19
+14/03/2020,Rajasthan,1,2,1,0,3
+14/03/2020,Telangana,1,0,0,0,1
+14/03/2020,Uttar Pradesh,11,1,5,0,12
+14/03/2020,Ladakh,3,0,0,0,3
+14/03/2020,Tamil Nadu,1,0,0,0,1
+14/03/2020,Jammu and Kashmir,2,0,0,0,2
+14/03/2020,Punjab,1,0,0,0,1
+14/03/2020,Karnataka,6,0,0,1,6
+14/03/2020,Maharashtra,14,0,0,0,14
+14/03/2020,Andhra Pradesh,1,0,0,0,1
+15/03/2020,Andhra Pradesh,1,0,0,0,1
+15/03/2020,Delhi,7,0,2,1,7
+15/03/2020,Haryana,0,14,0,0,14
+15/03/2020,Karnataka,6,0,0,1,6
+15/03/2020,Kerala,22,0,3,0,22
+15/03/2020,Maharashtra,32,0,0,0,32
+15/03/2020,Punjab,1,0,0,0,1
+15/03/2020,Rajasthan,2,2,3,0,4
+15/03/2020,Tamil Nadu,1,0,0,0,1
+15/03/2020,Telangana,3,0,1,0,3
+15/03/2020,Jammu and Kashmir,2,0,0,0,2
+15/03/2020,Ladakh,3,0,0,0,3
+15/03/2020,Uttar Pradesh,12,1,4,0,13
+15/03/2020,Uttarakhand,1,0,0,0,1
+16/03/2020,Andhra Pradesh,1,0,0,0,1
+16/03/2020,Delhi,7,0,2,1,7
+16/03/2020,Haryana,0,14,0,0,14
+16/03/2020,Karnataka,6,0,0,1,6
+16/03/2020,Kerala,23,0,3,0,23
+16/03/2020,Maharashtra,32,0,0,0,32
+16/03/2020,Odisha,1,0,0,0,1
+16/03/2020,Punjab,1,0,0,0,1
+16/03/2020,Rajasthan,2,2,3,0,4
+16/03/2020,Tamil Nadu,1,0,0,0,1
+16/03/2020,Telangana,3,0,1,0,3
+16/03/2020,Jammu and Kashmir,3,0,0,0,3
+16/03/2020,Ladakh,4,0,0,0,4
+16/03/2020,Uttar Pradesh,12,1,4,0,13
+16/03/2020,Uttarakhand,1,0,0,0,1
+17/03/2020,Andhra Pradesh,1,0,0,0,1
+17/03/2020,Delhi,8,0,2,1,8
+17/03/2020,Haryana,1,14,0,0,15
+17/03/2020,Karnataka,11,0,0,1,11
+17/03/2020,Kerala,24,2,3,0,26
+17/03/2020,Maharashtra,36,3,0,1,39
+17/03/2020,Odisha,1,0,0,0,1
+17/03/2020,Punjab,1,0,0,0,1
+17/03/2020,Rajasthan,2,2,3,0,4
+17/03/2020,Tamil Nadu,1,0,0,0,1
+17/03/2020,Telangana,3,2,1,0,5
+17/03/2020,Jammu and Kashmir,3,0,0,0,3
+17/03/2020,Ladakh,6,0,0,0,6
+17/03/2020,Uttar Pradesh,14,1,5,0,15
+17/03/2020,Uttarakhand,1,0,0,0,1
+18/03/2020,Andhra Pradesh,1,0,0,0,1
+18/03/2020,Delhi,9,1,2,1,10
+18/03/2020,Haryana,3,14,0,0,17
+18/03/2020,Karnataka,11,0,0,1,11
+18/03/2020,Kerala,25,2,3,0,27
+18/03/2020,Maharashtra,39,3,0,1,42
+18/03/2020,Odisha,1,0,0,0,1
+18/03/2020,Puducherry,1,0,0,0,1
+18/03/2020,Punjab,1,0,0,0,1
+18/03/2020,Rajasthan,2,2,3,0,4
+18/03/2020,Tamil Nadu,1,0,0,0,1
+18/03/2020,Telangana,4,2,1,0,6
+18/03/2020,Jammu and Kashmir,3,0,0,0,3
+18/03/2020,Ladakh,8,0,0,0,8
+18/03/2020,Uttar Pradesh,15,1,5,0,16
+18/03/2020,Uttarakhand,1,0,0,0,1
+18/03/2020,West Bengal,1,0,0,0,1
+19/03/2020,Andhra Pradesh,2,0,0,0,2
+19/03/2020,Chhattisgarh,1,0,0,0,1
+19/03/2020,Delhi,11,1,3,1,12
+19/03/2020,Haryana,3,14,0,0,17
+19/03/2020,Karnataka,14,0,0,1,14
+19/03/2020,Kerala,25,2,3,0,27
+19/03/2020,Maharashtra,44,3,0,1,47
+19/03/2020,Odisha,1,0,0,0,1
+19/03/2020,Puducherry,1,0,0,0,1
+19/03/2020,Punjab,2,0,0,1,2
+19/03/2020,Rajasthan,5,2,3,0,7
+19/03/2020,Tamil Nadu,2,0,1,0,2
+19/03/2020,Telangana,4,2,1,0,6
+19/03/2020,Chandigarh,1,0,0,0,1
+19/03/2020,Jammu and Kashmir,4,0,0,0,4
+19/03/2020,Ladakh,8,0,0,0,8
+19/03/2020,Uttar Pradesh,18,1,9,0,19
+19/03/2020,Uttarakhand,1,0,0,0,1
+19/03/2020,West Bengal,1,0,0,0,1
+20/03/2020,Andhra Pradesh,3,0,0,0,3
+20/03/2020,Chhattisgarh,1,0,0,0,1
+20/03/2020,Delhi,16,1,5,1,17
+20/03/2020,Gujarat,5,0,0,0,5
+20/03/2020,Haryana,3,14,0,0,17
+20/03/2020,Karnataka,15,0,1,1,15
+20/03/2020,Kerala,26,2,3,0,28
+20/03/2020,Maharashtra,49,3,0,1,52
+20/03/2020,Odisha,2,0,0,0,2
+20/03/2020,Puducherry,1,0,0,0,1
+20/03/2020,Punjab,2,0,0,1,2
+20/03/2020,Rajasthan,15,2,3,0,17
+20/03/2020,Tamil Nadu,3,0,1,0,3
+20/03/2020,Telangana,8,9,1,0,17
+20/03/2020,Chandigarh,1,0,0,0,1
+20/03/2020,Jammu and Kashmir,4,0,0,0,4
+20/03/2020,Ladakh,10,0,0,0,10
+20/03/2020,Uttar Pradesh,22,1,9,0,23
+20/03/2020,Uttarakhand,3,0,0,0,3
+20/03/2020,West Bengal,2,0,0,0,2
+21/03/2020,Andhra Pradesh,3,0,0,0,3
+21/03/2020,Chhattisgarh,1,0,0,0,1
+21/03/2020,Delhi,25,1,5,1,26
+21/03/2020,Gujarat,7,0,0,0,7
+21/03/2020,Haryana,3,14,0,0,17
+21/03/2020,Himachal Pradesh,2,0,0,0,2
+21/03/2020,Karnataka,15,0,1,1,15
+21/03/2020,Kerala,33,7,3,0,40
+21/03/2020,Madhya Pradesh,4,0,0,0,4
+21/03/2020,Maharashtra,60,3,0,1,63
+21/03/2020,Odisha,2,0,0,0,2
+21/03/2020,Puducherry,1,0,0,0,1
+21/03/2020,Punjab,13,0,0,1,13
+21/03/2020,Rajasthan,15,2,3,0,17
+21/03/2020,Tamil Nadu,3,0,1,0,3
+21/03/2020,Telangana,10,11,1,0,21
+21/03/2020,Chandigarh,1,0,0,0,1
+21/03/2020,Jammu and Kashmir,4,0,0,0,4
+21/03/2020,Ladakh,13,0,0,0,13
+21/03/2020,Uttar Pradesh,23,1,9,0,24
+21/03/2020,Uttarakhand,3,0,0,0,3
+21/03/2020,West Bengal,3,0,0,0,3
+22/03/2020,Andhra Pradesh,5,0,0,0,5
+22/03/2020,Bihar,2,0,0,1,2
+22/03/2020,Chhattisgarh,1,0,0,0,1
+22/03/2020,Delhi,28,1,5,1,29
+22/03/2020,Gujarat,18,0,0,1,18
+22/03/2020,Haryana,7,14,0,0,21
+22/03/2020,Himachal Pradesh,2,0,0,0,2
+22/03/2020,Karnataka,26,0,2,1,26
+22/03/2020,Kerala,45,7,3,0,52
+22/03/2020,Madhya Pradesh,4,0,0,0,4
+22/03/2020,Maharashtra,64,3,0,2,67
+22/03/2020,Odisha,2,0,0,0,2
+22/03/2020,Puducherry,1,0,0,0,1
+22/03/2020,Punjab,21,0,0,1,21
+22/03/2020,Rajasthan,22,2,3,0,24
+22/03/2020,Tamil Nadu,5,2,1,0,7
+22/03/2020,Telangana,11,11,1,0,22
+22/03/2020,Chandigarh,5,0,0,0,5
+22/03/2020,Jammu and Kashmir,4,0,0,0,4
+22/03/2020,Ladakh,13,0,0,0,13
+22/03/2020,Uttar Pradesh,26,1,9,0,27
+22/03/2020,Uttarakhand,3,0,0,0,3
+22/03/2020,West Bengal,4,0,0,0,4
+23/03/2020,Andhra Pradesh,7,0,0,0,7
+23/03/2020,Bihar,2,0,0,1,2
+23/03/2020,Chhattisgarh,1,0,0,0,1
+23/03/2020,Delhi,28,1,5,1,29
+23/03/2020,Gujarat,29,0,0,1,29
+23/03/2020,Haryana,12,14,0,0,26
+23/03/2020,Himachal Pradesh,2,0,0,0,2
+23/03/2020,Karnataka,33,0,2,1,33
+23/03/2020,Kerala,60,7,3,0,67
+23/03/2020,Madhya Pradesh,6,0,0,0,6
+23/03/2020,Maharashtra,71,3,0,2,74
+23/03/2020,Odisha,2,0,0,0,2
+23/03/2020,Puducherry,1,0,0,0,1
+23/03/2020,Punjab,21,0,0,1,21
+23/03/2020,Rajasthan,26,2,3,0,28
+23/03/2020,Tamil Nadu,7,2,1,0,9
+23/03/2020,Telangana,22,10,1,0,32
+23/03/2020,Chandigarh,6,0,0,0,6
+23/03/2020,Jammu and Kashmir,4,0,0,0,4
+23/03/2020,Ladakh,13,0,0,0,13
+23/03/2020,Uttar Pradesh,30,1,9,0,31
+23/03/2020,Uttarakhand,3,0,0,0,3
+23/03/2020,West Bengal,7,0,0,0,7
+27/03/2020,Andaman and Nicobar Islands,1,1,0,0,2
+28/03/2020,Andaman and Nicobar Islands,6,6,0,0,12
+29/03/2020,Andaman and Nicobar Islands,9,9,0,0,18
+30/03/2020,Andaman and Nicobar Islands,9,9,0,0,18
+31/03/2020,Andaman and Nicobar Islands,10,10,0,0,20
+01/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+02/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+03/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+04/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+05/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+06/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+07/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+08/04/2020,Andaman and Nicobar Islands,10,10,0,0,20
+09/04/2020,Andaman and Nicobar Islands,11,11,0,0,22
+10/04/2020,Andaman and Nicobar Islands,11,11,0,0,22
+11/04/2020,Andaman and Nicobar Islands,11,11,0,0,22
+12/04/2020,Andaman and Nicobar Islands,11,1,10,0,12
+13/04/2020,Andaman and Nicobar Islands,11,1,10,0,12
+14/04/2020,Andaman and Nicobar Islands,11,1,10,0,12
+15/04/2020,Andaman and Nicobar Islands,11,1,10,0,12
+16/04/2020,Andaman and Nicobar Islands,11,1,10,0,12
+17/04/2020,Andaman and Nicobar Islands,11,1,10,0,12
+18/04/2020,Andaman and Nicobar Islands,12,1,11,0,13
+19/04/2020,Andaman and Nicobar Islands,14,3,11,0,17
+20/04/2020,Andaman and Nicobar Islands,15,4,11,0,19
+21/04/2020,Andaman and Nicobar Islands,16,5,11,0,21
+22/04/2020,Andaman and Nicobar Islands,16,5,11,0,21
+23/04/2020,Andaman and Nicobar Islands,18,7,11,0,25
+24/04/2020,Andaman and Nicobar Islands,22,11,11,0,33
+25/04/2020,Andaman and Nicobar Islands,27,16,11,0,43
+26/04/2020,Andaman and Nicobar Islands,33,22,11,0,55
+27/04/2020,Andaman and Nicobar Islands,33,22,11,0,55
+28/04/2020,Andaman and Nicobar Islands,33,22,11,0,55
+29/04/2020,Andaman and Nicobar Islands,33,18,15,0,51
+30/04/2020,Andaman and Nicobar Islands,33,18,15,0,51
+01/05/2020,Andaman and Nicobar Islands,33,17,16,0,50
+02/05/2020,Andaman and Nicobar Islands,33,17,16,0,50
+03/05/2020,Andaman and Nicobar Islands,33,17,16,0,50
+04/05/2020,Andaman and Nicobar Islands,33,1,32,0,34
+05/05/2020,Andaman and Nicobar Islands,33,1,32,0,34
+06/05/2020,Andaman and Nicobar Islands,33,1,32,0,34
+07/05/2020,Andaman and Nicobar Islands,33,1,32,0,34
+08/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+09/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+10/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+11/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+12/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+13/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+14/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+15/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+16/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+17/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+18/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+19/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+20/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+21/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+22/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+23/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+24/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+25/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+26/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+27/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+28/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+29/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+30/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+31/05/2020,Andaman and Nicobar Islands,33,0,33,0,33
+01/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+02/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+03/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+04/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+05/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+06/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+07/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+08/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+09/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+10/06/2020,Andaman and Nicobar Islands,33,0,33,0,33
+11/06/2020,Andaman and Nicobar Islands,34,1,33,0,35
+12/06/2020,Andaman and Nicobar Islands,38,5,33,0,43
+13/06/2020,Andaman and Nicobar Islands,38,5,33,0,43
+14/06/2020,Andaman and Nicobar Islands,38,5,33,0,43
+15/06/2020,Andaman and Nicobar Islands,38,5,33,0,43
+16/06/2020,Andaman and Nicobar Islands,41,8,33,0,49
+17/06/2020,Andaman and Nicobar Islands,44,11,33,0,55
+18/06/2020,Andaman and Nicobar Islands,44,11,33,0,55
+19/06/2020,Andaman and Nicobar Islands,44,11,33,0,55
+20/06/2020,Andaman and Nicobar Islands,45,10,35,0,55
+21/06/2020,Andaman and Nicobar Islands,47,11,36,0,58
+22/06/2020,Andaman and Nicobar Islands,48,11,37,0,59
+23/06/2020,Andaman and Nicobar Islands,48,11,37,0,59
+24/06/2020,Andaman and Nicobar Islands,50,10,40,0,60
+25/06/2020,Andaman and Nicobar Islands,56,13,43,0,69
+26/06/2020,Andaman and Nicobar Islands,59,16,43,0,75
+27/06/2020,Andaman and Nicobar Islands,72,29,43,0,101
+28/06/2020,Andaman and Nicobar Islands,72,29,43,0,101
+29/06/2020,Andaman and Nicobar Islands,76,31,45,0,107
+30/06/2020,Andaman and Nicobar Islands,90,44,46,0,134
+24/03/2020,Andhra Pradesh,7,7,0,0,14
+25/03/2020,Andhra Pradesh,8,8,0,0,16
+26/03/2020,Andhra Pradesh,11,10,1,0,21
+27/03/2020,Andhra Pradesh,12,11,1,0,23
+28/03/2020,Andhra Pradesh,14,13,1,0,27
+29/03/2020,Andhra Pradesh,14,13,1,0,27
+30/03/2020,Andhra Pradesh,19,18,1,0,37
+31/03/2020,Andhra Pradesh,40,39,1,0,79
+01/04/2020,Andhra Pradesh,83,82,1,0,165
+02/04/2020,Andhra Pradesh,86,84,1,1,170
+03/04/2020,Andhra Pradesh,132,130,1,1,262
+04/04/2020,Andhra Pradesh,161,159,1,1,320
+05/04/2020,Andhra Pradesh,161,159,1,1,320
+06/04/2020,Andhra Pradesh,226,222,1,3,448
+07/04/2020,Andhra Pradesh,266,262,1,3,528
+08/04/2020,Andhra Pradesh,305,300,1,4,605
+09/04/2020,Andhra Pradesh,348,338,6,4,686
+10/04/2020,Andhra Pradesh,348,338,6,4,686
+11/04/2020,Andhra Pradesh,363,350,7,6,713
+12/04/2020,Andhra Pradesh,381,364,11,6,745
+13/04/2020,Andhra Pradesh,427,409,11,7,836
+14/04/2020,Andhra Pradesh,432,414,11,7,846
+15/04/2020,Andhra Pradesh,483,458,16,9,941
+16/04/2020,Andhra Pradesh,525,491,20,14,1016
+17/04/2020,Andhra Pradesh,534,500,20,14,1034
+18/04/2020,Andhra Pradesh,572,522,36,14,1094
+19/04/2020,Andhra Pradesh,603,546,42,15,1149
+20/04/2020,Andhra Pradesh,646,589,42,15,1235
+21/04/2020,Andhra Pradesh,722,610,92,20,1332
+22/04/2020,Andhra Pradesh,757,639,96,22,1396
+23/04/2020,Andhra Pradesh,813,669,120,24,1482
+24/04/2020,Andhra Pradesh,895,727,141,27,1622
+25/04/2020,Andhra Pradesh,955,781,145,29,1736
+26/04/2020,Andhra Pradesh,1061,859,171,31,1920
+27/04/2020,Andhra Pradesh,1097,835,231,31,1932
+28/04/2020,Andhra Pradesh,1183,917,235,31,2100
+29/04/2020,Andhra Pradesh,1259,970,258,31,2229
+30/04/2020,Andhra Pradesh,1332,1014,287,31,2346
+01/05/2020,Andhra Pradesh,1403,1051,321,31,2454
+02/05/2020,Andhra Pradesh,1463,1027,403,33,2490
+03/05/2020,Andhra Pradesh,1525,1051,441,33,2576
+04/05/2020,Andhra Pradesh,1583,1062,488,33,2645
+05/05/2020,Andhra Pradesh,1650,1090,524,36,2740
+06/05/2020,Andhra Pradesh,1717,1092,589,36,2809
+07/05/2020,Andhra Pradesh,1777,1012,729,36,2789
+08/05/2020,Andhra Pradesh,1847,1029,780,38,2876
+09/05/2020,Andhra Pradesh,1887,1004,842,41,2891
+10/05/2020,Andhra Pradesh,1930,999,887,44,2929
+11/05/2020,Andhra Pradesh,1980,1010,925,45,2990
+12/05/2020,Andhra Pradesh,2018,998,975,45,3016
+13/05/2020,Andhra Pradesh,2090,988,1056,46,3078
+14/05/2020,Andhra Pradesh,2137,948,1142,47,3085
+15/05/2020,Andhra Pradesh,2205,965,1192,48,3170
+16/05/2020,Andhra Pradesh,2307,1007,1252,48,3314
+17/05/2020,Andhra Pradesh,2355,953,1353,49,3308
+18/05/2020,Andhra Pradesh,2407,901,1456,50,3308
+19/05/2020,Andhra Pradesh,2474,872,1552,50,3346
+20/05/2020,Andhra Pradesh,2532,859,1621,52,3391
+21/05/2020,Andhra Pradesh,2602,909,1640,53,3511
+22/05/2020,Andhra Pradesh,2647,885,1709,53,3532
+23/05/2020,Andhra Pradesh,2709,891,1763,55,3600
+24/05/2020,Andhra Pradesh,2757,892,1809,56,3649
+25/05/2020,Andhra Pradesh,2823,911,1856,56,3734
+26/05/2020,Andhra Pradesh,3110,1158,1896,56,4268
+27/05/2020,Andhra Pradesh,3171,1105,2009,57,4276
+28/05/2020,Andhra Pradesh,3171,1056,2057,58,4227
+29/05/2020,Andhra Pradesh,3251,1067,2125,59,4318
+30/05/2020,Andhra Pradesh,3436,1150,2226,60,4586
+31/05/2020,Andhra Pradesh,3569,1220,2289,60,4789
+01/06/2020,Andhra Pradesh,3679,1268,2349,62,4947
+02/06/2020,Andhra Pradesh,3783,1341,2378,64,5124
+03/06/2020,Andhra Pradesh,3898,1413,2421,64,5311
+04/06/2020,Andhra Pradesh,4080,1546,2466,68,5626
+05/06/2020,Andhra Pradesh,4223,1613,2539,71,5836
+06/06/2020,Andhra Pradesh,4303,1654,2576,73,5957
+07/06/2020,Andhra Pradesh,4510,1817,2620,73,6327
+08/06/2020,Andhra Pradesh,4708,1951,2682,75,6659
+09/06/2020,Andhra Pradesh,4851,2031,2745,75,6882
+10/06/2020,Andhra Pradesh,5070,2191,2802,77,7261
+11/06/2020,Andhra Pradesh,5269,2292,2899,78,7561
+12/06/2020,Andhra Pradesh,5429,2301,3048,80,7730
+13/06/2020,Andhra Pradesh,5680,2495,3105,80,8175
+14/06/2020,Andhra Pradesh,5965,2688,3195,82,8653
+15/06/2020,Andhra Pradesh,6163,2765,3314,84,8928
+16/06/2020,Andhra Pradesh,6456,3052,3316,88,9508
+17/06/2020,Andhra Pradesh,6841,3244,3509,88,10085
+18/06/2020,Andhra Pradesh,7071,3340,3641,90,10411
+19/06/2020,Andhra Pradesh,7518,3637,3789,92,11155
+20/06/2020,Andhra Pradesh,7961,3948,3917,96,11909
+21/06/2020,Andhra Pradesh,8452,4240,4111,101,12692
+22/06/2020,Andhra Pradesh,8999,4562,4331,106,13561
+23/06/2020,Andhra Pradesh,9372,4766,4495,111,14138
+24/06/2020,Andhra Pradesh,10002,5284,4599,119,15286
+25/06/2020,Andhra Pradesh,10331,5428,4779,124,15759
+26/06/2020,Andhra Pradesh,10884,5760,4988,136,16644
+27/06/2020,Andhra Pradesh,11489,6145,5196,148,17634
+28/06/2020,Andhra Pradesh,12285,6648,5480,157,18933
+29/06/2020,Andhra Pradesh,13241,7164,5908,169,20405
+30/06/2020,Andhra Pradesh,13891,7479,6232,180,21370
+03/04/2020,Arunachal Pradesh,1,1,0,0,2
+04/04/2020,Arunachal Pradesh,1,1,0,0,2
+05/04/2020,Arunachal Pradesh,1,1,0,0,2
+06/04/2020,Arunachal Pradesh,1,1,0,0,2
+07/04/2020,Arunachal Pradesh,1,1,0,0,2
+08/04/2020,Arunachal Pradesh,1,1,0,0,2
+09/04/2020,Arunachal Pradesh,1,1,0,0,2
+10/04/2020,Arunachal Pradesh,1,1,0,0,2
+11/04/2020,Arunachal Pradesh,1,1,0,0,2
+12/04/2020,Arunachal Pradesh,1,1,0,0,2
+13/04/2020,Arunachal Pradesh,1,1,0,0,2
+14/04/2020,Arunachal Pradesh,1,1,0,0,2
+15/04/2020,Arunachal Pradesh,1,1,0,0,2
+16/04/2020,Arunachal Pradesh,1,1,0,0,2
+17/04/2020,Arunachal Pradesh,1,1,0,0,2
+18/04/2020,Arunachal Pradesh,1,1,0,0,2
+19/04/2020,Arunachal Pradesh,1,1,0,0,2
+20/04/2020,Arunachal Pradesh,1,1,0,0,2
+21/04/2020,Arunachal Pradesh,1,1,0,0,2
+22/04/2020,Arunachal Pradesh,1,0,1,0,1
+23/04/2020,Arunachal Pradesh,1,0,1,0,1
+24/04/2020,Arunachal Pradesh,1,0,1,0,1
+25/04/2020,Arunachal Pradesh,1,0,1,0,1
+26/04/2020,Arunachal Pradesh,1,0,1,0,1
+27/04/2020,Arunachal Pradesh,1,0,1,0,1
+28/04/2020,Arunachal Pradesh,1,0,1,0,1
+29/04/2020,Arunachal Pradesh,1,0,1,0,1
+30/04/2020,Arunachal Pradesh,1,0,1,0,1
+01/05/2020,Arunachal Pradesh,1,0,1,0,1
+02/05/2020,Arunachal Pradesh,1,0,1,0,1
+03/05/2020,Arunachal Pradesh,1,0,1,0,1
+04/05/2020,Arunachal Pradesh,1,0,1,0,1
+05/05/2020,Arunachal Pradesh,1,0,1,0,1
+06/05/2020,Arunachal Pradesh,1,0,1,0,1
+07/05/2020,Arunachal Pradesh,1,0,1,0,1
+08/05/2020,Arunachal Pradesh,1,0,1,0,1
+09/05/2020,Arunachal Pradesh,1,0,1,0,1
+10/05/2020,Arunachal Pradesh,1,0,1,0,1
+11/05/2020,Arunachal Pradesh,1,0,1,0,1
+12/05/2020,Arunachal Pradesh,1,0,1,0,1
+13/05/2020,Arunachal Pradesh,1,0,1,0,1
+14/05/2020,Arunachal Pradesh,1,0,1,0,1
+15/05/2020,Arunachal Pradesh,1,0,1,0,1
+16/05/2020,Arunachal Pradesh,1,0,1,0,1
+17/05/2020,Arunachal Pradesh,1,0,1,0,1
+18/05/2020,Arunachal Pradesh,1,0,1,0,1
+19/05/2020,Arunachal Pradesh,1,0,1,0,1
+20/05/2020,Arunachal Pradesh,1,0,1,0,1
+21/05/2020,Arunachal Pradesh,1,0,1,0,1
+22/05/2020,Arunachal Pradesh,1,0,1,0,1
+23/05/2020,Arunachal Pradesh,1,0,1,0,1
+24/05/2020,Arunachal Pradesh,1,0,1,0,1
+25/05/2020,Arunachal Pradesh,1,0,1,0,1
+26/05/2020,Arunachal Pradesh,2,1,1,0,3
+27/05/2020,Arunachal Pradesh,2,1,1,0,3
+28/05/2020,Arunachal Pradesh,2,1,1,0,3
+29/05/2020,Arunachal Pradesh,3,2,1,0,5
+30/05/2020,Arunachal Pradesh,3,2,1,0,5
+31/05/2020,Arunachal Pradesh,4,3,1,0,7
+01/06/2020,Arunachal Pradesh,4,3,1,0,7
+02/06/2020,Arunachal Pradesh,22,21,1,0,43
+03/06/2020,Arunachal Pradesh,22,21,1,0,43
+04/06/2020,Arunachal Pradesh,38,37,1,0,75
+05/06/2020,Arunachal Pradesh,42,41,1,0,83
+06/06/2020,Arunachal Pradesh,45,44,1,0,89
+07/06/2020,Arunachal Pradesh,47,46,1,0,93
+08/06/2020,Arunachal Pradesh,51,50,1,0,101
+09/06/2020,Arunachal Pradesh,51,50,1,0,101
+10/06/2020,Arunachal Pradesh,57,56,1,0,113
+11/06/2020,Arunachal Pradesh,57,55,2,0,112
+12/06/2020,Arunachal Pradesh,61,57,4,0,118
+13/06/2020,Arunachal Pradesh,67,63,4,0,130
+14/06/2020,Arunachal Pradesh,87,83,4,0,170
+15/06/2020,Arunachal Pradesh,91,84,7,0,175
+16/06/2020,Arunachal Pradesh,91,84,7,0,175
+17/06/2020,Arunachal Pradesh,95,88,7,0,183
+18/06/2020,Arunachal Pradesh,99,92,7,0,191
+19/06/2020,Arunachal Pradesh,103,93,10,0,196
+20/06/2020,Arunachal Pradesh,103,92,11,0,195
+21/06/2020,Arunachal Pradesh,135,121,14,0,256
+22/06/2020,Arunachal Pradesh,135,120,15,0,255
+23/06/2020,Arunachal Pradesh,139,118,21,0,257
+24/06/2020,Arunachal Pradesh,148,126,22,0,274
+25/06/2020,Arunachal Pradesh,158,120,38,0,278
+26/06/2020,Arunachal Pradesh,160,121,38,1,281
+27/06/2020,Arunachal Pradesh,172,129,42,1,301
+28/06/2020,Arunachal Pradesh,177,122,54,1,299
+29/06/2020,Arunachal Pradesh,182,121,60,1,303
+30/06/2020,Arunachal Pradesh,187,125,61,1,312
+02/04/2020,Assam,1,1,0,0,2
+03/04/2020,Assam,16,16,0,0,32
+04/04/2020,Assam,24,24,0,0,48
+05/04/2020,Assam,24,24,0,0,48
+06/04/2020,Assam,26,26,0,0,52
+07/04/2020,Assam,26,26,0,0,52
+08/04/2020,Assam,27,27,0,0,54
+09/04/2020,Assam,28,28,0,0,56
+10/04/2020,Assam,29,29,0,0,58
+11/04/2020,Assam,29,28,0,1,57
+12/04/2020,Assam,29,28,0,1,57
+13/04/2020,Assam,29,28,0,1,57
+14/04/2020,Assam,31,30,0,1,61
+15/04/2020,Assam,32,31,0,1,63
+16/04/2020,Assam,33,32,0,1,65
+17/04/2020,Assam,35,29,5,1,64
+18/04/2020,Assam,35,29,5,1,64
+19/04/2020,Assam,35,22,12,1,57
+20/04/2020,Assam,35,17,17,1,52
+21/04/2020,Assam,35,15,19,1,50
+22/04/2020,Assam,35,15,19,1,50
+23/04/2020,Assam,35,15,19,1,50
+24/04/2020,Assam,36,16,19,1,52
+25/04/2020,Assam,36,16,19,1,52
+26/04/2020,Assam,36,16,19,1,52
+27/04/2020,Assam,36,8,27,1,44
+28/04/2020,Assam,36,8,27,1,44
+29/04/2020,Assam,38,10,27,1,48
+30/04/2020,Assam,38,8,29,1,46
+01/05/2020,Assam,42,12,29,1,54
+02/05/2020,Assam,43,10,32,1,53
+03/05/2020,Assam,43,10,32,1,53
+04/05/2020,Assam,43,10,32,1,53
+05/05/2020,Assam,43,10,32,1,53
+06/05/2020,Assam,43,10,32,1,53
+07/05/2020,Assam,45,12,32,1,57
+08/05/2020,Assam,54,19,34,1,73
+09/05/2020,Assam,59,24,34,1,83
+10/05/2020,Assam,63,27,34,2,90
+11/05/2020,Assam,63,27,34,2,90
+12/05/2020,Assam,65,29,34,2,94
+13/05/2020,Assam,65,24,39,2,89
+14/05/2020,Assam,80,39,39,2,119
+15/05/2020,Assam,87,46,39,2,133
+16/05/2020,Assam,90,47,41,2,137
+17/05/2020,Assam,92,49,41,2,141
+18/05/2020,Assam,101,58,41,2,159
+19/05/2020,Assam,107,64,41,2,171
+20/05/2020,Assam,142,97,41,4,239
+21/05/2020,Assam,170,118,48,4,288
+22/05/2020,Assam,203,145,54,4,348
+23/05/2020,Assam,259,201,54,4,460
+24/05/2020,Assam,329,270,55,4,599
+25/05/2020,Assam,378,319,55,4,697
+26/05/2020,Assam,526,460,62,4,986
+27/05/2020,Assam,616,550,62,4,1166
+28/05/2020,Assam,781,690,87,4,1471
+29/05/2020,Assam,856,748,104,4,1604
+30/05/2020,Assam,1024,895,125,4,1919
+31/05/2020,Assam,1185,1018,163,4,2203
+01/06/2020,Assam,1272,1083,185,4,2355
+02/06/2020,Assam,1390,1109,277,4,2499
+03/06/2020,Assam,1513,1185,324,4,2698
+04/06/2020,Assam,1672,1255,413,4,2927
+05/06/2020,Assam,1988,1542,442,4,3530
+06/06/2020,Assam,2153,1651,498,4,3804
+07/06/2020,Assam,2397,1846,547,4,4243
+08/06/2020,Assam,2565,1946,615,4,4511
+09/06/2020,Assam,2776,2107,665,4,4883
+10/06/2020,Assam,2937,1848,1085,4,4785
+11/06/2020,Assam,3092,1839,1249,4,4931
+12/06/2020,Assam,3319,1881,1432,6,5200
+13/06/2020,Assam,3498,1953,1537,8,5451
+14/06/2020,Assam,3718,2126,1584,8,5844
+15/06/2020,Assam,4049,2081,1960,8,6130
+16/06/2020,Assam,4158,1984,2166,8,6142
+17/06/2020,Assam,4319,2145,2166,8,6464
+18/06/2020,Assam,4605,1955,2642,8,6560
+19/06/2020,Assam,4777,2114,2654,9,6891
+20/06/2020,Assam,4904,1856,3039,9,6760
+21/06/2020,Assam,4904,1856,3039,9,6760
+22/06/2020,Assam,5388,2019,3360,9,7407
+23/06/2020,Assam,5586,2056,3521,9,7642
+24/06/2020,Assam,5831,2060,3762,9,7891
+25/06/2020,Assam,6198,2231,3958,9,8429
+26/06/2020,Assam,6321,2279,4033,9,8600
+27/06/2020,Assam,6607,2339,4259,9,8946
+28/06/2020,Assam,6816,2307,4500,9,9123
+29/06/2020,Assam,7206,2108,5088,10,9314
+30/06/2020,Assam,7752,2408,5333,11,10160
+24/03/2020,Bihar,2,1,0,1,3
+25/03/2020,Bihar,3,2,0,1,5
+26/03/2020,Bihar,3,2,0,1,5
+27/03/2020,Bihar,6,5,0,1,11
+28/03/2020,Bihar,9,8,0,1,17
+29/03/2020,Bihar,9,8,0,1,17
+30/03/2020,Bihar,11,10,0,1,21
+31/03/2020,Bihar,15,14,0,1,29
+01/04/2020,Bihar,23,22,0,1,45
+02/04/2020,Bihar,23,22,0,1,45
+03/04/2020,Bihar,24,23,0,1,47
+04/04/2020,Bihar,29,28,0,1,57
+05/04/2020,Bihar,30,29,0,1,59
+06/04/2020,Bihar,30,29,0,1,59
+07/04/2020,Bihar,32,31,0,1,63
+08/04/2020,Bihar,38,37,0,1,75
+09/04/2020,Bihar,38,37,0,1,75
+10/04/2020,Bihar,39,38,0,1,77
+11/04/2020,Bihar,60,59,0,1,119
+12/04/2020,Bihar,63,62,0,1,125
+13/04/2020,Bihar,64,44,19,1,108
+14/04/2020,Bihar,65,38,26,1,103
+15/04/2020,Bihar,66,36,29,1,102
+16/04/2020,Bihar,70,40,29,1,110
+17/04/2020,Bihar,80,42,37,1,122
+18/04/2020,Bihar,83,44,37,2,127
+19/04/2020,Bihar,86,47,37,2,133
+20/04/2020,Bihar,93,49,42,2,142
+21/04/2020,Bihar,113,69,42,2,182
+22/04/2020,Bihar,126,82,42,2,208
+23/04/2020,Bihar,143,95,46,2,238
+24/04/2020,Bihar,153,105,46,2,258
+25/04/2020,Bihar,223,175,46,2,398
+26/04/2020,Bihar,243,195,46,2,438
+27/04/2020,Bihar,274,216,56,2,490
+28/04/2020,Bihar,345,286,57,2,631
+29/04/2020,Bihar,366,300,64,2,666
+30/04/2020,Bihar,392,325,65,2,717
+01/05/2020,Bihar,418,334,82,2,752
+02/05/2020,Bihar,471,370,98,3,841
+03/05/2020,Bihar,481,370,107,4,851
+04/05/2020,Bihar,503,374,125,4,877
+05/05/2020,Bihar,528,394,130,4,922
+06/05/2020,Bihar,536,390,142,4,926
+07/05/2020,Bihar,542,350,188,4,892
+08/05/2020,Bihar,550,299,246,5,849
+09/05/2020,Bihar,571,269,297,5,840
+10/05/2020,Bihar,591,264,322,5,855
+11/05/2020,Bihar,696,325,365,6,1021
+12/05/2020,Bihar,747,364,377,6,1111
+13/05/2020,Bihar,831,442,383,6,1273
+14/05/2020,Bihar,940,545,388,7,1485
+15/05/2020,Bihar,994,576,411,7,1570
+16/05/2020,Bihar,1018,573,438,7,1591
+17/05/2020,Bihar,1179,719,453,7,1898
+18/05/2020,Bihar,1262,779,475,8,2041
+19/05/2020,Bihar,1391,888,494,9,2279
+20/05/2020,Bihar,1498,955,534,9,2453
+21/05/2020,Bihar,1674,1093,571,10,2767
+22/05/2020,Bihar,1982,1378,593,11,3360
+23/05/2020,Bihar,2177,1537,629,11,3714
+24/05/2020,Bihar,2380,1716,653,11,4096
+25/05/2020,Bihar,2587,1872,702,13,4459
+26/05/2020,Bihar,2730,1968,749,13,4698
+27/05/2020,Bihar,2983,2070,900,13,5053
+28/05/2020,Bihar,3061,1963,1083,15,5024
+29/05/2020,Bihar,3296,2070,1211,15,5366
+30/05/2020,Bihar,3376,2150,1211,15,5526
+31/05/2020,Bihar,3636,1998,1618,20,5634
+01/06/2020,Bihar,3815,2084,1710,21,5899
+02/06/2020,Bihar,3926,2002,1900,24,5928
+03/06/2020,Bihar,4155,2185,1946,24,6340
+04/06/2020,Bihar,4390,2288,2077,25,6678
+05/06/2020,Bihar,4493,2254,2210,29,6747
+06/06/2020,Bihar,4596,2342,2225,29,6938
+07/06/2020,Bihar,4915,2460,2425,30,7375
+08/06/2020,Bihar,5088,2578,2480,30,7666
+09/06/2020,Bihar,5202,2672,2499,31,7874
+10/06/2020,Bihar,5459,2563,2864,32,8022
+11/06/2020,Bihar,5710,2606,3071,33,8316
+12/06/2020,Bihar,5983,2681,3266,36,8664
+13/06/2020,Bihar,6103,2480,3587,36,8583
+14/06/2020,Bihar,6290,2295,3956,39,8585
+15/06/2020,Bihar,6470,2261,4170,39,8731
+16/06/2020,Bihar,6650,2201,4409,40,8851
+17/06/2020,Bihar,6778,2093,4644,41,8871
+18/06/2020,Bihar,6942,1972,4926,44,8914
+19/06/2020,Bihar,7025,1925,5056,44,8950
+20/06/2020,Bihar,7181,2033,5098,50,9214
+21/06/2020,Bihar,7533,1952,5529,52,9485
+22/06/2020,Bihar,7612,1979,5580,53,9591
+23/06/2020,Bihar,7825,1989,5781,55,9814
+24/06/2020,Bihar,8153,1993,6104,56,10146
+25/06/2020,Bihar,8209,2039,6113,57,10248
+26/06/2020,Bihar,8473,1975,6441,57,10448
+27/06/2020,Bihar,8716,1896,6762,58,10612
+28/06/2020,Bihar,8931,2029,6843,59,10960
+29/06/2020,Bihar,9212,2034,7118,60,11246
+30/06/2020,Bihar,9640,2188,7390,62,11828
+24/03/2020,Chandigarh,6,6,0,0,12
+25/03/2020,Chandigarh,7,7,0,0,14
+26/03/2020,Chandigarh,7,7,0,0,14
+27/03/2020,Chandigarh,7,7,0,0,14
+28/03/2020,Chandigarh,8,8,0,0,16
+29/03/2020,Chandigarh,8,8,0,0,16
+30/03/2020,Chandigarh,8,8,0,0,16
+31/03/2020,Chandigarh,13,13,0,0,26
+01/04/2020,Chandigarh,13,13,0,0,26
+02/04/2020,Chandigarh,16,16,0,0,32
+03/04/2020,Chandigarh,18,18,0,0,36
+04/04/2020,Chandigarh,18,18,0,0,36
+05/04/2020,Chandigarh,18,18,0,0,36
+06/04/2020,Chandigarh,18,18,0,0,36
+07/04/2020,Chandigarh,18,18,0,0,36
+08/04/2020,Chandigarh,18,11,7,0,29
+09/04/2020,Chandigarh,18,11,7,0,29
+10/04/2020,Chandigarh,18,11,7,0,29
+11/04/2020,Chandigarh,18,11,7,0,29
+12/04/2020,Chandigarh,19,12,7,0,31
+13/04/2020,Chandigarh,21,14,7,0,35
+14/04/2020,Chandigarh,21,14,7,0,35
+15/04/2020,Chandigarh,21,14,7,0,35
+16/04/2020,Chandigarh,21,14,7,0,35
+17/04/2020,Chandigarh,21,12,9,0,33
+18/04/2020,Chandigarh,21,12,9,0,33
+19/04/2020,Chandigarh,23,13,10,0,36
+20/04/2020,Chandigarh,26,13,13,0,39
+21/04/2020,Chandigarh,26,13,13,0,39
+22/04/2020,Chandigarh,27,13,14,0,40
+23/04/2020,Chandigarh,27,13,14,0,40
+24/04/2020,Chandigarh,27,13,14,0,40
+25/04/2020,Chandigarh,27,13,14,0,40
+26/04/2020,Chandigarh,28,13,15,0,41
+27/04/2020,Chandigarh,30,13,17,0,43
+28/04/2020,Chandigarh,40,23,17,0,63
+29/04/2020,Chandigarh,56,39,17,0,95
+30/04/2020,Chandigarh,56,39,17,0,95
+01/05/2020,Chandigarh,56,39,17,0,95
+02/05/2020,Chandigarh,88,71,17,0,159
+03/05/2020,Chandigarh,88,71,17,0,159
+04/05/2020,Chandigarh,94,75,19,0,169
+05/05/2020,Chandigarh,102,80,21,1,182
+06/05/2020,Chandigarh,111,89,21,1,200
+07/05/2020,Chandigarh,120,98,21,1,218
+08/05/2020,Chandigarh,135,113,21,1,248
+09/05/2020,Chandigarh,150,128,21,1,278
+10/05/2020,Chandigarh,169,143,24,2,312
+11/05/2020,Chandigarh,169,143,24,2,312
+12/05/2020,Chandigarh,174,148,24,2,322
+13/05/2020,Chandigarh,187,156,28,3,343
+14/05/2020,Chandigarh,187,156,28,3,343
+15/05/2020,Chandigarh,191,151,37,3,342
+16/05/2020,Chandigarh,191,151,37,3,342
+17/05/2020,Chandigarh,191,137,51,3,328
+18/05/2020,Chandigarh,191,137,51,3,328
+19/05/2020,Chandigarh,196,139,54,3,335
+20/05/2020,Chandigarh,200,140,57,3,340
+21/05/2020,Chandigarh,202,142,57,3,344
+22/05/2020,Chandigarh,217,75,139,3,292
+23/05/2020,Chandigarh,218,37,178,3,255
+24/05/2020,Chandigarh,225,43,179,3,268
+25/05/2020,Chandigarh,238,49,186,3,287
+26/05/2020,Chandigarh,238,49,186,3,287
+27/05/2020,Chandigarh,266,75,187,4,341
+28/05/2020,Chandigarh,279,88,187,4,367
+29/05/2020,Chandigarh,288,95,189,4,383
+30/05/2020,Chandigarh,289,96,189,4,385
+31/05/2020,Chandigarh,289,96,189,4,385
+01/06/2020,Chandigarh,293,90,199,4,383
+02/06/2020,Chandigarh,294,91,199,4,385
+03/06/2020,Chandigarh,301,82,214,5,383
+04/06/2020,Chandigarh,301,82,214,5,383
+05/06/2020,Chandigarh,301,82,214,5,383
+06/06/2020,Chandigarh,304,77,222,5,381
+07/06/2020,Chandigarh,309,31,273,5,340
+08/06/2020,Chandigarh,314,36,273,5,350
+09/06/2020,Chandigarh,317,39,273,5,356
+10/06/2020,Chandigarh,323,32,286,5,355
+11/06/2020,Chandigarh,327,36,286,5,363
+12/06/2020,Chandigarh,332,41,286,5,373
+13/06/2020,Chandigarh,334,43,286,5,377
+14/06/2020,Chandigarh,345,54,286,5,399
+15/06/2020,Chandigarh,352,54,293,5,406
+16/06/2020,Chandigarh,354,52,296,6,406
+17/06/2020,Chandigarh,358,50,302,6,408
+18/06/2020,Chandigarh,368,59,303,6,427
+19/06/2020,Chandigarh,374,62,306,6,436
+20/06/2020,Chandigarh,381,60,315,6,441
+21/06/2020,Chandigarh,404,82,316,6,486
+22/06/2020,Chandigarh,406,84,316,6,490
+23/06/2020,Chandigarh,411,83,322,6,494
+24/06/2020,Chandigarh,418,90,322,6,508
+25/06/2020,Chandigarh,420,91,323,6,511
+26/06/2020,Chandigarh,423,88,329,6,511
+27/06/2020,Chandigarh,425,84,335,6,509
+28/06/2020,Chandigarh,428,87,335,6,515
+29/06/2020,Chandigarh,429,87,336,6,516
+30/06/2020,Chandigarh,435,80,349,6,515
+24/03/2020,Chhattisgarh,1,1,0,0,2
+25/03/2020,Chhattisgarh,1,1,0,0,2
+26/03/2020,Chhattisgarh,3,3,0,0,6
+27/03/2020,Chhattisgarh,6,6,0,0,12
+28/03/2020,Chhattisgarh,6,6,0,0,12
+29/03/2020,Chhattisgarh,6,6,0,0,12
+30/03/2020,Chhattisgarh,7,7,0,0,14
+31/03/2020,Chhattisgarh,8,8,0,0,16
+01/04/2020,Chhattisgarh,9,9,0,0,18
+02/04/2020,Chhattisgarh,9,7,2,0,16
+03/04/2020,Chhattisgarh,9,7,2,0,16
+04/04/2020,Chhattisgarh,9,6,3,0,15
+05/04/2020,Chhattisgarh,9,6,3,0,15
+06/04/2020,Chhattisgarh,9,6,3,0,15
+07/04/2020,Chhattisgarh,10,2,8,0,12
+08/04/2020,Chhattisgarh,10,1,9,0,11
+09/04/2020,Chhattisgarh,10,1,9,0,11
+10/04/2020,Chhattisgarh,10,1,9,0,11
+11/04/2020,Chhattisgarh,18,9,9,0,27
+12/04/2020,Chhattisgarh,18,9,9,0,27
+13/04/2020,Chhattisgarh,31,21,10,0,52
+14/04/2020,Chhattisgarh,31,21,10,0,52
+15/04/2020,Chhattisgarh,33,20,13,0,53
+16/04/2020,Chhattisgarh,33,16,17,0,49
+17/04/2020,Chhattisgarh,33,10,23,0,43
+18/04/2020,Chhattisgarh,36,12,24,0,48
+19/04/2020,Chhattisgarh,36,12,24,0,48
+20/04/2020,Chhattisgarh,36,11,25,0,47
+21/04/2020,Chhattisgarh,36,11,25,0,47
+22/04/2020,Chhattisgarh,36,10,26,0,46
+23/04/2020,Chhattisgarh,36,10,26,0,46
+24/04/2020,Chhattisgarh,36,8,28,0,44
+25/04/2020,Chhattisgarh,36,6,30,0,42
+26/04/2020,Chhattisgarh,37,5,32,0,42
+27/04/2020,Chhattisgarh,37,5,32,0,42
+28/04/2020,Chhattisgarh,37,5,32,0,42
+29/04/2020,Chhattisgarh,38,4,34,0,42
+30/04/2020,Chhattisgarh,38,4,34,0,42
+01/05/2020,Chhattisgarh,40,4,36,0,44
+02/05/2020,Chhattisgarh,43,7,36,0,50
+03/05/2020,Chhattisgarh,43,7,36,0,50
+04/05/2020,Chhattisgarh,57,21,36,0,78
+05/05/2020,Chhattisgarh,58,22,36,0,80
+06/05/2020,Chhattisgarh,59,23,36,0,82
+07/05/2020,Chhattisgarh,59,23,36,0,82
+08/05/2020,Chhattisgarh,59,21,38,0,80
+09/05/2020,Chhattisgarh,59,21,38,0,80
+10/05/2020,Chhattisgarh,59,16,43,0,75
+11/05/2020,Chhattisgarh,59,10,49,0,69
+12/05/2020,Chhattisgarh,59,6,53,0,65
+13/05/2020,Chhattisgarh,59,5,54,0,64
+14/05/2020,Chhattisgarh,59,4,55,0,63
+15/05/2020,Chhattisgarh,60,4,56,0,64
+16/05/2020,Chhattisgarh,66,10,56,0,76
+17/05/2020,Chhattisgarh,67,11,56,0,78
+18/05/2020,Chhattisgarh,86,27,59,0,113
+19/05/2020,Chhattisgarh,93,34,59,0,127
+20/05/2020,Chhattisgarh,101,42,59,0,143
+21/05/2020,Chhattisgarh,115,56,59,0,171
+22/05/2020,Chhattisgarh,128,69,59,0,197
+23/05/2020,Chhattisgarh,172,110,62,0,282
+24/05/2020,Chhattisgarh,214,150,64,0,364
+25/05/2020,Chhattisgarh,252,185,67,0,437
+26/05/2020,Chhattisgarh,291,219,72,0,510
+27/05/2020,Chhattisgarh,361,282,79,0,643
+28/05/2020,Chhattisgarh,369,286,83,0,655
+29/05/2020,Chhattisgarh,399,316,83,0,715
+30/05/2020,Chhattisgarh,415,314,100,1,729
+31/05/2020,Chhattisgarh,447,344,102,1,791
+01/06/2020,Chhattisgarh,498,382,115,1,880
+02/06/2020,Chhattisgarh,547,424,122,1,971
+03/06/2020,Chhattisgarh,564,433,130,1,997
+04/06/2020,Chhattisgarh,668,478,188,2,1146
+05/06/2020,Chhattisgarh,756,541,213,2,1297
+06/06/2020,Chhattisgarh,879,633,244,2,1512
+07/06/2020,Chhattisgarh,923,653,266,4,1576
+08/06/2020,Chhattisgarh,1073,786,283,4,1859
+09/06/2020,Chhattisgarh,1160,848,308,4,2008
+10/06/2020,Chhattisgarh,1240,848,386,6,2088
+11/06/2020,Chhattisgarh,1262,854,402,6,2116
+12/06/2020,Chhattisgarh,1398,945,447,6,2343
+13/06/2020,Chhattisgarh,1429,873,550,6,2302
+14/06/2020,Chhattisgarh,1512,875,631,6,2387
+15/06/2020,Chhattisgarh,1662,891,763,8,2553
+16/06/2020,Chhattisgarh,1756,858,890,8,2614
+17/06/2020,Chhattisgarh,1781,736,1036,9,2517
+18/06/2020,Chhattisgarh,1864,674,1180,10,2538
+19/06/2020,Chhattisgarh,1946,708,1228,10,2654
+20/06/2020,Chhattisgarh,2028,687,1331,10,2715
+21/06/2020,Chhattisgarh,2041,636,1394,11,2677
+22/06/2020,Chhattisgarh,2275,817,1447,11,3092
+23/06/2020,Chhattisgarh,2303,778,1513,12,3081
+24/06/2020,Chhattisgarh,2362,797,1553,12,3159
+25/06/2020,Chhattisgarh,2419,780,1627,12,3199
+26/06/2020,Chhattisgarh,2452,685,1755,12,3137
+27/06/2020,Chhattisgarh,2545,618,1914,13,3163
+28/06/2020,Chhattisgarh,2545,618,1914,13,3163
+29/06/2020,Chhattisgarh,2662,558,2091,13,3220
+30/06/2020,Chhattisgarh,2761,575,2173,13,3336
+09/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+10/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+11/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+12/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+13/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+14/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+15/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+16/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+17/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+18/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+19/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+20/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+21/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+22/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+23/05/2020,Dadra and Nagar Haveli,1,1,0,0,2
+24/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+25/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+26/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+27/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+28/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+29/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+30/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+31/05/2020,Dadra and Nagar Haveli,2,2,0,0,4
+01/06/2020,Dadra and Nagar Haveli,2,2,0,0,4
+02/06/2020,Dadra and Nagar Haveli,3,2,1,0,5
+03/06/2020,Dadra and Nagar Haveli,4,3,1,0,7
+04/06/2020,Dadra and Nagar Haveli,8,7,1,0,15
+05/06/2020,Dadra and Nagar Haveli,12,11,1,0,23
+06/06/2020,Dadra and Nagar Haveli,14,13,1,0,27
+07/06/2020,Dadra and Nagar Haveli,19,18,1,0,37
+08/06/2020,Dadra and Nagar Haveli,20,18,2,0,38
+09/06/2020,Dadra and Nagar Haveli,22,20,2,0,42
+10/06/2020,Dadra and Nagar Haveli,22,20,2,0,42
+11/06/2020,Dadra and Nagar Haveli,28,26,2,0,54
+12/06/2020,Dadra and Nagar Haveli,30,28,2,0,58
+13/06/2020,Dadra and Nagar Haveli,30,28,2,0,58
+14/06/2020,Dadra and Nagar Haveli,35,33,2,0,68
+15/06/2020,Dadra and Nagar Haveli,36,34,2,0,70
+16/06/2020,Dadra and Nagar Haveli,36,31,5,0,67
+17/06/2020,Dadra and Nagar Haveli,45,36,9,0,81
+18/06/2020,Dadra and Nagar Haveli,57,45,12,0,102
+19/06/2020,Dadra and Nagar Haveli,58,45,13,0,103
+20/06/2020,Dadra and Nagar Haveli,62,48,14,0,110
+21/06/2020,Dadra and Nagar Haveli,68,42,26,0,110
+22/06/2020,Dadra and Nagar Haveli,88,62,26,0,150
+23/06/2020,Dadra and Nagar Haveli,91,64,27,0,155
+24/06/2020,Dadra and Nagar Haveli,120,91,29,0,211
+25/06/2020,Dadra and Nagar Haveli,120,90,30,0,210
+26/06/2020,Dadra and Nagar Haveli,155,123,32,0,278
+27/06/2020,Dadra and Nagar Haveli,163,122,41,0,285
+28/06/2020,Dadra and Nagar Haveli,177,122,55,0,299
+29/06/2020,Dadra and Nagar Haveli,178,118,60,0,296
+30/06/2020,Dadra and Nagar Haveli,203,126,77,0,329
+24/03/2020,Delhi,31,24,6,1,55
+25/03/2020,Delhi,30,22,6,2,52
+26/03/2020,Delhi,35,28,6,1,63
+27/03/2020,Delhi,36,29,6,1,65
+28/03/2020,Delhi,39,32,6,1,71
+29/03/2020,Delhi,39,31,6,2,70
+30/03/2020,Delhi,53,45,6,2,98
+31/03/2020,Delhi,97,89,6,2,186
+01/04/2020,Delhi,120,112,6,2,232
+02/04/2020,Delhi,152,144,6,2,296
+03/04/2020,Delhi,219,207,8,4,426
+04/04/2020,Delhi,386,372,8,6,758
+05/04/2020,Delhi,445,424,15,6,869
+06/04/2020,Delhi,503,478,18,7,981
+07/04/2020,Delhi,523,497,19,7,1020
+08/04/2020,Delhi,576,546,21,9,1122
+09/04/2020,Delhi,669,639,21,9,1308
+10/04/2020,Delhi,720,683,25,12,1403
+11/04/2020,Delhi,903,865,25,13,1768
+12/04/2020,Delhi,1069,1025,25,19,2094
+13/04/2020,Delhi,1154,1103,27,24,2257
+14/04/2020,Delhi,1510,1452,30,28,2962
+15/04/2020,Delhi,1561,1501,30,30,3062
+16/04/2020,Delhi,1578,1506,40,32,3084
+17/04/2020,Delhi,1640,1551,51,38,3191
+18/04/2020,Delhi,1707,1593,72,42,3300
+19/04/2020,Delhi,1893,1779,72,42,3672
+20/04/2020,Delhi,2003,1886,72,45,3889
+21/04/2020,Delhi,2081,1603,431,47,3684
+22/04/2020,Delhi,2156,1498,611,47,3654
+23/04/2020,Delhi,2248,1476,724,48,3724
+24/04/2020,Delhi,2376,1518,808,50,3894
+25/04/2020,Delhi,2514,1604,857,53,4118
+26/04/2020,Delhi,2625,1702,869,54,4327
+27/04/2020,Delhi,2918,1987,877,54,4905
+28/04/2020,Delhi,3108,2177,877,54,5285
+29/04/2020,Delhi,3314,2182,1078,54,5496
+30/04/2020,Delhi,3439,2291,1092,56,5730
+01/05/2020,Delhi,3515,2362,1094,59,5877
+02/05/2020,Delhi,3738,2510,1167,61,6248
+03/05/2020,Delhi,4122,2802,1256,64,6924
+04/05/2020,Delhi,4549,3123,1362,64,7672
+05/05/2020,Delhi,4898,3403,1431,64,8301
+06/05/2020,Delhi,5104,3572,1468,64,8676
+07/05/2020,Delhi,5532,3925,1542,65,9457
+08/05/2020,Delhi,5980,3983,1931,66,9963
+09/05/2020,Delhi,6318,4230,2020,68,10548
+10/05/2020,Delhi,6542,4449,2020,73,10991
+11/05/2020,Delhi,6923,4781,2069,73,11704
+12/05/2020,Delhi,7233,5031,2129,73,12264
+13/05/2020,Delhi,7639,5041,2512,86,12680
+14/05/2020,Delhi,7998,5034,2858,106,13032
+15/05/2020,Delhi,8470,5310,3045,115,13780
+16/05/2020,Delhi,8895,5254,3518,123,14149
+17/05/2020,Delhi,9333,5278,3926,129,14611
+18/05/2020,Delhi,10054,5409,4485,160,15463
+19/05/2020,Delhi,10054,5401,4485,168,15455
+20/05/2020,Delhi,10554,5636,4750,168,16190
+21/05/2020,Delhi,11088,5720,5192,176,16808
+22/05/2020,Delhi,11659,5898,5567,194,17557
+23/05/2020,Delhi,12319,6214,5897,208,18533
+24/05/2020,Delhi,12910,6412,6267,231,19322
+25/05/2020,Delhi,13418,6617,6540,261,20035
+26/05/2020,Delhi,14053,7006,6771,276,21059
+27/05/2020,Delhi,14465,6954,7223,288,21419
+28/05/2020,Delhi,15257,7690,7264,303,22947
+29/05/2020,Delhi,16281,8470,7495,316,24751
+30/05/2020,Delhi,17386,9142,7846,398,26528
+31/05/2020,Delhi,18549,10058,8075,416,28607
+01/06/2020,Delhi,19844,10893,8478,473,30737
+02/06/2020,Delhi,20834,11565,8746,523,32399
+03/06/2020,Delhi,22132,12333,9243,556,34465
+04/06/2020,Delhi,23645,13497,9542,606,37142
+05/06/2020,Delhi,25004,14456,9898,650,39460
+06/06/2020,Delhi,26334,15311,10315,708,41645
+07/06/2020,Delhi,27654,16229,10664,761,43883
+08/06/2020,Delhi,27654,16229,10664,761,43883
+09/06/2020,Delhi,29943,17712,11357,874,47655
+10/06/2020,Delhi,31309,18543,11861,905,49852
+11/06/2020,Delhi,32810,19581,12245,984,52391
+12/06/2020,Delhi,34687,20871,12731,1085,55558
+13/06/2020,Delhi,36824,22212,13398,1214,59036
+14/06/2020,Delhi,38958,22742,14945,1271,61700
+15/06/2020,Delhi,41182,24032,15823,1327,65214
+16/06/2020,Delhi,42829,25002,16427,1400,67831
+17/06/2020,Delhi,44688,26351,16500,1837,71039
+18/06/2020,Delhi,47102,27741,17457,1904,74843
+19/06/2020,Delhi,49979,26669,21341,1969,76648
+20/06/2020,Delhi,53116,27512,23569,2035,80628
+21/06/2020,Delhi,56746,23340,31294,2112,80086
+22/06/2020,Delhi,59746,24558,33013,2175,84304
+23/06/2020,Delhi,62655,23820,36602,2233,86475
+24/06/2020,Delhi,66602,24988,39313,2301,91590
+25/06/2020,Delhi,70390,26588,41437,2365,96978
+26/06/2020,Delhi,73780,26586,44765,2429,100366
+27/06/2020,Delhi,77240,27657,47091,2492,104897
+28/06/2020,Delhi,80188,28329,49301,2558,108517
+29/06/2020,Delhi,83077,27847,52607,2623,110924
+30/06/2020,Delhi,85161,26246,56235,2680,111407
+26/03/2020,Goa,3,3,0,0,6
+27/03/2020,Goa,3,3,0,0,6
+28/03/2020,Goa,3,3,0,0,6
+29/03/2020,Goa,3,3,0,0,6
+30/03/2020,Goa,5,5,0,0,10
+31/03/2020,Goa,5,5,0,0,10
+01/04/2020,Goa,5,5,0,0,10
+02/04/2020,Goa,5,5,0,0,10
+03/04/2020,Goa,6,6,0,0,12
+04/04/2020,Goa,6,6,0,0,12
+05/04/2020,Goa,7,7,0,0,14
+06/04/2020,Goa,7,7,0,0,14
+07/04/2020,Goa,7,7,0,0,14
+08/04/2020,Goa,7,7,0,0,14
+09/04/2020,Goa,7,7,0,0,14
+10/04/2020,Goa,7,7,0,0,14
+11/04/2020,Goa,7,6,1,0,13
+12/04/2020,Goa,7,2,5,0,9
+13/04/2020,Goa,7,2,5,0,9
+14/04/2020,Goa,7,2,5,0,9
+15/04/2020,Goa,7,2,5,0,9
+16/04/2020,Goa,7,2,5,0,9
+17/04/2020,Goa,7,1,6,0,8
+18/04/2020,Goa,7,1,6,0,8
+19/04/2020,Goa,7,1,6,0,8
+20/04/2020,Goa,7,0,7,0,7
+21/04/2020,Goa,7,0,7,0,7
+22/04/2020,Goa,7,0,7,0,7
+23/04/2020,Goa,7,0,7,0,7
+24/04/2020,Goa,7,0,7,0,7
+25/04/2020,Goa,7,0,7,0,7
+26/04/2020,Goa,7,0,7,0,7
+27/04/2020,Goa,7,0,7,0,7
+28/04/2020,Goa,7,0,7,0,7
+29/04/2020,Goa,7,0,7,0,7
+30/04/2020,Goa,7,0,7,0,7
+01/05/2020,Goa,7,0,7,0,7
+02/05/2020,Goa,7,0,7,0,7
+03/05/2020,Goa,7,0,7,0,7
+04/05/2020,Goa,7,0,7,0,7
+05/05/2020,Goa,7,0,7,0,7
+06/05/2020,Goa,7,0,7,0,7
+07/05/2020,Goa,7,0,7,0,7
+08/05/2020,Goa,7,0,7,0,7
+09/05/2020,Goa,7,0,7,0,7
+10/05/2020,Goa,7,0,7,0,7
+11/05/2020,Goa,7,0,7,0,7
+12/05/2020,Goa,7,0,7,0,7
+13/05/2020,Goa,7,0,7,0,7
+14/05/2020,Goa,7,0,7,0,7
+15/05/2020,Goa,14,7,7,0,21
+16/05/2020,Goa,15,8,7,0,23
+17/05/2020,Goa,17,10,7,0,27
+18/05/2020,Goa,29,22,7,0,51
+19/05/2020,Goa,38,31,7,0,69
+20/05/2020,Goa,46,39,7,0,85
+21/05/2020,Goa,50,43,7,0,93
+22/05/2020,Goa,52,45,7,0,97
+23/05/2020,Goa,54,38,16,0,92
+24/05/2020,Goa,55,39,16,0,94
+25/05/2020,Goa,66,47,19,0,113
+26/05/2020,Goa,67,48,19,0,115
+27/05/2020,Goa,67,39,28,0,106
+28/05/2020,Goa,68,31,37,0,99
+29/05/2020,Goa,69,31,38,0,100
+30/05/2020,Goa,69,28,41,0,97
+31/05/2020,Goa,70,29,41,0,99
+01/06/2020,Goa,70,28,42,0,98
+02/06/2020,Goa,71,29,42,0,100
+03/06/2020,Goa,79,22,57,0,101
+04/06/2020,Goa,79,22,57,0,101
+05/06/2020,Goa,166,109,57,0,275
+06/06/2020,Goa,196,131,65,0,327
+07/06/2020,Goa,267,202,65,0,469
+08/06/2020,Goa,300,235,65,0,535
+09/06/2020,Goa,330,263,67,0,593
+10/06/2020,Goa,359,292,67,0,651
+11/06/2020,Goa,387,320,67,0,707
+12/06/2020,Goa,417,350,67,0,767
+13/06/2020,Goa,463,394,69,0,857
+14/06/2020,Goa,523,453,70,0,976
+15/06/2020,Goa,564,490,74,0,1054
+16/06/2020,Goa,592,507,85,0,1099
+17/06/2020,Goa,629,544,85,0,1173
+18/06/2020,Goa,656,560,96,0,1216
+19/06/2020,Goa,705,596,109,0,1301
+20/06/2020,Goa,725,607,118,0,1332
+21/06/2020,Goa,754,625,129,0,1379
+22/06/2020,Goa,754,625,129,0,1379
+23/06/2020,Goa,864,711,152,1,1575
+24/06/2020,Goa,909,703,205,1,1612
+25/06/2020,Goa,951,660,289,2,1611
+26/06/2020,Goa,995,658,335,2,1653
+27/06/2020,Goa,1039,667,370,2,1706
+28/06/2020,Goa,1128,706,420,2,1834
+29/06/2020,Goa,1198,717,478,3,1915
+30/06/2020,Goa,1198,717,478,3,1915
+24/03/2020,Gujarat,29,28,0,1,57
+25/03/2020,Gujarat,33,32,0,1,65
+26/03/2020,Gujarat,38,36,0,2,74
+27/03/2020,Gujarat,43,40,0,3,83
+28/03/2020,Gujarat,45,42,0,3,87
+29/03/2020,Gujarat,53,49,0,4,102
+30/03/2020,Gujarat,58,52,1,5,110
+31/03/2020,Gujarat,73,64,3,6,137
+01/04/2020,Gujarat,74,63,5,6,137
+02/04/2020,Gujarat,82,71,5,6,153
+03/04/2020,Gujarat,87,72,8,7,159
+04/04/2020,Gujarat,95,76,10,9,171
+05/04/2020,Gujarat,105,81,14,10,186
+06/04/2020,Gujarat,122,93,18,11,215
+07/04/2020,Gujarat,144,110,22,12,254
+08/04/2020,Gujarat,165,127,25,13,292
+09/04/2020,Gujarat,179,138,25,16,317
+10/04/2020,Gujarat,241,198,26,17,439
+11/04/2020,Gujarat,308,258,31,19,566
+12/04/2020,Gujarat,432,366,44,22,798
+13/04/2020,Gujarat,516,447,44,25,963
+14/04/2020,Gujarat,539,459,54,26,998
+15/04/2020,Gujarat,650,563,59,28,1213
+16/04/2020,Gujarat,766,669,64,33,1435
+17/04/2020,Gujarat,930,821,73,36,1751
+18/04/2020,Gujarat,1099,972,86,41,2071
+19/04/2020,Gujarat,1376,1230,93,53,2606
+20/04/2020,Gujarat,1743,1575,105,63,3318
+21/04/2020,Gujarat,1939,1737,131,71,3676
+22/04/2020,Gujarat,2178,1949,139,90,4127
+23/04/2020,Gujarat,2407,2125,179,103,4532
+24/04/2020,Gujarat,2624,2254,258,112,4878
+25/04/2020,Gujarat,2815,2423,265,127,5238
+26/04/2020,Gujarat,3071,2656,282,133,5727
+27/04/2020,Gujarat,3301,2837,313,151,6138
+28/04/2020,Gujarat,3548,2992,394,162,6540
+29/04/2020,Gujarat,3744,3129,434,181,6873
+30/04/2020,Gujarat,4082,3358,527,197,7440
+01/05/2020,Gujarat,4395,3568,613,214,7963
+02/05/2020,Gujarat,4721,3750,735,236,8471
+03/05/2020,Gujarat,5054,3896,896,262,8950
+04/05/2020,Gujarat,5428,4096,1042,290,9524
+05/05/2020,Gujarat,5804,4290,1195,319,10094
+06/05/2020,Gujarat,6245,4496,1381,368,10741
+07/05/2020,Gujarat,6625,4729,1500,396,11354
+08/05/2020,Gujarat,7012,4878,1709,425,11890
+09/05/2020,Gujarat,7402,5081,1872,449,12483
+10/05/2020,Gujarat,7796,5233,2091,472,13029
+11/05/2020,Gujarat,8194,5156,2545,493,13350
+12/05/2020,Gujarat,8541,5248,2780,513,13789
+13/05/2020,Gujarat,8903,5120,3246,537,14023
+14/05/2020,Gujarat,9267,5139,3562,566,14406
+15/05/2020,Gujarat,9591,5252,3753,586,14843
+16/05/2020,Gujarat,9931,5290,4035,606,15221
+17/05/2020,Gujarat,10988,6055,4308,625,17043
+18/05/2020,Gujarat,11379,6221,4499,659,17600
+19/05/2020,Gujarat,11745,6247,4804,694,17992
+20/05/2020,Gujarat,12140,6378,5043,719,18518
+21/05/2020,Gujarat,12537,6569,5219,749,19106
+22/05/2020,Gujarat,12905,6644,5488,773,19549
+23/05/2020,Gujarat,13268,6586,5880,802,19854
+24/05/2020,Gujarat,13664,6666,6169,829,20330
+25/05/2020,Gujarat,14056,6786,6412,858,20842
+26/05/2020,Gujarat,14460,6936,6636,888,21396
+27/05/2020,Gujarat,14821,6767,7139,915,21588
+28/05/2020,Gujarat,15195,6708,7549,938,21903
+29/05/2020,Gujarat,15562,6599,8003,960,22161
+30/05/2020,Gujarat,15934,6343,8611,980,22277
+31/05/2020,Gujarat,16343,6106,9230,1007,22449
+01/06/2020,Gujarat,16779,5822,9919,1038,22601
+02/06/2020,Gujarat,17200,5357,10780,1063,22557
+03/06/2020,Gujarat,17617,4631,11894,1092,22248
+04/06/2020,Gujarat,18100,4766,12212,1122,22866
+05/06/2020,Gujarat,18584,4762,12667,1155,23346
+06/06/2020,Gujarat,19094,4901,13003,1190,23995
+07/06/2020,Gujarat,19592,5057,13316,1219,24649
+08/06/2020,Gujarat,20070,5186,13635,1249,25256
+09/06/2020,Gujarat,20545,5309,13956,1280,25854
+10/06/2020,Gujarat,21014,5336,14365,1313,26350
+11/06/2020,Gujarat,21521,5439,14735,1347,26960
+12/06/2020,Gujarat,22032,5546,15101,1385,27578
+13/06/2020,Gujarat,22527,5619,15493,1415,28146
+14/06/2020,Gujarat,23038,5707,15883,1448,28745
+15/06/2020,Gujarat,23544,5742,16325,1477,29286
+16/06/2020,Gujarat,24055,5886,16664,1505,29941
+17/06/2020,Gujarat,24577,5962,17082,1533,30539
+18/06/2020,Gujarat,25093,6103,17430,1560,31196
+19/06/2020,Gujarat,25601,6191,17819,1591,31792
+20/06/2020,Gujarat,26141,6364,18159,1618,32505
+21/06/2020,Gujarat,26680,6348,18694,1638,33028
+22/06/2020,Gujarat,27260,6248,19349,1663,33508
+23/06/2020,Gujarat,27825,6232,19909,1684,34057
+24/06/2020,Gujarat,28371,6148,20513,1710,34519
+25/06/2020,Gujarat,28943,6120,21088,1735,35063
+26/06/2020,Gujarat,29520,6269,21498,1753,35789
+27/06/2020,Gujarat,30095,6294,22030,1771,36389
+28/06/2020,Gujarat,30709,6511,22409,1789,37220
+29/06/2020,Gujarat,31320,6712,22800,1808,38032
+30/06/2020,Gujarat,31938,6871,23240,1827,38809
+24/03/2020,Haryana,26,15,11,0,41
+25/03/2020,Haryana,28,17,11,0,45
+26/03/2020,Haryana,30,19,11,0,49
+27/03/2020,Haryana,30,19,11,0,49
+28/03/2020,Haryana,33,21,12,0,54
+29/03/2020,Haryana,33,21,12,0,54
+30/03/2020,Haryana,33,16,17,0,49
+31/03/2020,Haryana,40,19,21,0,59
+01/04/2020,Haryana,43,22,21,0,65
+02/04/2020,Haryana,43,22,21,0,65
+03/04/2020,Haryana,43,22,21,0,65
+04/04/2020,Haryana,49,25,24,0,74
+05/04/2020,Haryana,49,25,24,0,74
+06/04/2020,Haryana,84,58,25,1,142
+07/04/2020,Haryana,90,64,25,1,154
+08/04/2020,Haryana,147,116,28,3,263
+09/04/2020,Haryana,147,116,28,3,263
+10/04/2020,Haryana,169,137,29,3,306
+11/04/2020,Haryana,177,145,29,3,322
+12/04/2020,Haryana,177,145,29,3,322
+13/04/2020,Haryana,185,153,29,3,338
+14/04/2020,Haryana,185,153,29,3,338
+15/04/2020,Haryana,199,162,34,3,361
+16/04/2020,Haryana,205,159,43,3,364
+17/04/2020,Haryana,205,159,43,3,364
+18/04/2020,Haryana,225,179,43,3,404
+19/04/2020,Haryana,225,179,43,3,404
+20/04/2020,Haryana,233,143,87,3,376
+21/04/2020,Haryana,254,124,127,3,378
+22/04/2020,Haryana,254,124,127,3,378
+23/04/2020,Haryana,262,119,140,3,381
+24/04/2020,Haryana,272,113,156,3,385
+25/04/2020,Haryana,272,113,156,3,385
+26/04/2020,Haryana,289,110,176,3,399
+27/04/2020,Haryana,289,110,176,3,399
+28/04/2020,Haryana,296,110,183,3,406
+29/04/2020,Haryana,310,98,209,3,408
+30/04/2020,Haryana,310,98,209,3,408
+01/05/2020,Haryana,313,101,209,3,414
+02/05/2020,Haryana,360,129,227,4,489
+03/05/2020,Haryana,360,129,227,4,489
+04/05/2020,Haryana,442,192,245,5,634
+05/05/2020,Haryana,517,257,254,6,774
+06/05/2020,Haryana,548,286,256,6,834
+07/05/2020,Haryana,594,327,260,7,921
+08/05/2020,Haryana,625,358,260,7,983
+09/05/2020,Haryana,647,360,279,8,1007
+10/05/2020,Haryana,675,376,290,9,1051
+11/05/2020,Haryana,703,393,300,10,1096
+12/05/2020,Haryana,730,382,337,11,1112
+13/05/2020,Haryana,780,427,342,11,1207
+14/05/2020,Haryana,793,364,418,11,1157
+15/05/2020,Haryana,818,368,439,11,1186
+16/05/2020,Haryana,818,368,439,11,1186
+17/05/2020,Haryana,887,360,514,13,1247
+18/05/2020,Haryana,910,334,562,14,1244
+19/05/2020,Haryana,928,316,598,14,1244
+20/05/2020,Haryana,964,323,627,14,1287
+21/05/2020,Haryana,993,331,648,14,1324
+22/05/2020,Haryana,1031,335,681,15,1366
+23/05/2020,Haryana,1067,345,706,16,1412
+24/05/2020,Haryana,1131,365,750,16,1496
+25/05/2020,Haryana,1184,403,765,16,1587
+26/05/2020,Haryana,1184,403,765,16,1587
+27/05/2020,Haryana,1305,464,824,17,1769
+28/05/2020,Haryana,1381,525,838,18,1906
+29/05/2020,Haryana,1504,604,881,19,2108
+30/05/2020,Haryana,1721,762,940,19,2483
+31/05/2020,Haryana,1923,932,971,20,2855
+01/06/2020,Haryana,2091,1023,1048,20,3114
+02/06/2020,Haryana,2356,1280,1055,21,3636
+03/06/2020,Haryana,2652,1560,1069,23,4212
+04/06/2020,Haryana,2954,1842,1089,23,4796
+05/06/2020,Haryana,3281,1123,2134,24,4404
+06/06/2020,Haryana,3597,1439,2134,24,5036
+07/06/2020,Haryana,3952,1794,2134,24,5746
+08/06/2020,Haryana,4448,2286,2134,28,6734
+09/06/2020,Haryana,4854,2681,2134,39,7535
+10/06/2020,Haryana,5209,3030,2134,45,8239
+11/06/2020,Haryana,5579,3339,2188,52,8918
+12/06/2020,Haryana,5968,3644,2260,64,9612
+13/06/2020,Haryana,6334,3789,2475,70,10123
+14/06/2020,Haryana,6749,3868,2803,78,10617
+15/06/2020,Haryana,7208,4117,3003,88,11325
+16/06/2020,Haryana,7722,4057,3565,100,11779
+17/06/2020,Haryana,8272,4406,3748,118,12678
+18/06/2020,Haryana,8832,4750,3952,130,13582
+19/06/2020,Haryana,9218,4528,4556,134,13746
+20/06/2020,Haryana,9743,4710,4889,144,14453
+21/06/2020,Haryana,10223,4946,5128,149,15169
+22/06/2020,Haryana,10635,4918,5557,160,15553
+23/06/2020,Haryana,11025,4940,5916,169,15965
+24/06/2020,Haryana,11520,4844,6498,178,16364
+25/06/2020,Haryana,12010,4897,6925,188,16907
+26/06/2020,Haryana,12463,4885,7380,198,17348
+27/06/2020,Haryana,12884,4657,8016,211,17541
+28/06/2020,Haryana,13427,4737,8472,218,18164
+29/06/2020,Haryana,13829,4689,8917,223,18518
+30/06/2020,Haryana,14210,4476,9502,232,18686
+24/03/2020,Himachal Pradesh,3,2,0,1,5
+25/03/2020,Himachal Pradesh,3,2,0,1,5
+26/03/2020,Himachal Pradesh,3,2,0,1,5
+27/03/2020,Himachal Pradesh,3,2,0,1,5
+28/03/2020,Himachal Pradesh,3,2,0,1,5
+29/03/2020,Himachal Pradesh,3,2,0,1,5
+30/03/2020,Himachal Pradesh,3,2,0,1,5
+31/03/2020,Himachal Pradesh,3,2,0,1,5
+01/04/2020,Himachal Pradesh,3,2,0,1,5
+02/04/2020,Himachal Pradesh,3,1,1,1,4
+03/04/2020,Himachal Pradesh,6,4,1,1,10
+04/04/2020,Himachal Pradesh,6,4,1,1,10
+05/04/2020,Himachal Pradesh,6,4,1,1,10
+06/04/2020,Himachal Pradesh,13,11,1,1,24
+07/04/2020,Himachal Pradesh,13,10,2,1,23
+08/04/2020,Himachal Pradesh,18,15,2,1,33
+09/04/2020,Himachal Pradesh,18,15,2,1,33
+10/04/2020,Himachal Pradesh,18,15,2,1,33
+11/04/2020,Himachal Pradesh,28,21,6,1,49
+12/04/2020,Himachal Pradesh,32,25,6,1,57
+13/04/2020,Himachal Pradesh,32,18,13,1,50
+14/04/2020,Himachal Pradesh,32,18,13,1,50
+15/04/2020,Himachal Pradesh,33,19,13,1,52
+16/04/2020,Himachal Pradesh,35,18,16,1,53
+17/04/2020,Himachal Pradesh,35,18,16,1,53
+18/04/2020,Himachal Pradesh,36,19,16,1,55
+19/04/2020,Himachal Pradesh,39,22,16,1,61
+20/04/2020,Himachal Pradesh,39,22,16,1,61
+21/04/2020,Himachal Pradesh,39,22,16,1,61
+22/04/2020,Himachal Pradesh,39,22,16,1,61
+23/04/2020,Himachal Pradesh,40,21,18,1,61
+24/04/2020,Himachal Pradesh,40,21,18,1,61
+25/04/2020,Himachal Pradesh,40,21,18,1,61
+26/04/2020,Himachal Pradesh,40,17,22,1,57
+27/04/2020,Himachal Pradesh,40,17,22,1,57
+28/04/2020,Himachal Pradesh,40,17,22,1,57
+29/04/2020,Himachal Pradesh,40,14,25,1,54
+30/04/2020,Himachal Pradesh,40,14,25,1,54
+01/05/2020,Himachal Pradesh,40,11,28,1,51
+02/05/2020,Himachal Pradesh,40,9,30,1,49
+03/05/2020,Himachal Pradesh,40,6,33,1,46
+04/05/2020,Himachal Pradesh,40,5,34,1,45
+05/05/2020,Himachal Pradesh,41,6,34,1,47
+06/05/2020,Himachal Pradesh,42,2,38,2,44
+07/05/2020,Himachal Pradesh,45,5,38,2,50
+08/05/2020,Himachal Pradesh,46,6,38,2,52
+09/05/2020,Himachal Pradesh,50,10,38,2,60
+10/05/2020,Himachal Pradesh,50,10,38,2,60
+11/05/2020,Himachal Pradesh,55,14,39,2,69
+12/05/2020,Himachal Pradesh,59,18,39,2,77
+13/05/2020,Himachal Pradesh,65,24,39,2,89
+14/05/2020,Himachal Pradesh,66,25,39,2,91
+15/05/2020,Himachal Pradesh,74,33,39,2,107
+16/05/2020,Himachal Pradesh,76,34,39,3,110
+17/05/2020,Himachal Pradesh,78,32,43,3,110
+18/05/2020,Himachal Pradesh,80,33,44,3,113
+19/05/2020,Himachal Pradesh,90,43,44,3,133
+20/05/2020,Himachal Pradesh,92,42,47,3,134
+21/05/2020,Himachal Pradesh,110,53,54,3,163
+22/05/2020,Himachal Pradesh,152,90,59,3,242
+23/05/2020,Himachal Pradesh,168,106,59,3,274
+24/05/2020,Himachal Pradesh,185,121,61,3,306
+25/05/2020,Himachal Pradesh,203,137,63,3,340
+26/05/2020,Himachal Pradesh,223,151,67,5,374
+27/05/2020,Himachal Pradesh,247,175,67,5,422
+28/05/2020,Himachal Pradesh,273,198,70,5,471
+29/05/2020,Himachal Pradesh,276,201,70,5,477
+30/05/2020,Himachal Pradesh,295,203,87,5,498
+31/05/2020,Himachal Pradesh,313,197,111,5,510
+01/06/2020,Himachal Pradesh,331,206,120,5,537
+02/06/2020,Himachal Pradesh,340,213,122,5,553
+03/06/2020,Himachal Pradesh,345,200,140,5,545
+04/06/2020,Himachal Pradesh,359,204,150,5,563
+05/06/2020,Himachal Pradesh,383,199,179,5,582
+06/06/2020,Himachal Pradesh,393,199,189,5,592
+07/06/2020,Himachal Pradesh,400,201,194,5,601
+08/06/2020,Himachal Pradesh,413,184,224,5,597
+09/06/2020,Himachal Pradesh,421,189,227,5,610
+10/06/2020,Himachal Pradesh,445,191,249,5,636
+11/06/2020,Himachal Pradesh,451,191,254,6,642
+12/06/2020,Himachal Pradesh,470,184,280,6,654
+13/06/2020,Himachal Pradesh,486,183,297,6,669
+14/06/2020,Himachal Pradesh,502,183,313,6,685
+15/06/2020,Himachal Pradesh,518,174,337,7,692
+16/06/2020,Himachal Pradesh,556,195,353,8,751
+17/06/2020,Himachal Pradesh,560,180,372,8,740
+18/06/2020,Himachal Pradesh,569,189,372,8,758
+19/06/2020,Himachal Pradesh,595,205,382,8,800
+20/06/2020,Himachal Pradesh,619,223,388,8,842
+21/06/2020,Himachal Pradesh,656,235,413,8,891
+22/06/2020,Himachal Pradesh,673,240,425,8,913
+23/06/2020,Himachal Pradesh,727,282,437,8,1009
+24/06/2020,Himachal Pradesh,775,324,443,8,1099
+25/06/2020,Himachal Pradesh,806,332,466,8,1138
+26/06/2020,Himachal Pradesh,839,353,477,9,1192
+27/06/2020,Himachal Pradesh,864,353,502,9,1217
+28/06/2020,Himachal Pradesh,894,376,509,9,1270
+29/06/2020,Himachal Pradesh,916,378,529,9,1294
+30/06/2020,Himachal Pradesh,942,377,556,9,1319
+24/03/2020,Jammu and Kashmir,4,4,0,0,8
+25/03/2020,Jammu and Kashmir,4,4,0,0,8
+26/03/2020,Jammu and Kashmir,11,10,1,0,21
+27/03/2020,Jammu and Kashmir,13,11,1,1,24
+28/03/2020,Jammu and Kashmir,20,18,1,1,38
+29/03/2020,Jammu and Kashmir,31,29,1,1,60
+30/03/2020,Jammu and Kashmir,31,28,1,2,59
+31/03/2020,Jammu and Kashmir,54,50,2,2,104
+01/04/2020,Jammu and Kashmir,55,51,2,2,106
+02/04/2020,Jammu and Kashmir,62,58,2,2,120
+03/04/2020,Jammu and Kashmir,70,65,3,2,135
+04/04/2020,Jammu and Kashmir,75,70,3,2,145
+05/04/2020,Jammu and Kashmir,92,86,4,2,178
+06/04/2020,Jammu and Kashmir,106,100,4,2,206
+07/04/2020,Jammu and Kashmir,109,103,4,2,212
+08/04/2020,Jammu and Kashmir,116,110,4,2,226
+09/04/2020,Jammu and Kashmir,158,150,4,4,308
+10/04/2020,Jammu and Kashmir,158,150,4,4,308
+11/04/2020,Jammu and Kashmir,207,197,6,4,404
+12/04/2020,Jammu and Kashmir,207,197,6,4,404
+13/04/2020,Jammu and Kashmir,245,235,6,4,480
+14/04/2020,Jammu and Kashmir,270,250,16,4,520
+15/04/2020,Jammu and Kashmir,278,244,30,4,522
+16/04/2020,Jammu and Kashmir,300,260,36,4,560
+17/04/2020,Jammu and Kashmir,314,272,38,4,586
+18/04/2020,Jammu and Kashmir,328,281,42,5,609
+19/04/2020,Jammu and Kashmir,341,285,51,5,626
+20/04/2020,Jammu and Kashmir,350,289,56,5,639
+21/04/2020,Jammu and Kashmir,368,292,71,5,660
+22/04/2020,Jammu and Kashmir,380,294,81,5,674
+23/04/2020,Jammu and Kashmir,407,310,92,5,717
+24/04/2020,Jammu and Kashmir,427,330,92,5,757
+25/04/2020,Jammu and Kashmir,454,340,109,5,794
+26/04/2020,Jammu and Kashmir,494,376,112,6,870
+27/04/2020,Jammu and Kashmir,523,380,137,6,903
+28/04/2020,Jammu and Kashmir,546,375,164,7,921
+29/04/2020,Jammu and Kashmir,565,381,176,8,946
+30/04/2020,Jammu and Kashmir,581,381,192,8,962
+01/05/2020,Jammu and Kashmir,614,390,216,8,1004
+02/05/2020,Jammu and Kashmir,639,384,247,8,1023
+03/05/2020,Jammu and Kashmir,666,404,254,8,1070
+04/05/2020,Jammu and Kashmir,701,406,287,8,1107
+05/05/2020,Jammu and Kashmir,726,415,303,8,1141
+06/05/2020,Jammu and Kashmir,741,413,320,8,1154
+07/05/2020,Jammu and Kashmir,775,445,322,8,1220
+08/05/2020,Jammu and Kashmir,793,449,335,9,1242
+09/05/2020,Jammu and Kashmir,823,450,364,9,1273
+10/05/2020,Jammu and Kashmir,836,459,368,9,1295
+11/05/2020,Jammu and Kashmir,861,469,383,9,1330
+12/05/2020,Jammu and Kashmir,879,442,427,10,1321
+13/05/2020,Jammu and Kashmir,934,469,455,10,1403
+14/05/2020,Jammu and Kashmir,971,494,466,11,1465
+15/05/2020,Jammu and Kashmir,983,487,485,11,1470
+16/05/2020,Jammu and Kashmir,1013,489,513,11,1502
+17/05/2020,Jammu and Kashmir,1121,567,542,12,1688
+18/05/2020,Jammu and Kashmir,1183,595,575,13,1778
+19/05/2020,Jammu and Kashmir,1289,665,609,15,1954
+20/05/2020,Jammu and Kashmir,1317,647,653,17,1964
+21/05/2020,Jammu and Kashmir,1390,694,678,18,2084
+22/05/2020,Jammu and Kashmir,1449,745,684,20,2194
+23/05/2020,Jammu and Kashmir,1489,749,720,20,2238
+24/05/2020,Jammu and Kashmir,1569,774,774,21,2343
+25/05/2020,Jammu and Kashmir,1621,791,809,21,2412
+26/05/2020,Jammu and Kashmir,1668,836,809,23,2504
+27/05/2020,Jammu and Kashmir,1759,902,833,24,2661
+28/05/2020,Jammu and Kashmir,1921,1041,854,26,2962
+29/05/2020,Jammu and Kashmir,2036,1150,859,27,3186
+30/05/2020,Jammu and Kashmir,2164,1261,875,28,3425
+31/05/2020,Jammu and Kashmir,2341,1405,908,28,3746
+01/06/2020,Jammu and Kashmir,2446,1491,927,28,3937
+02/06/2020,Jammu and Kashmir,2601,1624,946,31,4225
+03/06/2020,Jammu and Kashmir,2718,1732,953,33,4450
+04/06/2020,Jammu and Kashmir,2857,1816,1007,34,4673
+05/06/2020,Jammu and Kashmir,3142,2059,1048,35,5201
+06/06/2020,Jammu and Kashmir,3324,2202,1086,36,5526
+07/06/2020,Jammu and Kashmir,3467,2302,1126,39,5769
+08/06/2020,Jammu and Kashmir,4087,2830,1216,41,6917
+09/06/2020,Jammu and Kashmir,4285,2916,1324,45,7201
+10/06/2020,Jammu and Kashmir,4346,2792,1506,48,7138
+11/06/2020,Jammu and Kashmir,4507,2785,1671,51,7292
+12/06/2020,Jammu and Kashmir,4574,2702,1820,52,7276
+13/06/2020,Jammu and Kashmir,4730,2591,2086,53,7321
+14/06/2020,Jammu and Kashmir,4878,2554,2269,55,7432
+15/06/2020,Jammu and Kashmir,5041,2593,2389,59,7634
+16/06/2020,Jammu and Kashmir,5220,2554,2604,62,7774
+17/06/2020,Jammu and Kashmir,5298,2454,2781,63,7752
+18/06/2020,Jammu and Kashmir,5406,2427,2914,65,7833
+19/06/2020,Jammu and Kashmir,5555,2340,3144,71,7895
+20/06/2020,Jammu and Kashmir,5680,2411,3194,75,8091
+21/06/2020,Jammu and Kashmir,5834,2417,3336,81,8251
+22/06/2020,Jammu and Kashmir,5956,2492,3382,82,8448
+23/06/2020,Jammu and Kashmir,6088,2472,3531,85,8560
+24/06/2020,Jammu and Kashmir,6236,2507,3642,87,8743
+25/06/2020,Jammu and Kashmir,6422,2516,3818,88,8938
+26/06/2020,Jammu and Kashmir,6549,2492,3967,90,9041
+27/06/2020,Jammu and Kashmir,6762,2591,4080,91,9353
+28/06/2020,Jammu and Kashmir,6966,2648,4225,93,9614
+29/06/2020,Jammu and Kashmir,7093,2683,4316,94,9776
+30/06/2020,Jammu and Kashmir,7237,2557,4585,95,9794
+02/04/2020,Jharkhand,1,1,0,0,2
+03/04/2020,Jharkhand,2,2,0,0,4
+04/04/2020,Jharkhand,2,2,0,0,4
+05/04/2020,Jharkhand,2,2,0,0,4
+06/04/2020,Jharkhand,3,3,0,0,6
+07/04/2020,Jharkhand,4,4,0,0,8
+08/04/2020,Jharkhand,4,4,0,0,8
+09/04/2020,Jharkhand,4,4,0,0,8
+10/04/2020,Jharkhand,13,12,0,1,25
+11/04/2020,Jharkhand,14,13,0,1,27
+12/04/2020,Jharkhand,17,16,0,1,33
+13/04/2020,Jharkhand,19,17,0,2,36
+14/04/2020,Jharkhand,24,22,0,2,46
+15/04/2020,Jharkhand,27,25,0,2,52
+16/04/2020,Jharkhand,28,26,0,2,54
+17/04/2020,Jharkhand,28,26,0,2,54
+18/04/2020,Jharkhand,33,31,0,2,64
+19/04/2020,Jharkhand,34,32,0,2,66
+20/04/2020,Jharkhand,42,40,0,2,82
+21/04/2020,Jharkhand,46,44,0,2,90
+22/04/2020,Jharkhand,45,42,0,3,87
+23/04/2020,Jharkhand,49,38,8,3,87
+24/04/2020,Jharkhand,53,42,8,3,95
+25/04/2020,Jharkhand,57,46,8,3,103
+26/04/2020,Jharkhand,67,51,13,3,118
+27/04/2020,Jharkhand,82,66,13,3,148
+28/04/2020,Jharkhand,82,66,13,3,148
+29/04/2020,Jharkhand,103,83,17,3,186
+30/04/2020,Jharkhand,107,85,19,3,192
+01/05/2020,Jharkhand,109,86,20,3,195
+02/05/2020,Jharkhand,111,88,20,3,199
+03/05/2020,Jharkhand,115,90,22,3,205
+04/05/2020,Jharkhand,115,90,22,3,205
+05/05/2020,Jharkhand,115,85,27,3,200
+06/05/2020,Jharkhand,125,89,33,3,214
+07/05/2020,Jharkhand,127,87,37,3,214
+08/05/2020,Jharkhand,132,88,41,3,220
+09/05/2020,Jharkhand,132,77,52,3,209
+10/05/2020,Jharkhand,156,75,78,3,231
+11/05/2020,Jharkhand,157,76,78,3,233
+12/05/2020,Jharkhand,160,79,78,3,239
+13/05/2020,Jharkhand,172,90,79,3,262
+14/05/2020,Jharkhand,173,91,79,3,264
+15/05/2020,Jharkhand,197,107,87,3,304
+16/05/2020,Jharkhand,203,113,87,3,316
+17/05/2020,Jharkhand,217,101,113,3,318
+18/05/2020,Jharkhand,223,107,113,3,330
+19/05/2020,Jharkhand,223,107,113,3,330
+20/05/2020,Jharkhand,231,101,127,3,332
+21/05/2020,Jharkhand,231,101,127,3,332
+22/05/2020,Jharkhand,290,158,129,3,448
+23/05/2020,Jharkhand,308,169,136,3,477
+24/05/2020,Jharkhand,350,205,141,4,555
+25/05/2020,Jharkhand,370,218,148,4,588
+26/05/2020,Jharkhand,377,225,148,4,602
+27/05/2020,Jharkhand,426,247,175,4,673
+28/05/2020,Jharkhand,448,259,185,4,707
+29/05/2020,Jharkhand,469,253,212,4,722
+30/05/2020,Jharkhand,511,290,216,5,801
+31/05/2020,Jharkhand,563,302,256,5,865
+01/06/2020,Jharkhand,610,349,256,5,959
+02/06/2020,Jharkhand,659,358,296,5,1017
+03/06/2020,Jharkhand,712,387,320,5,1099
+04/06/2020,Jharkhand,752,426,321,5,1178
+05/06/2020,Jharkhand,793,433,354,6,1226
+06/06/2020,Jharkhand,881,464,410,7,1345
+07/06/2020,Jharkhand,1000,520,473,7,1520
+08/06/2020,Jharkhand,1099,602,490,7,1701
+09/06/2020,Jharkhand,1256,730,519,7,1986
+10/06/2020,Jharkhand,1411,844,559,8,2255
+11/06/2020,Jharkhand,1489,889,592,8,2378
+12/06/2020,Jharkhand,1599,961,630,8,2560
+13/06/2020,Jharkhand,1617,937,672,8,2554
+14/06/2020,Jharkhand,1711,887,816,8,2598
+15/06/2020,Jharkhand,1745,832,905,8,2577
+16/06/2020,Jharkhand,1763,850,905,8,2613
+17/06/2020,Jharkhand,1839,709,1121,9,2548
+18/06/2020,Jharkhand,1895,734,1151,10,2629
+19/06/2020,Jharkhand,1920,711,1198,11,2631
+20/06/2020,Jharkhand,1965,622,1332,11,2587
+21/06/2020,Jharkhand,1965,619,1335,11,2584
+22/06/2020,Jharkhand,2073,656,1406,11,2729
+23/06/2020,Jharkhand,2137,657,1469,11,2794
+24/06/2020,Jharkhand,2185,654,1520,11,2839
+25/06/2020,Jharkhand,2207,626,1570,11,2833
+26/06/2020,Jharkhand,2262,645,1605,12,2907
+27/06/2020,Jharkhand,2290,635,1643,12,2925
+28/06/2020,Jharkhand,2339,603,1724,12,2942
+29/06/2020,Jharkhand,2364,559,1793,12,2923
+30/06/2020,Jharkhand,2426,566,1845,15,2992
+24/03/2020,Karnataka,37,34,2,1,71
+25/03/2020,Karnataka,37,33,3,1,70
+26/03/2020,Karnataka,41,37,3,1,78
+27/03/2020,Karnataka,55,50,3,2,105
+28/03/2020,Karnataka,55,50,3,2,105
+29/03/2020,Karnataka,76,68,5,3,144
+30/03/2020,Karnataka,80,72,5,3,152
+31/03/2020,Karnataka,83,75,5,3,158
+01/04/2020,Karnataka,101,90,8,3,191
+02/04/2020,Karnataka,110,98,9,3,208
+03/04/2020,Karnataka,124,111,10,3,235
+04/04/2020,Karnataka,128,113,12,3,241
+05/04/2020,Karnataka,144,128,12,4,272
+06/04/2020,Karnataka,151,135,12,4,286
+07/04/2020,Karnataka,151,135,12,4,286
+08/04/2020,Karnataka,175,146,25,4,321
+09/04/2020,Karnataka,181,148,28,5,329
+10/04/2020,Karnataka,181,148,28,5,329
+11/04/2020,Karnataka,207,170,31,6,377
+12/04/2020,Karnataka,214,171,37,6,385
+13/04/2020,Karnataka,232,169,57,6,401
+14/04/2020,Karnataka,247,182,59,6,429
+15/04/2020,Karnataka,260,179,71,10,439
+16/04/2020,Karnataka,279,187,80,12,466
+17/04/2020,Karnataka,315,220,82,13,535
+18/04/2020,Karnataka,359,257,89,13,616
+19/04/2020,Karnataka,384,266,104,14,650
+20/04/2020,Karnataka,390,263,111,16,653
+21/04/2020,Karnataka,408,280,112,16,688
+22/04/2020,Karnataka,418,272,129,17,690
+23/04/2020,Karnataka,427,279,131,17,706
+24/04/2020,Karnataka,445,283,145,17,728
+25/04/2020,Karnataka,474,304,152,18,778
+26/04/2020,Karnataka,500,324,158,18,824
+27/04/2020,Karnataka,503,302,182,19,805
+28/04/2020,Karnataka,512,299,193,20,811
+29/04/2020,Karnataka,523,296,207,20,819
+30/04/2020,Karnataka,535,298,216,21,833
+01/05/2020,Karnataka,565,315,229,21,880
+02/05/2020,Karnataka,589,316,251,22,905
+03/05/2020,Karnataka,601,305,271,25,906
+04/05/2020,Karnataka,614,296,293,25,910
+05/05/2020,Karnataka,651,303,321,27,954
+06/05/2020,Karnataka,671,311,331,29,982
+07/05/2020,Karnataka,693,310,354,29,1003
+08/05/2020,Karnataka,705,309,366,30,1014
+09/05/2020,Karnataka,753,347,376,30,1100
+10/05/2020,Karnataka,794,378,386,30,1172
+11/05/2020,Karnataka,848,393,424,31,1241
+12/05/2020,Karnataka,862,405,426,31,1267
+13/05/2020,Karnataka,925,461,433,31,1386
+14/05/2020,Karnataka,959,475,451,33,1434
+15/05/2020,Karnataka,987,492,460,35,1479
+16/05/2020,Karnataka,1056,540,480,36,1596
+17/05/2020,Karnataka,1092,560,496,36,1652
+18/05/2020,Karnataka,1147,601,509,37,1748
+19/05/2020,Karnataka,1246,679,530,37,1925
+20/05/2020,Karnataka,1397,813,544,40,2210
+21/05/2020,Karnataka,1462,865,556,41,2327
+22/05/2020,Karnataka,1605,993,571,41,2598
+23/05/2020,Karnataka,1743,1105,597,41,2848
+24/05/2020,Karnataka,1959,1309,608,42,3268
+25/05/2020,Karnataka,2089,1393,654,42,3482
+26/05/2020,Karnataka,2182,1433,705,44,3615
+27/05/2020,Karnataka,2283,1491,748,44,3774
+28/05/2020,Karnataka,2418,1590,781,47,4008
+29/05/2020,Karnataka,2533,1652,834,47,4185
+30/05/2020,Karnataka,2781,1839,894,48,4620
+31/05/2020,Karnataka,2922,1877,997,48,4799
+01/06/2020,Karnataka,3221,1952,1218,51,5173
+02/06/2020,Karnataka,3408,2028,1328,52,5436
+03/06/2020,Karnataka,3796,2341,1403,52,6137
+04/06/2020,Karnataka,4063,2496,1514,53,6559
+05/06/2020,Karnataka,4320,2653,1610,57,6973
+06/06/2020,Karnataka,4835,3090,1688,57,7925
+07/06/2020,Karnataka,5213,3186,1968,59,8399
+08/06/2020,Karnataka,5452,3259,2132,61,8711
+09/06/2020,Karnataka,5760,3177,2519,64,8937
+10/06/2020,Karnataka,5921,3251,2604,66,9172
+11/06/2020,Karnataka,6041,3110,2862,69,9151
+12/06/2020,Karnataka,6245,3196,2977,72,9441
+13/06/2020,Karnataka,6516,2997,3440,79,9513
+14/06/2020,Karnataka,6824,3095,3648,81,9919
+15/06/2020,Karnataka,7000,2959,3955,86,9959
+16/06/2020,Karnataka,7213,2989,4135,89,10202
+17/06/2020,Karnataka,7530,2980,4456,94,10510
+18/06/2020,Karnataka,7734,2828,4804,102,10562
+19/06/2020,Karnataka,7944,2847,4983,114,10791
+20/06/2020,Karnataka,8281,2947,5210,124,11228
+21/06/2020,Karnataka,8697,3174,5391,132,11871
+22/06/2020,Karnataka,9150,3395,5618,137,12545
+23/06/2020,Karnataka,9399,3527,5730,142,12926
+24/06/2020,Karnataka,9721,3567,6004,150,13288
+25/06/2020,Karnataka,10118,3803,6151,164,13921
+26/06/2020,Karnataka,10560,3720,6670,170,14280
+27/06/2020,Karnataka,11005,3909,6916,180,14914
+28/06/2020,Karnataka,11923,4445,7287,191,16368
+29/06/2020,Karnataka,13190,5476,7507,207,18666
+30/06/2020,Karnataka,14295,6386,7683,226,20681
+24/03/2020,Kerala,95,91,4,0,186
+25/03/2020,Kerala,95,91,4,0,186
+26/03/2020,Kerala,118,114,4,0,232
+27/03/2020,Kerala,137,126,11,0,263
+28/03/2020,Kerala,176,165,11,0,341
+29/03/2020,Kerala,182,166,15,1,348
+30/03/2020,Kerala,194,174,19,1,368
+31/03/2020,Kerala,234,214,19,1,448
+01/04/2020,Kerala,241,216,23,2,457
+02/04/2020,Kerala,265,238,25,2,503
+03/04/2020,Kerala,286,257,27,2,543
+04/04/2020,Kerala,295,252,41,2,547
+05/04/2020,Kerala,306,255,49,2,561
+06/04/2020,Kerala,314,257,55,2,571
+07/04/2020,Kerala,327,267,58,2,594
+08/04/2020,Kerala,336,264,70,2,600
+09/04/2020,Kerala,345,260,83,2,605
+10/04/2020,Kerala,357,259,96,2,616
+11/04/2020,Kerala,364,239,123,2,603
+12/04/2020,Kerala,364,239,123,2,603
+13/04/2020,Kerala,376,195,179,2,571
+14/04/2020,Kerala,379,178,198,3,557
+15/04/2020,Kerala,387,173,211,3,560
+16/04/2020,Kerala,388,167,218,3,555
+17/04/2020,Kerala,395,147,245,3,542
+18/04/2020,Kerala,396,138,255,3,534
+19/04/2020,Kerala,400,140,257,3,540
+20/04/2020,Kerala,402,129,270,3,531
+21/04/2020,Kerala,408,114,291,3,522
+22/04/2020,Kerala,427,117,307,3,544
+23/04/2020,Kerala,438,112,323,3,550
+24/04/2020,Kerala,447,120,324,3,567
+25/04/2020,Kerala,450,116,331,3,566
+26/04/2020,Kerala,457,115,338,4,572
+27/04/2020,Kerala,458,116,338,4,574
+28/04/2020,Kerala,481,122,355,4,603
+29/04/2020,Kerala,485,122,359,4,607
+30/04/2020,Kerala,495,122,369,4,617
+01/05/2020,Kerala,497,110,383,4,607
+02/05/2020,Kerala,497,101,392,4,598
+03/05/2020,Kerala,499,95,400,4,594
+04/05/2020,Kerala,500,95,401,4,595
+05/05/2020,Kerala,500,34,462,4,534
+06/05/2020,Kerala,502,36,462,4,538
+07/05/2020,Kerala,503,30,469,4,533
+08/05/2020,Kerala,503,25,474,4,528
+09/05/2020,Kerala,503,15,484,4,518
+10/05/2020,Kerala,505,16,485,4,521
+11/05/2020,Kerala,512,19,489,4,531
+12/05/2020,Kerala,519,26,489,4,545
+13/05/2020,Kerala,524,31,489,4,555
+14/05/2020,Kerala,534,40,490,4,574
+15/05/2020,Kerala,560,65,491,4,625
+16/05/2020,Kerala,576,80,492,4,656
+17/05/2020,Kerala,587,88,495,4,675
+18/05/2020,Kerala,601,100,497,4,701
+19/05/2020,Kerala,630,129,497,4,759
+20/05/2020,Kerala,642,141,497,4,783
+21/05/2020,Kerala,666,160,502,4,826
+22/05/2020,Kerala,690,176,510,4,866
+23/05/2020,Kerala,732,216,512,4,948
+24/05/2020,Kerala,795,276,515,4,1071
+25/05/2020,Kerala,847,322,521,4,1169
+26/05/2020,Kerala,896,359,532,5,1255
+27/05/2020,Kerala,963,415,542,6,1378
+28/05/2020,Kerala,1004,445,552,7,1449
+29/05/2020,Kerala,1088,526,555,7,1614
+30/05/2020,Kerala,1150,577,565,8,1727
+31/05/2020,Kerala,1208,624,575,9,1832
+01/06/2020,Kerala,1269,670,590,9,1939
+02/06/2020,Kerala,1326,708,608,10,2034
+03/06/2020,Kerala,1412,774,627,11,2186
+04/06/2020,Kerala,1494,832,651,11,2326
+05/06/2020,Kerala,1588,884,690,14,2472
+06/06/2020,Kerala,1699,973,712,14,2672
+07/06/2020,Kerala,1807,1030,762,15,2837
+08/06/2020,Kerala,1914,1096,803,15,3010
+09/06/2020,Kerala,2005,1175,814,16,3180
+10/06/2020,Kerala,2096,1232,848,16,3328
+11/06/2020,Kerala,2161,1238,905,18,3399
+12/06/2020,Kerala,2244,1258,968,18,3502
+13/06/2020,Kerala,2322,1303,1000,19,3625
+14/06/2020,Kerala,2407,1342,1046,19,3749
+15/06/2020,Kerala,2461,1340,1102,19,3801
+16/06/2020,Kerala,2543,1348,1175,20,3891
+17/06/2020,Kerala,2622,1366,1236,20,3988
+18/06/2020,Kerala,2697,1351,1326,20,4048
+19/06/2020,Kerala,2794,1358,1415,21,4152
+20/06/2020,Kerala,2912,1380,1511,21,4292
+21/06/2020,Kerala,3039,1450,1568,21,4489
+22/06/2020,Kerala,3172,1490,1661,21,4662
+23/06/2020,Kerala,3310,1540,1749,21,4850
+24/06/2020,Kerala,3451,1620,1809,22,5071
+25/06/2020,Kerala,3603,1693,1888,22,5296
+26/06/2020,Kerala,3726,1761,1943,22,5487
+27/06/2020,Kerala,3876,1846,2008,22,5722
+28/06/2020,Kerala,4071,1939,2110,22,6010
+29/06/2020,Kerala,4189,2015,2152,22,6204
+30/06/2020,Kerala,4189,2015,2152,22,6204
+24/03/2020,Ladakh,13,13,0,0,26
+25/03/2020,Ladakh,13,13,0,0,26
+26/03/2020,Ladakh,13,13,0,0,26
+27/03/2020,Ladakh,13,10,3,0,23
+28/03/2020,Ladakh,13,10,3,0,23
+29/03/2020,Ladakh,13,10,3,0,23
+30/03/2020,Ladakh,13,10,3,0,23
+31/03/2020,Ladakh,13,10,3,0,23
+01/04/2020,Ladakh,13,10,3,0,23
+02/04/2020,Ladakh,13,10,3,0,23
+03/04/2020,Ladakh,14,11,3,0,25
+04/04/2020,Ladakh,14,11,3,0,25
+05/04/2020,Ladakh,14,4,10,0,18
+06/04/2020,Ladakh,14,4,10,0,18
+07/04/2020,Ladakh,14,4,10,0,18
+08/04/2020,Ladakh,14,4,10,0,18
+09/04/2020,Ladakh,14,4,10,0,18
+10/04/2020,Ladakh,15,5,10,0,20
+11/04/2020,Ladakh,15,5,10,0,20
+12/04/2020,Ladakh,15,5,10,0,20
+13/04/2020,Ladakh,15,5,10,0,20
+14/04/2020,Ladakh,15,5,10,0,20
+15/04/2020,Ladakh,17,7,10,0,24
+16/04/2020,Ladakh,17,7,10,0,24
+17/04/2020,Ladakh,18,4,14,0,22
+18/04/2020,Ladakh,18,4,14,0,22
+19/04/2020,Ladakh,18,4,14,0,22
+20/04/2020,Ladakh,18,4,14,0,22
+21/04/2020,Ladakh,18,4,14,0,22
+22/04/2020,Ladakh,18,4,14,0,22
+23/04/2020,Ladakh,18,4,14,0,22
+24/04/2020,Ladakh,18,4,14,0,22
+25/04/2020,Ladakh,20,6,14,0,26
+26/04/2020,Ladakh,20,6,14,0,26
+27/04/2020,Ladakh,20,6,14,0,26
+28/04/2020,Ladakh,20,6,14,0,26
+29/04/2020,Ladakh,22,6,16,0,28
+30/04/2020,Ladakh,22,6,16,0,28
+01/05/2020,Ladakh,22,6,16,0,28
+02/05/2020,Ladakh,22,5,17,0,27
+03/05/2020,Ladakh,22,5,17,0,27
+04/05/2020,Ladakh,41,24,17,0,65
+05/05/2020,Ladakh,41,24,17,0,65
+06/05/2020,Ladakh,41,24,17,0,65
+07/05/2020,Ladakh,41,24,17,0,65
+08/05/2020,Ladakh,42,25,17,0,67
+09/05/2020,Ladakh,42,25,17,0,67
+10/05/2020,Ladakh,42,25,17,0,67
+11/05/2020,Ladakh,42,21,21,0,63
+12/05/2020,Ladakh,42,21,21,0,63
+13/05/2020,Ladakh,42,21,21,0,63
+14/05/2020,Ladakh,43,21,22,0,64
+15/05/2020,Ladakh,43,21,22,0,64
+16/05/2020,Ladakh,43,21,22,0,64
+17/05/2020,Ladakh,43,21,22,0,64
+18/05/2020,Ladakh,43,19,24,0,62
+19/05/2020,Ladakh,43,2,41,0,45
+20/05/2020,Ladakh,43,0,43,0,43
+21/05/2020,Ladakh,44,1,43,0,45
+22/05/2020,Ladakh,44,1,43,0,45
+23/05/2020,Ladakh,44,1,43,0,45
+24/05/2020,Ladakh,49,6,43,0,55
+25/05/2020,Ladakh,52,9,43,0,61
+26/05/2020,Ladakh,52,9,43,0,61
+27/05/2020,Ladakh,53,10,43,0,63
+28/05/2020,Ladakh,53,10,43,0,63
+29/05/2020,Ladakh,73,30,43,0,103
+30/05/2020,Ladakh,74,31,43,0,105
+31/05/2020,Ladakh,74,31,43,0,105
+01/06/2020,Ladakh,74,31,43,0,105
+02/06/2020,Ladakh,77,34,43,0,111
+03/06/2020,Ladakh,81,33,47,1,114
+04/06/2020,Ladakh,90,41,48,1,131
+05/06/2020,Ladakh,90,41,48,1,131
+06/06/2020,Ladakh,97,48,48,1,145
+07/06/2020,Ladakh,99,50,48,1,149
+08/06/2020,Ladakh,103,52,50,1,155
+09/06/2020,Ladakh,103,50,52,1,153
+10/06/2020,Ladakh,108,55,52,1,163
+11/06/2020,Ladakh,115,62,52,1,177
+12/06/2020,Ladakh,135,80,54,1,215
+13/06/2020,Ladakh,239,176,62,1,415
+14/06/2020,Ladakh,437,368,68,1,805
+15/06/2020,Ladakh,549,468,80,1,1017
+16/06/2020,Ladakh,555,472,82,1,1027
+17/06/2020,Ladakh,649,563,85,1,1212
+18/06/2020,Ladakh,687,594,92,1,1281
+19/06/2020,Ladakh,687,591,95,1,1278
+20/06/2020,Ladakh,744,648,95,1,1392
+21/06/2020,Ladakh,836,718,117,1,1554
+22/06/2020,Ladakh,837,702,134,1,1539
+23/06/2020,Ladakh,847,710,136,1,1557
+24/06/2020,Ladakh,932,783,148,1,1715
+25/06/2020,Ladakh,941,666,274,1,1607
+26/06/2020,Ladakh,941,582,358,1,1523
+27/06/2020,Ladakh,946,587,358,1,1533
+28/06/2020,Ladakh,960,405,554,1,1365
+29/06/2020,Ladakh,963,376,586,1,1339
+30/06/2020,Ladakh,964,347,616,1,1311
+24/03/2020,Madhya Pradesh,7,7,0,0,14
+25/03/2020,Madhya Pradesh,7,7,0,0,14
+26/03/2020,Madhya Pradesh,15,14,0,1,29
+27/03/2020,Madhya Pradesh,20,19,0,1,39
+28/03/2020,Madhya Pradesh,30,28,0,2,58
+29/03/2020,Madhya Pradesh,30,28,0,2,58
+30/03/2020,Madhya Pradesh,33,31,0,2,64
+31/03/2020,Madhya Pradesh,47,44,0,3,91
+01/04/2020,Madhya Pradesh,47,44,0,3,91
+02/04/2020,Madhya Pradesh,99,93,0,6,192
+03/04/2020,Madhya Pradesh,99,93,0,6,192
+04/04/2020,Madhya Pradesh,104,98,0,6,202
+05/04/2020,Madhya Pradesh,104,98,0,6,202
+06/04/2020,Madhya Pradesh,165,156,0,9,321
+07/04/2020,Madhya Pradesh,165,156,0,9,321
+08/04/2020,Madhya Pradesh,229,216,0,13,445
+09/04/2020,Madhya Pradesh,229,216,0,13,445
+10/04/2020,Madhya Pradesh,259,243,0,16,502
+11/04/2020,Madhya Pradesh,435,402,0,33,837
+12/04/2020,Madhya Pradesh,532,496,0,36,1028
+13/04/2020,Madhya Pradesh,564,528,0,36,1092
+14/04/2020,Madhya Pradesh,604,517,44,43,1121
+15/04/2020,Madhya Pradesh,730,629,51,50,1359
+16/04/2020,Madhya Pradesh,987,870,64,53,1857
+17/04/2020,Madhya Pradesh,1120,1003,64,53,2123
+18/04/2020,Madhya Pradesh,1310,1172,69,69,2482
+19/04/2020,Madhya Pradesh,1407,1210,127,70,2617
+20/04/2020,Madhya Pradesh,1407,1210,127,70,2617
+21/04/2020,Madhya Pradesh,1485,1284,127,74,2769
+22/04/2020,Madhya Pradesh,1552,1328,148,76,2880
+23/04/2020,Madhya Pradesh,1592,1364,148,80,2956
+24/04/2020,Madhya Pradesh,1699,1413,203,83,3112
+25/04/2020,Madhya Pradesh,1852,1550,210,92,3402
+26/04/2020,Madhya Pradesh,2096,1787,210,99,3883
+27/04/2020,Madhya Pradesh,2096,1691,302,103,3787
+28/04/2020,Madhya Pradesh,2168,1756,302,110,3924
+29/04/2020,Madhya Pradesh,2387,1890,377,120,4277
+30/04/2020,Madhya Pradesh,2561,1971,461,129,4532
+01/05/2020,Madhya Pradesh,2660,2041,482,137,4701
+02/05/2020,Madhya Pradesh,2719,2050,524,145,4769
+03/05/2020,Madhya Pradesh,2846,2071,624,151,4917
+04/05/2020,Madhya Pradesh,2846,1892,798,156,4738
+05/05/2020,Madhya Pradesh,2942,1979,798,165,4921
+06/05/2020,Madhya Pradesh,3049,1873,1000,176,4922
+07/05/2020,Madhya Pradesh,3138,1854,1099,185,4992
+08/05/2020,Madhya Pradesh,3252,1828,1231,193,5080
+09/05/2020,Madhya Pradesh,3341,1792,1349,200,5133
+10/05/2020,Madhya Pradesh,3614,1723,1676,215,5337
+11/05/2020,Madhya Pradesh,3614,1723,1676,215,5337
+12/05/2020,Madhya Pradesh,3785,1817,1747,221,5602
+13/05/2020,Madhya Pradesh,3986,1901,1860,225,5887
+14/05/2020,Madhya Pradesh,4173,1937,2004,232,6110
+15/05/2020,Madhya Pradesh,4426,2018,2171,237,6444
+16/05/2020,Madhya Pradesh,4595,2073,2283,239,6668
+17/05/2020,Madhya Pradesh,4789,2231,2315,243,7020
+18/05/2020,Madhya Pradesh,4977,2326,2403,248,7303
+19/05/2020,Madhya Pradesh,5236,2549,2435,252,7785
+20/05/2020,Madhya Pradesh,5465,2577,2630,258,8042
+21/05/2020,Madhya Pradesh,5735,2735,2733,267,8470
+22/05/2020,Madhya Pradesh,5981,2868,2843,270,8849
+23/05/2020,Madhya Pradesh,6170,2809,3089,272,8979
+24/05/2020,Madhya Pradesh,6371,2823,3267,281,9194
+25/05/2020,Madhya Pradesh,6665,2967,3408,290,9632
+26/05/2020,Madhya Pradesh,6859,2988,3571,300,9847
+27/05/2020,Madhya Pradesh,7024,3030,3689,305,10054
+28/05/2020,Madhya Pradesh,7261,3021,3927,313,10282
+29/05/2020,Madhya Pradesh,7453,3082,4050,321,10535
+30/05/2020,Madhya Pradesh,7645,3042,4269,334,10687
+31/05/2020,Madhya Pradesh,7891,3104,4444,343,10995
+01/06/2020,Madhya Pradesh,8089,2897,4842,350,10986
+02/06/2020,Madhya Pradesh,8283,2922,5003,358,11205
+03/06/2020,Madhya Pradesh,8420,2835,5221,364,11255
+04/06/2020,Madhya Pradesh,8588,2772,5445,371,11360
+05/06/2020,Madhya Pradesh,8762,2748,5637,377,11510
+06/06/2020,Madhya Pradesh,8996,2734,5878,384,11730
+07/06/2020,Madhya Pradesh,9228,2721,6108,399,11949
+08/06/2020,Madhya Pradesh,9401,2658,6331,412,12059
+09/06/2020,Madhya Pradesh,9638,2688,6536,414,12326
+10/06/2020,Madhya Pradesh,9849,2700,6729,420,12549
+11/06/2020,Madhya Pradesh,10049,2730,6892,427,12779
+12/06/2020,Madhya Pradesh,10241,2768,7042,431,13009
+13/06/2020,Madhya Pradesh,10443,2802,7201,440,13245
+14/06/2020,Madhya Pradesh,10641,2817,7377,447,13458
+15/06/2020,Madhya Pradesh,10802,2666,7677,459,13468
+16/06/2020,Madhya Pradesh,10935,2567,7903,465,13502
+17/06/2020,Madhya Pradesh,11083,2455,8152,476,13538
+18/06/2020,Madhya Pradesh,11244,2374,8388,482,13618
+19/06/2020,Madhya Pradesh,11426,2308,8632,486,13734
+20/06/2020,Madhya Pradesh,11582,2339,8748,495,13921
+21/06/2020,Madhya Pradesh,11724,2343,8880,501,14067
+22/06/2020,Madhya Pradesh,11903,2373,9015,515,14276
+23/06/2020,Madhya Pradesh,12078,2342,9215,521,14420
+24/06/2020,Madhya Pradesh,12261,2401,9335,525,14662
+25/06/2020,Madhya Pradesh,12448,2441,9473,534,14889
+26/06/2020,Madhya Pradesh,12596,2435,9619,542,15031
+27/06/2020,Madhya Pradesh,12798,2448,9804,546,15246
+28/06/2020,Madhya Pradesh,12965,2444,9971,550,15409
+29/06/2020,Madhya Pradesh,13186,2545,10084,557,15731
+30/06/2020,Madhya Pradesh,13370,2607,10199,564,15977
+24/03/2020,Maharashtra,87,85,0,2,172
+25/03/2020,Maharashtra,89,87,0,2,176
+26/03/2020,Maharashtra,124,120,1,3,244
+27/03/2020,Maharashtra,130,111,15,4,241
+28/03/2020,Maharashtra,180,150,25,5,330
+29/03/2020,Maharashtra,186,155,25,6,341
+30/03/2020,Maharashtra,193,160,25,8,353
+31/03/2020,Maharashtra,216,168,39,9,384
+01/04/2020,Maharashtra,302,254,39,9,556
+02/04/2020,Maharashtra,335,280,42,13,615
+03/04/2020,Maharashtra,335,277,42,16,612
+04/04/2020,Maharashtra,423,362,42,19,785
+05/04/2020,Maharashtra,490,424,42,24,914
+06/04/2020,Maharashtra,690,603,42,45,1293
+07/04/2020,Maharashtra,748,647,56,45,1395
+08/04/2020,Maharashtra,1018,875,79,64,1893
+09/04/2020,Maharashtra,1135,946,117,72,2081
+10/04/2020,Maharashtra,1364,1142,125,97,2506
+11/04/2020,Maharashtra,1574,1276,188,110,2850
+12/04/2020,Maharashtra,1761,1426,208,127,3187
+13/04/2020,Maharashtra,1985,1619,217,149,3604
+14/04/2020,Maharashtra,2334,1957,217,160,4291
+15/04/2020,Maharashtra,2687,2250,259,178,4937
+16/04/2020,Maharashtra,2916,2434,295,187,5350
+17/04/2020,Maharashtra,3205,2711,300,194,5916
+18/04/2020,Maharashtra,3323,2791,331,201,6114
+19/04/2020,Maharashtra,3651,3075,365,211,6726
+20/04/2020,Maharashtra,4203,3473,507,223,7676
+21/04/2020,Maharashtra,4666,3862,572,232,8528
+22/04/2020,Maharashtra,5218,4245,722,251,9463
+23/04/2020,Maharashtra,5652,4594,789,269,10246
+24/04/2020,Maharashtra,6430,5307,840,283,11737
+25/04/2020,Maharashtra,6817,5676,840,301,12493
+26/04/2020,Maharashtra,7628,6229,1076,323,13857
+27/04/2020,Maharashtra,8068,6650,1076,342,14718
+28/04/2020,Maharashtra,8590,6939,1282,369,15529
+29/04/2020,Maharashtra,9318,7530,1388,400,16848
+30/04/2020,Maharashtra,9915,7890,1593,432,17805
+01/05/2020,Maharashtra,10498,8266,1773,459,18764
+02/05/2020,Maharashtra,11506,9142,1879,485,20648
+03/05/2020,Maharashtra,12296,9775,2000,521,22071
+04/05/2020,Maharashtra,12974,10311,2115,548,23285
+05/05/2020,Maharashtra,14541,11493,2465,583,26034
+06/05/2020,Maharashtra,15525,12089,2819,617,27614
+07/05/2020,Maharashtra,16758,13013,3094,651,29771
+08/05/2020,Maharashtra,17974,13979,3301,694,31953
+09/05/2020,Maharashtra,19063,14862,3470,731,33925
+10/05/2020,Maharashtra,20228,15649,3800,779,35877
+11/05/2020,Maharashtra,22171,17140,4199,832,39311
+12/05/2020,Maharashtra,23401,17747,4786,868,41148
+13/05/2020,Maharashtra,24427,18381,5125,921,42808
+14/05/2020,Maharashtra,25922,19400,5547,975,45322
+15/05/2020,Maharashtra,27524,20446,6059,1019,47970
+16/05/2020,Maharashtra,29100,21468,6564,1068,50568
+17/05/2020,Maharashtra,30706,22483,7088,1135,53189
+18/05/2020,Maharashtra,33053,24167,7688,1198,57220
+19/05/2020,Maharashtra,35058,25372,8437,1249,60430
+20/05/2020,Maharashtra,37136,26172,9639,1325,63308
+21/05/2020,Maharashtra,39297,27589,10318,1390,66886
+22/05/2020,Maharashtra,41642,28462,11726,1454,70104
+23/05/2020,Maharashtra,44582,30482,12583,1517,75064
+24/05/2020,Maharashtra,47190,32209,13404,1577,79399
+25/05/2020,Maharashtra,50231,33996,14600,1635,84227
+26/05/2020,Maharashtra,52667,35186,15786,1695,87853
+27/05/2020,Maharashtra,54758,36012,16954,1792,90770
+28/05/2020,Maharashtra,56948,37133,17918,1897,94081
+29/05/2020,Maharashtra,59546,38948,18616,1982,98494
+30/05/2020,Maharashtra,62228,33133,26997,2098,95361
+31/05/2020,Maharashtra,65168,34890,28081,2197,100058
+01/06/2020,Maharashtra,67655,36040,29329,2286,103695
+02/06/2020,Maharashtra,70013,37543,30108,2362,107556
+03/06/2020,Maharashtra,72300,38502,31333,2465,110802
+04/06/2020,Maharashtra,74860,39944,32329,2587,114804
+05/06/2020,Maharashtra,77793,41402,33681,2710,119195
+06/06/2020,Maharashtra,80229,42224,35156,2849,122453
+07/06/2020,Maharashtra,82968,42609,37390,2969,125577
+08/06/2020,Maharashtra,85975,43601,39314,3060,129576
+09/06/2020,Maharashtra,88528,44384,40975,3169,132912
+10/06/2020,Maharashtra,90787,44860,42638,3289,135647
+11/06/2020,Maharashtra,94041,46086,44517,3438,140127
+12/06/2020,Maharashtra,97648,47980,46078,3590,145628
+13/06/2020,Maharashtra,101141,49628,47796,3717,150769
+14/06/2020,Maharashtra,104568,51392,49346,3830,155960
+15/06/2020,Maharashtra,107958,53030,50978,3950,160988
+16/06/2020,Maharashtra,110744,50567,56049,4128,161311
+17/06/2020,Maharashtra,113445,50057,57851,5537,163502
+18/06/2020,Maharashtra,116752,51935,59166,5651,168687
+19/06/2020,Maharashtra,120504,53915,60838,5751,174419
+20/06/2020,Maharashtra,124331,55665,62773,5893,179996
+21/06/2020,Maharashtra,128205,58068,64153,5984,186273
+22/06/2020,Maharashtra,132075,60161,65744,6170,192236
+23/06/2020,Maharashtra,135796,61807,67706,6283,197603
+24/06/2020,Maharashtra,139010,62848,69631,6531,201858
+25/06/2020,Maharashtra,142900,62369,73792,6739,205269
+26/06/2020,Maharashtra,147741,63357,77453,6931,211098
+27/06/2020,Maharashtra,152765,65844,79815,7106,218609
+28/06/2020,Maharashtra,159133,67615,84245,7273,226748
+29/06/2020,Maharashtra,164626,70622,86575,7429,235248
+30/06/2020,Maharashtra,169883,73313,88960,7610,243196
+25/03/2020,Manipur,1,1,0,0,2
+26/03/2020,Manipur,1,1,0,0,2
+27/03/2020,Manipur,1,1,0,0,2
+28/03/2020,Manipur,1,1,0,0,2
+29/03/2020,Manipur,1,1,0,0,2
+30/03/2020,Manipur,1,1,0,0,2
+31/03/2020,Manipur,1,1,0,0,2
+01/04/2020,Manipur,1,1,0,0,2
+02/04/2020,Manipur,1,1,0,0,2
+03/04/2020,Manipur,2,2,0,0,4
+04/04/2020,Manipur,2,2,0,0,4
+05/04/2020,Manipur,2,2,0,0,4
+06/04/2020,Manipur,2,2,0,0,4
+07/04/2020,Manipur,2,2,0,0,4
+08/04/2020,Manipur,2,2,0,0,4
+09/04/2020,Manipur,1,0,1,0,1
+10/04/2020,Manipur,2,1,1,0,3
+11/04/2020,Manipur,2,1,1,0,3
+12/04/2020,Manipur,2,1,1,0,3
+13/04/2020,Manipur,2,1,1,0,3
+14/04/2020,Manipur,2,1,1,0,3
+15/04/2020,Manipur,2,1,1,0,3
+16/04/2020,Manipur,2,1,1,0,3
+17/04/2020,Manipur,2,1,1,0,3
+18/04/2020,Manipur,2,1,1,0,3
+19/04/2020,Manipur,2,1,1,0,3
+20/04/2020,Manipur,2,1,1,0,3
+21/04/2020,Manipur,2,0,2,0,2
+22/04/2020,Manipur,2,0,2,0,2
+23/04/2020,Manipur,2,0,2,0,2
+24/04/2020,Manipur,2,0,2,0,2
+25/04/2020,Manipur,2,0,2,0,2
+26/04/2020,Manipur,2,0,2,0,2
+27/04/2020,Manipur,2,0,2,0,2
+28/04/2020,Manipur,2,0,2,0,2
+29/04/2020,Manipur,2,0,2,0,2
+30/04/2020,Manipur,2,0,2,0,2
+01/05/2020,Manipur,2,0,2,0,2
+02/05/2020,Manipur,2,0,2,0,2
+03/05/2020,Manipur,2,0,2,0,2
+04/05/2020,Manipur,2,0,2,0,2
+05/05/2020,Manipur,2,0,2,0,2
+06/05/2020,Manipur,2,0,2,0,2
+07/05/2020,Manipur,2,0,2,0,2
+08/05/2020,Manipur,2,0,2,0,2
+09/05/2020,Manipur,2,0,2,0,2
+10/05/2020,Manipur,2,0,2,0,2
+11/05/2020,Manipur,2,0,2,0,2
+12/05/2020,Manipur,2,0,2,0,2
+13/05/2020,Manipur,2,0,2,0,2
+14/05/2020,Manipur,2,0,2,0,2
+15/05/2020,Manipur,3,1,2,0,4
+16/05/2020,Manipur,3,1,2,0,4
+17/05/2020,Manipur,7,5,2,0,12
+18/05/2020,Manipur,7,5,2,0,12
+19/05/2020,Manipur,7,5,2,0,12
+20/05/2020,Manipur,9,7,2,0,16
+21/05/2020,Manipur,25,23,2,0,48
+22/05/2020,Manipur,25,23,2,0,48
+23/05/2020,Manipur,26,24,2,0,50
+24/05/2020,Manipur,29,25,4,0,54
+25/05/2020,Manipur,32,28,4,0,60
+26/05/2020,Manipur,39,35,4,0,74
+27/05/2020,Manipur,39,35,4,0,74
+28/05/2020,Manipur,44,40,4,0,84
+29/05/2020,Manipur,55,50,5,0,105
+30/05/2020,Manipur,59,51,8,0,110
+31/05/2020,Manipur,62,54,8,0,116
+01/06/2020,Manipur,71,60,11,0,131
+02/06/2020,Manipur,83,72,11,0,155
+03/06/2020,Manipur,89,75,14,0,164
+04/06/2020,Manipur,118,80,38,0,198
+05/06/2020,Manipur,124,86,38,0,210
+06/06/2020,Manipur,132,91,41,0,223
+07/06/2020,Manipur,157,105,52,0,262
+08/06/2020,Manipur,172,120,52,0,292
+09/06/2020,Manipur,272,214,58,0,486
+10/06/2020,Manipur,304,243,61,0,547
+11/06/2020,Manipur,311,248,63,0,559
+12/06/2020,Manipur,366,293,73,0,659
+13/06/2020,Manipur,385,308,77,0,693
+14/06/2020,Manipur,449,358,91,0,807
+15/06/2020,Manipur,458,367,91,0,825
+16/06/2020,Manipur,490,339,151,0,829
+17/06/2020,Manipur,500,341,159,0,841
+18/06/2020,Manipur,552,360,192,0,912
+19/06/2020,Manipur,606,407,199,0,1013
+20/06/2020,Manipur,681,463,218,0,1144
+21/06/2020,Manipur,777,545,232,0,1322
+22/06/2020,Manipur,841,591,250,0,1432
+23/06/2020,Manipur,898,648,250,0,1546
+24/06/2020,Manipur,921,663,258,0,1584
+25/06/2020,Manipur,970,642,328,0,1612
+26/06/2020,Manipur,1056,702,354,0,1758
+27/06/2020,Manipur,1075,682,393,0,1757
+28/06/2020,Manipur,1092,660,432,0,1752
+29/06/2020,Manipur,1185,730,455,0,1915
+30/06/2020,Manipur,1227,733,494,0,1960
+15/04/2020,Meghalaya,1,1,0,0,2
+16/04/2020,Meghalaya,7,6,0,1,13
+17/04/2020,Meghalaya,7,6,0,1,13
+18/04/2020,Meghalaya,9,8,0,1,17
+19/04/2020,Meghalaya,11,10,0,1,21
+20/04/2020,Meghalaya,11,10,0,1,21
+21/04/2020,Meghalaya,11,10,0,1,21
+22/04/2020,Meghalaya,12,11,0,1,23
+23/04/2020,Meghalaya,12,11,0,1,23
+24/04/2020,Meghalaya,12,11,0,1,23
+25/04/2020,Meghalaya,12,11,0,1,23
+26/04/2020,Meghalaya,12,11,0,1,23
+27/04/2020,Meghalaya,12,11,0,1,23
+28/04/2020,Meghalaya,12,11,0,1,23
+29/04/2020,Meghalaya,12,11,0,1,23
+30/04/2020,Meghalaya,12,11,0,1,23
+01/05/2020,Meghalaya,12,11,0,1,23
+02/05/2020,Meghalaya,12,11,0,1,23
+03/05/2020,Meghalaya,12,11,0,1,23
+04/05/2020,Meghalaya,12,11,0,1,23
+05/05/2020,Meghalaya,12,11,0,1,23
+06/05/2020,Meghalaya,12,1,10,1,13
+07/05/2020,Meghalaya,12,1,10,1,13
+08/05/2020,Meghalaya,12,1,10,1,13
+09/05/2020,Meghalaya,12,1,10,1,13
+10/05/2020,Meghalaya,13,2,10,1,15
+11/05/2020,Meghalaya,13,2,10,1,15
+12/05/2020,Meghalaya,13,2,10,1,15
+13/05/2020,Meghalaya,13,2,10,1,15
+14/05/2020,Meghalaya,13,2,10,1,15
+15/05/2020,Meghalaya,13,1,11,1,14
+16/05/2020,Meghalaya,13,1,11,1,14
+17/05/2020,Meghalaya,13,1,11,1,14
+18/05/2020,Meghalaya,13,1,11,1,14
+19/05/2020,Meghalaya,13,1,11,1,14
+20/05/2020,Meghalaya,13,0,12,1,13
+21/05/2020,Meghalaya,14,1,12,1,15
+22/05/2020,Meghalaya,14,1,12,1,15
+23/05/2020,Meghalaya,14,1,12,1,15
+24/05/2020,Meghalaya,14,1,12,1,15
+25/05/2020,Meghalaya,14,1,12,1,15
+26/05/2020,Meghalaya,14,1,12,1,15
+27/05/2020,Meghalaya,15,2,12,1,17
+28/05/2020,Meghalaya,20,7,12,1,27
+29/05/2020,Meghalaya,21,8,12,1,29
+30/05/2020,Meghalaya,27,14,12,1,41
+31/05/2020,Meghalaya,27,14,12,1,41
+01/06/2020,Meghalaya,27,14,12,1,41
+02/06/2020,Meghalaya,27,14,12,1,41
+03/06/2020,Meghalaya,27,14,12,1,41
+04/06/2020,Meghalaya,33,19,13,1,52
+05/06/2020,Meghalaya,33,19,13,1,52
+06/06/2020,Meghalaya,33,19,13,1,52
+07/06/2020,Meghalaya,33,19,13,1,52
+08/06/2020,Meghalaya,36,22,13,1,58
+09/06/2020,Meghalaya,36,22,13,1,58
+10/06/2020,Meghalaya,43,29,13,1,72
+11/06/2020,Meghalaya,44,30,13,1,74
+12/06/2020,Meghalaya,44,25,18,1,69
+13/06/2020,Meghalaya,44,21,22,1,65
+14/06/2020,Meghalaya,44,21,22,1,65
+15/06/2020,Meghalaya,44,18,25,1,62
+16/06/2020,Meghalaya,44,18,25,1,62
+17/06/2020,Meghalaya,44,18,25,1,62
+18/06/2020,Meghalaya,44,13,30,1,57
+19/06/2020,Meghalaya,44,13,30,1,57
+20/06/2020,Meghalaya,44,10,33,1,54
+21/06/2020,Meghalaya,44,10,33,1,54
+22/06/2020,Meghalaya,44,10,33,1,54
+23/06/2020,Meghalaya,44,6,37,1,50
+24/06/2020,Meghalaya,46,8,37,1,54
+25/06/2020,Meghalaya,46,3,42,1,49
+26/06/2020,Meghalaya,46,3,42,1,49
+27/06/2020,Meghalaya,47,4,42,1,51
+28/06/2020,Meghalaya,47,4,42,1,51
+29/06/2020,Meghalaya,47,4,42,1,51
+30/06/2020,Meghalaya,47,4,42,1,51
+26/03/2020,Mizoram,1,1,0,0,2
+27/03/2020,Mizoram,1,1,0,0,2
+28/03/2020,Mizoram,1,1,0,0,2
+29/03/2020,Mizoram,1,1,0,0,2
+30/03/2020,Mizoram,1,1,0,0,2
+31/03/2020,Mizoram,1,1,0,0,2
+01/04/2020,Mizoram,1,1,0,0,2
+02/04/2020,Mizoram,1,1,0,0,2
+03/04/2020,Mizoram,1,1,0,0,2
+04/04/2020,Mizoram,1,1,0,0,2
+05/04/2020,Mizoram,1,1,0,0,2
+06/04/2020,Mizoram,1,1,0,0,2
+07/04/2020,Mizoram,1,1,0,0,2
+08/04/2020,Mizoram,1,1,0,0,2
+09/04/2020,Mizoram,1,1,0,0,2
+10/04/2020,Mizoram,1,1,0,0,2
+11/04/2020,Mizoram,1,1,0,0,2
+12/04/2020,Mizoram,1,1,0,0,2
+13/04/2020,Mizoram,1,1,0,0,2
+14/04/2020,Mizoram,1,1,0,0,2
+15/04/2020,Mizoram,1,1,0,0,2
+16/04/2020,Mizoram,1,1,0,0,2
+17/04/2020,Mizoram,1,1,0,0,2
+18/04/2020,Mizoram,1,1,0,0,2
+19/04/2020,Mizoram,1,1,0,0,2
+20/04/2020,Mizoram,1,1,0,0,2
+21/04/2020,Mizoram,1,1,0,0,2
+22/04/2020,Mizoram,1,1,0,0,2
+23/04/2020,Mizoram,1,1,0,0,2
+24/04/2020,Mizoram,1,1,0,0,2
+25/04/2020,Mizoram,1,1,0,0,2
+26/04/2020,Mizoram,1,1,0,0,2
+27/04/2020,Mizoram,1,1,0,0,2
+28/04/2020,Mizoram,1,1,0,0,2
+29/04/2020,Mizoram,1,1,0,0,2
+30/04/2020,Mizoram,1,1,0,0,2
+01/05/2020,Mizoram,1,1,0,0,2
+02/05/2020,Mizoram,1,1,0,0,2
+03/05/2020,Mizoram,1,1,0,0,2
+04/05/2020,Mizoram,1,1,0,0,2
+05/05/2020,Mizoram,1,1,0,0,2
+06/05/2020,Mizoram,1,1,0,0,2
+07/05/2020,Mizoram,1,1,0,0,2
+08/05/2020,Mizoram,1,1,0,0,2
+09/05/2020,Mizoram,1,1,0,0,2
+10/05/2020,Mizoram,1,0,1,0,1
+11/05/2020,Mizoram,1,0,1,0,1
+12/05/2020,Mizoram,1,0,1,0,1
+13/05/2020,Mizoram,1,0,1,0,1
+14/05/2020,Mizoram,1,0,1,0,1
+15/05/2020,Mizoram,1,0,1,0,1
+16/05/2020,Mizoram,1,0,1,0,1
+17/05/2020,Mizoram,1,0,1,0,1
+18/05/2020,Mizoram,1,0,1,0,1
+19/05/2020,Mizoram,1,0,1,0,1
+20/05/2020,Mizoram,1,0,1,0,1
+21/05/2020,Mizoram,1,0,1,0,1
+22/05/2020,Mizoram,1,0,1,0,1
+23/05/2020,Mizoram,1,0,1,0,1
+24/05/2020,Mizoram,1,0,1,0,1
+25/05/2020,Mizoram,1,0,1,0,1
+26/05/2020,Mizoram,1,0,1,0,1
+27/05/2020,Mizoram,1,0,1,0,1
+28/05/2020,Mizoram,1,0,1,0,1
+29/05/2020,Mizoram,1,0,1,0,1
+30/05/2020,Mizoram,1,0,1,0,1
+31/05/2020,Mizoram,1,0,1,0,1
+01/06/2020,Mizoram,1,0,1,0,1
+02/06/2020,Mizoram,1,0,1,0,1
+03/06/2020,Mizoram,13,12,1,0,25
+04/06/2020,Mizoram,14,13,1,0,27
+05/06/2020,Mizoram,17,16,1,0,33
+06/06/2020,Mizoram,22,21,1,0,43
+07/06/2020,Mizoram,24,23,1,0,47
+08/06/2020,Mizoram,34,33,1,0,67
+09/06/2020,Mizoram,42,41,1,0,83
+10/06/2020,Mizoram,88,87,1,0,175
+11/06/2020,Mizoram,93,92,1,0,185
+12/06/2020,Mizoram,102,101,1,0,203
+13/06/2020,Mizoram,104,103,1,0,207
+14/06/2020,Mizoram,107,106,1,0,213
+15/06/2020,Mizoram,112,111,1,0,223
+16/06/2020,Mizoram,117,116,1,0,233
+17/06/2020,Mizoram,121,120,1,0,241
+18/06/2020,Mizoram,121,120,1,0,241
+19/06/2020,Mizoram,130,129,1,0,259
+20/06/2020,Mizoram,130,129,1,0,259
+21/06/2020,Mizoram,140,131,9,0,271
+22/06/2020,Mizoram,141,132,9,0,273
+23/06/2020,Mizoram,141,132,9,0,273
+24/06/2020,Mizoram,142,133,9,0,275
+25/06/2020,Mizoram,142,123,19,0,265
+26/06/2020,Mizoram,145,115,30,0,260
+27/06/2020,Mizoram,145,115,30,0,260
+28/06/2020,Mizoram,148,93,55,0,241
+29/06/2020,Mizoram,148,93,55,0,241
+30/06/2020,Mizoram,148,93,55,0,241
+14/04/2020,Nagaland,1,1,0,0,2
+15/04/2020,Nagaland,0,0,0,0,0
+16/04/2020,Nagaland,0,0,0,0,0
+17/04/2020,Nagaland,0,0,0,0,0
+18/04/2020,Nagaland,0,0,0,0,0
+19/04/2020,Nagaland,0,0,0,0,0
+20/04/2020,Nagaland,0,0,0,0,0
+21/04/2020,Nagaland,0,0,0,0,0
+26/05/2020,Nagaland,3,3,0,0,6
+27/05/2020,Nagaland,4,4,0,0,8
+28/05/2020,Nagaland,4,4,0,0,8
+29/05/2020,Nagaland,18,18,0,0,36
+30/05/2020,Nagaland,25,25,0,0,50
+31/05/2020,Nagaland,36,36,0,0,72
+01/06/2020,Nagaland,43,43,0,0,86
+02/06/2020,Nagaland,43,43,0,0,86
+03/06/2020,Nagaland,49,49,0,0,98
+04/06/2020,Nagaland,58,58,0,0,116
+05/06/2020,Nagaland,80,80,0,0,160
+06/06/2020,Nagaland,94,94,0,0,188
+07/06/2020,Nagaland,107,107,0,0,214
+08/06/2020,Nagaland,118,110,8,0,228
+09/06/2020,Nagaland,123,115,8,0,238
+10/06/2020,Nagaland,127,117,10,0,244
+11/06/2020,Nagaland,128,106,22,0,234
+12/06/2020,Nagaland,128,106,22,0,234
+13/06/2020,Nagaland,156,107,49,0,263
+14/06/2020,Nagaland,163,87,76,0,250
+15/06/2020,Nagaland,168,80,88,0,248
+16/06/2020,Nagaland,177,85,92,0,262
+17/06/2020,Nagaland,179,87,92,0,266
+18/06/2020,Nagaland,193,90,103,0,283
+19/06/2020,Nagaland,193,90,103,0,283
+20/06/2020,Nagaland,198,73,125,0,271
+21/06/2020,Nagaland,201,63,138,0,264
+22/06/2020,Nagaland,211,70,141,0,281
+23/06/2020,Nagaland,280,139,141,0,419
+24/06/2020,Nagaland,330,189,141,0,519
+25/06/2020,Nagaland,347,199,148,0,546
+26/06/2020,Nagaland,355,195,160,0,550
+27/06/2020,Nagaland,371,209,162,0,580
+28/06/2020,Nagaland,387,223,164,0,610
+29/06/2020,Nagaland,415,251,164,0,666
+30/06/2020,Nagaland,434,266,168,0,700
+24/03/2020,Odisha,2,2,0,0,4
+25/03/2020,Odisha,2,2,0,0,4
+26/03/2020,Odisha,2,2,0,0,4
+27/03/2020,Odisha,2,2,0,0,4
+28/03/2020,Odisha,3,3,0,0,6
+29/03/2020,Odisha,3,3,0,0,6
+30/03/2020,Odisha,3,3,0,0,6
+31/03/2020,Odisha,3,3,0,0,6
+01/04/2020,Odisha,4,4,0,0,8
+02/04/2020,Odisha,4,4,0,0,8
+03/04/2020,Odisha,5,5,0,0,10
+04/04/2020,Odisha,5,5,0,0,10
+05/04/2020,Odisha,20,20,0,0,40
+06/04/2020,Odisha,21,19,2,0,40
+07/04/2020,Odisha,21,19,2,0,40
+08/04/2020,Odisha,42,39,2,1,81
+09/04/2020,Odisha,42,39,2,1,81
+10/04/2020,Odisha,44,41,2,1,85
+11/04/2020,Odisha,48,45,2,1,93
+12/04/2020,Odisha,50,47,2,1,97
+13/04/2020,Odisha,54,41,12,1,95
+14/04/2020,Odisha,54,41,12,1,95
+15/04/2020,Odisha,60,41,18,1,101
+16/04/2020,Odisha,60,41,18,1,101
+17/04/2020,Odisha,60,40,19,1,100
+18/04/2020,Odisha,60,40,19,1,100
+19/04/2020,Odisha,61,36,24,1,97
+20/04/2020,Odisha,68,43,24,1,111
+21/04/2020,Odisha,74,49,24,1,123
+22/04/2020,Odisha,79,54,24,1,133
+23/04/2020,Odisha,83,50,32,1,133
+24/04/2020,Odisha,90,56,33,1,146
+25/04/2020,Odisha,94,60,33,1,154
+26/04/2020,Odisha,94,60,33,1,154
+27/04/2020,Odisha,103,67,35,1,170
+28/04/2020,Odisha,118,80,37,1,198
+29/04/2020,Odisha,118,79,38,1,197
+30/04/2020,Odisha,125,85,39,1,210
+01/05/2020,Odisha,142,102,39,1,244
+02/05/2020,Odisha,149,93,55,1,242
+03/05/2020,Odisha,157,100,56,1,257
+04/05/2020,Odisha,162,105,56,1,267
+05/05/2020,Odisha,169,108,60,1,277
+06/05/2020,Odisha,175,114,60,1,289
+07/05/2020,Odisha,185,122,61,2,307
+08/05/2020,Odisha,219,155,62,2,374
+09/05/2020,Odisha,271,206,63,2,477
+10/05/2020,Odisha,294,229,63,2,523
+11/05/2020,Odisha,377,306,68,3,683
+12/05/2020,Odisha,414,326,85,3,740
+13/05/2020,Odisha,437,318,116,3,755
+14/05/2020,Odisha,538,392,143,3,930
+15/05/2020,Odisha,611,450,158,3,1061
+16/05/2020,Odisha,672,503,166,3,1175
+17/05/2020,Odisha,737,538,196,3,1275
+18/05/2020,Odisha,828,604,220,4,1432
+19/05/2020,Odisha,876,652,220,4,1528
+20/05/2020,Odisha,978,696,277,5,1674
+21/05/2020,Odisha,1052,739,307,6,1791
+22/05/2020,Odisha,1103,703,393,7,1806
+23/05/2020,Odisha,1189,746,436,7,1935
+24/05/2020,Odisha,1269,765,497,7,2034
+25/05/2020,Odisha,1336,779,550,7,2115
+26/05/2020,Odisha,1438,782,649,7,2220
+27/05/2020,Odisha,1517,777,733,7,2294
+28/05/2020,Odisha,1593,853,733,7,2446
+29/05/2020,Odisha,1660,766,887,7,2426
+30/05/2020,Odisha,1723,829,887,7,2552
+31/05/2020,Odisha,1819,762,1050,7,2581
+01/06/2020,Odisha,1948,815,1126,7,2763
+02/06/2020,Odisha,2104,852,1245,7,2956
+03/06/2020,Odisha,2245,913,1325,7,3158
+04/06/2020,Odisha,2388,965,1416,7,3353
+05/06/2020,Odisha,2478,1055,1416,7,3533
+06/06/2020,Odisha,2608,996,1604,8,3604
+07/06/2020,Odisha,2781,1057,1716,8,3838
+08/06/2020,Odisha,2856,953,1894,9,3809
+09/06/2020,Odisha,2994,992,1993,9,3986
+10/06/2020,Odisha,3140,998,2133,9,4138
+11/06/2020,Odisha,3250,959,2282,9,4209
+12/06/2020,Odisha,3386,1023,2354,9,4409
+13/06/2020,Odisha,3498,1014,2474,10,4512
+14/06/2020,Odisha,3723,1119,2594,10,4842
+15/06/2020,Odisha,3909,1190,2708,11,5099
+16/06/2020,Odisha,4055,1190,2854,11,5245
+17/06/2020,Odisha,4163,1178,2974,11,5341
+18/06/2020,Odisha,4338,1280,3047,11,5618
+19/06/2020,Odisha,4512,1357,3144,11,5869
+20/06/2020,Odisha,4677,1369,3297,11,6046
+21/06/2020,Odisha,4856,1310,3534,12,6166
+22/06/2020,Odisha,5160,1426,3720,14,6586
+23/06/2020,Odisha,5303,1425,3863,15,6728
+24/06/2020,Odisha,5470,1465,3988,17,6935
+25/06/2020,Odisha,5752,1612,4123,17,7364
+26/06/2020,Odisha,5962,1654,4291,17,7616
+27/06/2020,Odisha,6180,1741,4422,17,7921
+28/06/2020,Odisha,6350,1726,4606,18,8076
+29/06/2020,Odisha,6614,1850,4743,21,8464
+30/06/2020,Odisha,6859,1890,4946,23,8749
+24/03/2020,Puducherry,1,1,0,0,2
+25/03/2020,Puducherry,1,1,0,0,2
+26/03/2020,Puducherry,1,1,0,0,2
+27/03/2020,Puducherry,1,1,0,0,2
+28/03/2020,Puducherry,1,1,0,0,2
+29/03/2020,Puducherry,1,1,0,0,2
+30/03/2020,Puducherry,1,1,0,0,2
+31/03/2020,Puducherry,1,1,0,0,2
+01/04/2020,Puducherry,1,1,0,0,2
+02/04/2020,Puducherry,3,2,1,0,5
+03/04/2020,Puducherry,3,2,1,0,5
+04/04/2020,Puducherry,5,4,1,0,9
+05/04/2020,Puducherry,5,4,1,0,9
+06/04/2020,Puducherry,5,4,1,0,9
+07/04/2020,Puducherry,5,4,1,0,9
+08/04/2020,Puducherry,5,4,1,0,9
+09/04/2020,Puducherry,5,4,1,0,9
+10/04/2020,Puducherry,5,4,1,0,9
+11/04/2020,Puducherry,5,4,1,0,9
+12/04/2020,Puducherry,7,6,1,0,13
+13/04/2020,Puducherry,7,6,1,0,13
+14/04/2020,Puducherry,7,6,1,0,13
+15/04/2020,Puducherry,7,6,1,0,13
+16/04/2020,Puducherry,7,6,1,0,13
+17/04/2020,Puducherry,7,6,1,0,13
+18/04/2020,Puducherry,7,6,1,0,13
+19/04/2020,Puducherry,7,4,3,0,11
+20/04/2020,Puducherry,7,4,3,0,11
+21/04/2020,Puducherry,7,4,3,0,11
+22/04/2020,Puducherry,7,4,3,0,11
+23/04/2020,Puducherry,7,4,3,0,11
+24/04/2020,Puducherry,7,4,3,0,11
+25/04/2020,Puducherry,7,4,3,0,11
+26/04/2020,Puducherry,7,4,3,0,11
+27/04/2020,Puducherry,7,4,3,0,11
+28/04/2020,Puducherry,8,5,3,0,13
+29/04/2020,Puducherry,8,5,3,0,13
+30/04/2020,Puducherry,8,5,3,0,13
+01/05/2020,Puducherry,8,3,5,0,11
+02/05/2020,Puducherry,8,3,5,0,11
+03/05/2020,Puducherry,8,3,5,0,11
+04/05/2020,Puducherry,8,3,5,0,11
+05/05/2020,Puducherry,8,3,5,0,11
+06/05/2020,Puducherry,9,3,6,0,12
+07/05/2020,Puducherry,9,3,6,0,12
+08/05/2020,Puducherry,9,3,6,0,12
+09/05/2020,Puducherry,9,3,6,0,12
+10/05/2020,Puducherry,9,3,6,0,12
+11/05/2020,Puducherry,9,3,6,0,12
+12/05/2020,Puducherry,12,6,6,0,18
+13/05/2020,Puducherry,13,3,9,1,16
+14/05/2020,Puducherry,13,3,9,1,16
+15/05/2020,Puducherry,13,3,9,1,16
+16/05/2020,Puducherry,13,3,9,1,16
+17/05/2020,Puducherry,13,3,9,1,16
+18/05/2020,Puducherry,13,3,9,1,16
+19/05/2020,Puducherry,18,8,9,1,26
+20/05/2020,Puducherry,18,8,9,1,26
+21/05/2020,Puducherry,18,9,9,0,27
+22/05/2020,Puducherry,20,10,10,0,30
+23/05/2020,Puducherry,26,16,10,0,42
+24/05/2020,Puducherry,26,16,10,0,42
+25/05/2020,Puducherry,41,29,12,0,70
+26/05/2020,Puducherry,41,29,12,0,70
+27/05/2020,Puducherry,46,34,12,0,80
+28/05/2020,Puducherry,46,34,12,0,80
+29/05/2020,Puducherry,51,37,14,0,88
+30/05/2020,Puducherry,51,37,14,0,88
+31/05/2020,Puducherry,51,37,14,0,88
+01/06/2020,Puducherry,70,45,25,0,115
+02/06/2020,Puducherry,74,49,25,0,123
+03/06/2020,Puducherry,82,57,25,0,139
+04/06/2020,Puducherry,82,57,25,0,139
+05/06/2020,Puducherry,82,57,25,0,139
+06/06/2020,Puducherry,99,63,36,0,162
+07/06/2020,Puducherry,99,63,36,0,162
+08/06/2020,Puducherry,99,63,36,0,162
+09/06/2020,Puducherry,127,75,52,0,202
+10/06/2020,Puducherry,127,75,52,0,202
+11/06/2020,Puducherry,127,74,53,0,201
+12/06/2020,Puducherry,157,88,67,2,245
+13/06/2020,Puducherry,157,88,67,2,245
+14/06/2020,Puducherry,176,92,82,2,268
+15/06/2020,Puducherry,194,98,91,5,292
+16/06/2020,Puducherry,202,102,95,5,304
+17/06/2020,Puducherry,216,111,99,6,327
+18/06/2020,Puducherry,245,129,109,7,374
+19/06/2020,Puducherry,271,155,109,7,426
+20/06/2020,Puducherry,286,161,118,7,447
+21/06/2020,Puducherry,286,161,118,7,447
+22/06/2020,Puducherry,366,218,140,8,584
+23/06/2020,Puducherry,383,226,149,8,609
+24/06/2020,Puducherry,402,228,165,9,630
+25/06/2020,Puducherry,461,276,176,9,737
+26/06/2020,Puducherry,502,306,187,9,808
+27/06/2020,Puducherry,502,306,187,9,808
+28/06/2020,Puducherry,619,388,221,10,1007
+29/06/2020,Puducherry,619,388,221,10,1007
+30/06/2020,Puducherry,619,388,221,10,1007
+24/03/2020,Punjab,21,20,0,1,41
+25/03/2020,Punjab,29,28,0,1,57
+26/03/2020,Punjab,33,32,0,1,65
+27/03/2020,Punjab,33,32,0,1,65
+28/03/2020,Punjab,38,36,1,1,74
+29/03/2020,Punjab,38,36,1,1,74
+30/03/2020,Punjab,38,36,1,1,74
+31/03/2020,Punjab,41,37,1,3,78
+01/04/2020,Punjab,41,37,1,3,78
+02/04/2020,Punjab,46,41,1,4,87
+03/04/2020,Punjab,46,41,1,4,87
+04/04/2020,Punjab,53,47,1,5,100
+05/04/2020,Punjab,57,51,1,5,108
+06/04/2020,Punjab,68,58,4,6,126
+07/04/2020,Punjab,76,66,4,6,142
+08/04/2020,Punjab,91,80,4,7,171
+09/04/2020,Punjab,101,89,4,8,190
+10/04/2020,Punjab,101,89,4,8,190
+11/04/2020,Punjab,132,116,5,11,248
+12/04/2020,Punjab,151,135,5,11,286
+13/04/2020,Punjab,151,135,5,11,286
+14/04/2020,Punjab,167,142,14,11,309
+15/04/2020,Punjab,176,150,14,12,326
+16/04/2020,Punjab,186,146,27,13,332
+17/04/2020,Punjab,186,146,27,13,332
+18/04/2020,Punjab,202,162,27,13,364
+19/04/2020,Punjab,202,162,27,13,364
+20/04/2020,Punjab,219,172,31,16,391
+21/04/2020,Punjab,245,191,38,16,436
+22/04/2020,Punjab,245,190,39,16,435
+23/04/2020,Punjab,251,186,49,16,437
+24/04/2020,Punjab,277,196,65,16,473
+25/04/2020,Punjab,298,214,67,17,512
+26/04/2020,Punjab,298,214,67,17,512
+27/04/2020,Punjab,313,224,71,18,537
+28/04/2020,Punjab,313,224,71,18,537
+29/04/2020,Punjab,322,232,71,19,554
+30/04/2020,Punjab,357,248,90,19,605
+01/05/2020,Punjab,357,248,90,19,605
+02/05/2020,Punjab,480,371,90,19,851
+03/05/2020,Punjab,772,640,112,20,1412
+04/05/2020,Punjab,1102,964,117,21,2066
+05/05/2020,Punjab,1233,1089,121,23,2322
+06/05/2020,Punjab,1451,1293,133,25,2744
+07/05/2020,Punjab,1516,1354,135,27,2870
+08/05/2020,Punjab,1644,1467,149,28,3111
+09/05/2020,Punjab,1731,1550,152,29,3281
+10/05/2020,Punjab,1762,1574,157,31,3336
+11/05/2020,Punjab,1823,1626,166,31,3449
+12/05/2020,Punjab,1877,1678,168,31,3555
+13/05/2020,Punjab,1914,1711,171,32,3625
+14/05/2020,Punjab,1924,1692,200,32,3616
+15/05/2020,Punjab,1935,1680,223,32,3615
+16/05/2020,Punjab,1935,1598,305,32,3533
+17/05/2020,Punjab,1946,657,1257,32,2603
+18/05/2020,Punjab,1964,563,1366,35,2527
+19/05/2020,Punjab,1980,396,1547,37,2376
+20/05/2020,Punjab,2002,322,1642,38,2324
+21/05/2020,Punjab,2005,173,1794,38,2178
+22/05/2020,Punjab,2028,170,1819,39,2198
+23/05/2020,Punjab,2029,143,1847,39,2172
+24/05/2020,Punjab,2045,136,1870,39,2181
+25/05/2020,Punjab,2060,122,1898,40,2182
+26/05/2020,Punjab,2060,122,1898,40,2182
+27/05/2020,Punjab,2106,148,1918,40,2254
+28/05/2020,Punjab,2139,181,1918,40,2320
+29/05/2020,Punjab,2158,172,1946,40,2330
+30/05/2020,Punjab,2197,206,1949,42,2403
+31/05/2020,Punjab,2233,222,1967,44,2455
+01/06/2020,Punjab,2263,231,1987,45,2494
+02/06/2020,Punjab,2301,256,2000,45,2557
+03/06/2020,Punjab,2342,279,2017,46,2621
+04/06/2020,Punjab,2376,300,2029,47,2676
+05/06/2020,Punjab,2415,325,2043,47,2740
+06/06/2020,Punjab,2461,344,2069,48,2805
+07/06/2020,Punjab,2515,373,2092,50,2888
+08/06/2020,Punjab,2608,451,2106,51,3059
+09/06/2020,Punjab,2663,482,2128,53,3145
+10/06/2020,Punjab,2719,497,2167,55,3216
+11/06/2020,Punjab,2805,518,2232,55,3323
+12/06/2020,Punjab,2887,569,2259,59,3456
+13/06/2020,Punjab,2986,641,2282,63,3627
+14/06/2020,Punjab,3063,671,2327,65,3734
+15/06/2020,Punjab,3140,717,2356,67,3857
+16/06/2020,Punjab,3267,753,2443,71,4020
+17/06/2020,Punjab,3371,838,2461,72,4209
+18/06/2020,Punjab,3497,881,2538,78,4378
+19/06/2020,Punjab,3615,962,2570,83,4577
+20/06/2020,Punjab,3832,1104,2636,92,4936
+21/06/2020,Punjab,3952,1176,2678,98,5128
+22/06/2020,Punjab,4074,1275,2700,99,5349
+23/06/2020,Punjab,4235,1309,2825,101,5544
+24/06/2020,Punjab,4397,1245,3047,105,5642
+25/06/2020,Punjab,4627,1415,3099,113,6042
+26/06/2020,Punjab,4769,1457,3192,120,6226
+27/06/2020,Punjab,4957,1634,3201,122,6591
+28/06/2020,Punjab,5056,1608,3320,128,6664
+29/06/2020,Punjab,5216,1557,3526,133,6773
+30/06/2020,Punjab,5418,1516,3764,138,6934
+24/03/2020,Rajasthan,33,30,3,0,63
+25/03/2020,Rajasthan,32,29,3,0,61
+26/03/2020,Rajasthan,38,35,3,0,73
+27/03/2020,Rajasthan,41,38,3,0,79
+28/03/2020,Rajasthan,54,51,3,0,105
+29/03/2020,Rajasthan,54,51,3,0,105
+30/03/2020,Rajasthan,57,54,3,0,111
+31/03/2020,Rajasthan,74,71,3,0,145
+01/04/2020,Rajasthan,93,90,3,0,183
+02/04/2020,Rajasthan,108,105,3,0,213
+03/04/2020,Rajasthan,133,130,3,0,263
+04/04/2020,Rajasthan,179,176,3,0,355
+05/04/2020,Rajasthan,200,179,21,0,379
+06/04/2020,Rajasthan,253,232,21,0,485
+07/04/2020,Rajasthan,288,264,21,3,552
+08/04/2020,Rajasthan,328,304,21,3,632
+09/04/2020,Rajasthan,381,357,21,3,738
+10/04/2020,Rajasthan,463,439,21,3,902
+11/04/2020,Rajasthan,553,529,21,3,1082
+12/04/2020,Rajasthan,700,676,21,3,1376
+13/04/2020,Rajasthan,772,748,21,3,1520
+14/04/2020,Rajasthan,873,849,21,3,1722
+15/04/2020,Rajasthan,969,819,147,3,1788
+16/04/2020,Rajasthan,1023,873,147,3,1896
+17/04/2020,Rajasthan,1131,964,164,3,2095
+18/04/2020,Rajasthan,1229,1035,183,11,2264
+19/04/2020,Rajasthan,1351,1157,183,11,2508
+20/04/2020,Rajasthan,1478,1281,183,14,2759
+21/04/2020,Rajasthan,1576,1346,205,25,2922
+22/04/2020,Rajasthan,1659,1404,230,25,3063
+23/04/2020,Rajasthan,1890,1633,230,27,3523
+24/04/2020,Rajasthan,1964,1707,230,27,3671
+25/04/2020,Rajasthan,2034,1777,230,27,3811
+26/04/2020,Rajasthan,2083,1557,493,33,3640
+27/04/2020,Rajasthan,2185,1634,518,33,3819
+28/04/2020,Rajasthan,2262,1547,669,46,3809
+29/04/2020,Rajasthan,2364,1545,768,51,3909
+30/04/2020,Rajasthan,2438,1619,768,51,4057
+01/05/2020,Rajasthan,2584,1690,836,58,4274
+02/05/2020,Rajasthan,2666,1488,1116,62,4154
+03/05/2020,Rajasthan,2770,1584,1121,65,4354
+04/05/2020,Rajasthan,2886,1459,1356,71,4345
+05/05/2020,Rajasthan,3061,1590,1394,77,4651
+06/05/2020,Rajasthan,3158,1544,1525,89,4702
+07/05/2020,Rajasthan,3317,1629,1596,92,4946
+08/05/2020,Rajasthan,3427,1734,1596,97,5161
+09/05/2020,Rajasthan,3579,1562,1916,101,5141
+10/05/2020,Rajasthan,3708,1576,2026,106,5284
+11/05/2020,Rajasthan,3814,1531,2176,107,5345
+12/05/2020,Rajasthan,3988,1611,2264,113,5599
+13/05/2020,Rajasthan,4126,1631,2378,117,5757
+14/05/2020,Rajasthan,4328,1748,2459,121,6076
+15/05/2020,Rajasthan,4534,1829,2580,125,6363
+16/05/2020,Rajasthan,4727,1925,2677,125,6652
+17/05/2020,Rajasthan,4960,1995,2839,126,6955
+18/05/2020,Rajasthan,5202,2079,2992,131,7281
+19/05/2020,Rajasthan,5507,2151,3218,138,7658
+20/05/2020,Rajasthan,5845,2365,3337,143,8210
+21/05/2020,Rajasthan,6015,2464,3404,147,8479
+22/05/2020,Rajasthan,6227,2591,3485,151,8818
+23/05/2020,Rajasthan,6494,2661,3680,153,9155
+24/05/2020,Rajasthan,6742,2796,3786,160,9538
+25/05/2020,Rajasthan,7028,3017,3848,163,10045
+26/05/2020,Rajasthan,7300,3182,3951,167,10482
+27/05/2020,Rajasthan,7536,3195,4171,170,10731
+28/05/2020,Rajasthan,7703,3073,4457,173,10776
+29/05/2020,Rajasthan,8067,3070,4817,180,11137
+30/05/2020,Rajasthan,8365,2937,5244,184,11302
+31/05/2020,Rajasthan,8617,2685,5739,193,11302
+01/06/2020,Rajasthan,8831,2710,5927,194,11541
+02/06/2020,Rajasthan,8980,2742,6040,198,11722
+03/06/2020,Rajasthan,9373,2735,6435,203,12108
+04/06/2020,Rajasthan,9652,2699,6744,209,12351
+05/06/2020,Rajasthan,9862,2545,7104,213,12407
+06/06/2020,Rajasthan,10084,2507,7359,218,12591
+07/06/2020,Rajasthan,10331,2599,7501,231,12930
+08/06/2020,Rajasthan,10599,2718,7641,240,13317
+09/06/2020,Rajasthan,10763,2513,8004,246,13276
+10/06/2020,Rajasthan,11245,2662,8328,255,13907
+11/06/2020,Rajasthan,11600,2772,8569,259,14372
+12/06/2020,Rajasthan,11838,2798,8775,265,14636
+13/06/2020,Rajasthan,12068,2898,8898,272,14966
+14/06/2020,Rajasthan,12401,2782,9337,282,15183
+15/06/2020,Rajasthan,12694,2836,9566,292,15530
+16/06/2020,Rajasthan,12981,2895,9785,301,15876
+17/06/2020,Rajasthan,13216,3059,9849,308,16275
+18/06/2020,Rajasthan,13542,2762,10467,313,16304
+19/06/2020,Rajasthan,13857,2792,10742,323,16649
+20/06/2020,Rajasthan,14156,2826,10997,333,16982
+21/06/2020,Rajasthan,14536,2925,11274,337,17461
+22/06/2020,Rajasthan,14930,2984,11597,349,17914
+23/06/2020,Rajasthan,15232,2966,11910,356,18198
+24/06/2020,Rajasthan,15627,3049,12213,365,18676
+25/06/2020,Rajasthan,16009,3023,12611,375,19032
+26/06/2020,Rajasthan,16296,3077,12840,379,19373
+27/06/2020,Rajasthan,16660,3218,13062,380,19878
+28/06/2020,Rajasthan,16944,3186,13367,391,20130
+29/06/2020,Rajasthan,17271,3261,13611,399,20532
+30/06/2020,Rajasthan,17660,3637,13618,405,21297
+24/05/2020,Sikkim,1,1,0,0,2
+25/05/2020,Sikkim,1,1,0,0,2
+26/05/2020,Sikkim,1,1,0,0,2
+27/05/2020,Sikkim,1,1,0,0,2
+28/05/2020,Sikkim,1,1,0,0,2
+29/05/2020,Sikkim,1,1,0,0,2
+30/05/2020,Sikkim,1,1,0,0,2
+31/05/2020,Sikkim,1,1,0,0,2
+01/06/2020,Sikkim,1,1,0,0,2
+02/06/2020,Sikkim,1,1,0,0,2
+03/06/2020,Sikkim,1,1,0,0,2
+04/06/2020,Sikkim,2,2,0,0,4
+05/06/2020,Sikkim,2,2,0,0,4
+06/06/2020,Sikkim,3,3,0,0,6
+07/06/2020,Sikkim,7,7,0,0,14
+08/06/2020,Sikkim,7,7,0,0,14
+09/06/2020,Sikkim,7,7,0,0,14
+10/06/2020,Sikkim,13,13,0,0,26
+11/06/2020,Sikkim,13,13,0,0,26
+12/06/2020,Sikkim,14,12,2,0,26
+13/06/2020,Sikkim,63,61,2,0,124
+14/06/2020,Sikkim,63,59,4,0,122
+15/06/2020,Sikkim,68,64,4,0,132
+16/06/2020,Sikkim,68,64,4,0,132
+17/06/2020,Sikkim,70,66,4,0,136
+18/06/2020,Sikkim,70,66,4,0,136
+19/06/2020,Sikkim,70,65,5,0,135
+20/06/2020,Sikkim,70,65,5,0,135
+21/06/2020,Sikkim,70,45,25,0,115
+22/06/2020,Sikkim,78,53,25,0,131
+23/06/2020,Sikkim,78,49,29,0,127
+24/06/2020,Sikkim,79,50,29,0,129
+25/06/2020,Sikkim,84,45,39,0,129
+26/06/2020,Sikkim,85,46,39,0,131
+27/06/2020,Sikkim,86,47,39,0,133
+28/06/2020,Sikkim,87,41,46,0,128
+29/06/2020,Sikkim,88,39,49,0,127
+30/06/2020,Sikkim,88,38,50,0,126
+24/03/2020,Tamil Nadu,12,11,1,0,23
+25/03/2020,Tamil Nadu,15,14,1,0,29
+26/03/2020,Tamil Nadu,26,24,1,1,50
+27/03/2020,Tamil Nadu,29,27,1,1,56
+28/03/2020,Tamil Nadu,40,37,2,1,77
+29/03/2020,Tamil Nadu,42,39,2,1,81
+30/03/2020,Tamil Nadu,50,45,4,1,95
+31/03/2020,Tamil Nadu,74,69,4,1,143
+01/04/2020,Tamil Nadu,124,119,4,1,243
+02/04/2020,Tamil Nadu,234,227,6,1,461
+03/04/2020,Tamil Nadu,309,302,6,1,611
+04/04/2020,Tamil Nadu,411,404,6,1,815
+05/04/2020,Tamil Nadu,485,476,6,3,961
+06/04/2020,Tamil Nadu,571,558,8,5,1129
+07/04/2020,Tamil Nadu,621,608,8,5,1229
+08/04/2020,Tamil Nadu,690,664,19,7,1354
+09/04/2020,Tamil Nadu,738,709,21,8,1447
+10/04/2020,Tamil Nadu,834,805,21,8,1639
+11/04/2020,Tamil Nadu,911,859,44,8,1770
+12/04/2020,Tamil Nadu,969,915,44,10,1884
+13/04/2020,Tamil Nadu,1075,1014,50,11,2089
+14/04/2020,Tamil Nadu,1173,1104,58,11,2277
+15/04/2020,Tamil Nadu,1204,1111,81,12,2315
+16/04/2020,Tamil Nadu,1242,1110,118,14,2352
+17/04/2020,Tamil Nadu,1267,1072,180,15,2339
+18/04/2020,Tamil Nadu,1323,1025,283,15,2348
+19/04/2020,Tamil Nadu,1372,992,365,15,2364
+20/04/2020,Tamil Nadu,1477,1051,411,15,2528
+21/04/2020,Tamil Nadu,1520,1046,457,17,2566
+22/04/2020,Tamil Nadu,1596,943,635,18,2539
+23/04/2020,Tamil Nadu,1629,949,662,18,2578
+24/04/2020,Tamil Nadu,1683,911,752,20,2594
+25/04/2020,Tamil Nadu,1755,867,866,22,2622
+26/04/2020,Tamil Nadu,1821,838,960,23,2659
+27/04/2020,Tamil Nadu,1885,841,1020,24,2726
+28/04/2020,Tamil Nadu,1937,812,1101,24,2749
+29/04/2020,Tamil Nadu,2058,865,1168,25,2923
+30/04/2020,Tamil Nadu,2162,925,1210,27,3087
+01/05/2020,Tamil Nadu,2323,1038,1258,27,3361
+02/05/2020,Tamil Nadu,2526,1186,1312,28,3712
+03/05/2020,Tamil Nadu,2757,1387,1341,29,4144
+04/05/2020,Tamil Nadu,3023,1614,1379,30,4637
+05/05/2020,Tamil Nadu,3550,2110,1409,31,5660
+06/05/2020,Tamil Nadu,4058,2540,1485,33,6598
+07/05/2020,Tamil Nadu,4829,3278,1516,35,8107
+08/05/2020,Tamil Nadu,5409,3825,1547,37,9234
+09/05/2020,Tamil Nadu,6009,4364,1605,40,10373
+10/05/2020,Tamil Nadu,6535,4667,1824,44,11202
+11/05/2020,Tamil Nadu,7204,5198,1959,47,12402
+12/05/2020,Tamil Nadu,8002,5898,2051,53,13900
+13/05/2020,Tamil Nadu,8718,6523,2134,61,15241
+14/05/2020,Tamil Nadu,9227,6987,2176,64,16214
+15/05/2020,Tamil Nadu,9674,7368,2240,66,17042
+16/05/2020,Tamil Nadu,10108,7438,2599,71,17546
+17/05/2020,Tamil Nadu,10585,6973,3538,74,17558
+18/05/2020,Tamil Nadu,11224,6974,4172,78,18198
+19/05/2020,Tamil Nadu,11760,7273,4406,81,19033
+20/05/2020,Tamil Nadu,12448,7469,4895,84,19917
+21/05/2020,Tamil Nadu,13191,7222,5882,87,20413
+22/05/2020,Tamil Nadu,13967,7591,6282,94,21558
+23/05/2020,Tamil Nadu,14753,7527,7128,98,22280
+24/05/2020,Tamil Nadu,15512,7918,7491,103,23430
+25/05/2020,Tamil Nadu,16277,7842,8324,111,24119
+26/05/2020,Tamil Nadu,17082,8233,8731,118,25315
+27/05/2020,Tamil Nadu,17728,8259,9342,127,25987
+28/05/2020,Tamil Nadu,18545,8503,9909,133,27048
+29/05/2020,Tamil Nadu,19372,8679,10548,145,28051
+30/05/2020,Tamil Nadu,20246,8779,11313,154,29025
+31/05/2020,Tamil Nadu,21184,9024,12000,160,30208
+01/06/2020,Tamil Nadu,22333,9403,12757,173,31736
+02/06/2020,Tamil Nadu,23495,10141,13170,184,33636
+03/06/2020,Tamil Nadu,24586,10683,13706,197,35269
+04/06/2020,Tamil Nadu,25872,11348,14316,208,37220
+05/06/2020,Tamil Nadu,27256,12134,14902,220,39390
+06/06/2020,Tamil Nadu,28694,12700,15762,232,41394
+07/06/2020,Tamil Nadu,30152,13506,16395,251,43658
+08/06/2020,Tamil Nadu,31667,14399,16999,269,46066
+09/06/2020,Tamil Nadu,33229,15416,17527,286,48645
+10/06/2020,Tamil Nadu,34914,16282,18325,307,51196
+11/06/2020,Tamil Nadu,36841,17182,19333,326,54023
+12/06/2020,Tamil Nadu,38716,17662,20705,349,56378
+13/06/2020,Tamil Nadu,40698,18284,22047,367,58982
+14/06/2020,Tamil Nadu,42687,18881,23409,397,61568
+15/06/2020,Tamil Nadu,44661,19679,24547,435,64340
+16/06/2020,Tamil Nadu,46504,20681,25344,479,67185
+17/06/2020,Tamil Nadu,48019,20709,26782,528,68728
+18/06/2020,Tamil Nadu,50193,21993,27624,576,72186
+19/06/2020,Tamil Nadu,52334,23068,28641,625,75402
+20/06/2020,Tamil Nadu,54449,23512,30271,666,77961
+21/06/2020,Tamil Nadu,56845,24825,31316,704,81670
+22/06/2020,Tamil Nadu,59377,25866,32754,757,85243
+23/06/2020,Tamil Nadu,62087,27181,34112,794,89268
+24/06/2020,Tamil Nadu,64603,28431,35339,833,93034
+25/06/2020,Tamil Nadu,67468,28839,37763,866,96307
+26/06/2020,Tamil Nadu,70977,30067,39999,911,101044
+27/06/2020,Tamil Nadu,74622,32308,41357,957,106930
+28/06/2020,Tamil Nadu,78335,33216,44094,1025,111551
+29/06/2020,Tamil Nadu,82275,35659,45537,1079,117934
+30/06/2020,Tamil Nadu,86224,37334,47749,1141,123558
+24/03/2020,Telangana,32,31,1,0,63
+25/03/2020,Telangana,35,34,1,0,69
+26/03/2020,Telangana,41,40,1,0,81
+27/03/2020,Telangana,45,44,1,0,89
+28/03/2020,Telangana,56,55,1,0,111
+29/03/2020,Telangana,66,64,1,1,130
+30/03/2020,Telangana,69,67,1,1,136
+31/03/2020,Telangana,79,77,1,1,156
+01/04/2020,Telangana,94,90,1,3,184
+02/04/2020,Telangana,96,92,1,3,188
+03/04/2020,Telangana,107,103,1,3,210
+04/04/2020,Telangana,158,150,1,7,308
+05/04/2020,Telangana,269,230,32,7,499
+06/04/2020,Telangana,321,280,34,7,601
+07/04/2020,Telangana,321,280,34,7,601
+08/04/2020,Telangana,364,322,35,7,686
+09/04/2020,Telangana,427,385,35,7,812
+10/04/2020,Telangana,442,400,35,7,842
+11/04/2020,Telangana,473,423,43,7,896
+12/04/2020,Telangana,504,452,43,9,956
+13/04/2020,Telangana,504,452,43,9,956
+14/04/2020,Telangana,562,446,100,16,1008
+15/04/2020,Telangana,624,507,100,17,1131
+16/04/2020,Telangana,647,509,120,18,1156
+17/04/2020,Telangana,700,496,186,18,1196
+18/04/2020,Telangana,766,562,186,18,1328
+19/04/2020,Telangana,809,605,186,18,1414
+20/04/2020,Telangana,844,640,186,18,1484
+21/04/2020,Telangana,873,660,190,23,1533
+22/04/2020,Telangana,928,711,194,23,1639
+23/04/2020,Telangana,945,728,194,23,1673
+24/04/2020,Telangana,960,739,197,24,1699
+25/04/2020,Telangana,984,705,253,26,1689
+26/04/2020,Telangana,991,685,280,26,1676
+27/04/2020,Telangana,1002,696,280,26,1698
+28/04/2020,Telangana,1004,657,321,26,1661
+29/04/2020,Telangana,1004,657,321,26,1661
+30/04/2020,Telangana,1012,619,367,26,1631
+01/05/2020,Telangana,1038,615,397,26,1653
+02/05/2020,Telangana,1039,572,441,26,1611
+03/05/2020,Telangana,1063,577,458,28,1640
+04/05/2020,Telangana,1082,563,490,29,1645
+05/05/2020,Telangana,1085,471,585,29,1556
+06/05/2020,Telangana,1096,482,585,29,1578
+07/05/2020,Telangana,1107,450,628,29,1557
+08/05/2020,Telangana,1123,444,650,29,1567
+09/05/2020,Telangana,1133,404,700,29,1537
+10/05/2020,Telangana,1163,383,750,30,1546
+11/05/2020,Telangana,1196,416,750,30,1612
+12/05/2020,Telangana,1275,445,800,30,1720
+13/05/2020,Telangana,1326,464,830,32,1790
+14/05/2020,Telangana,1367,393,940,34,1760
+15/05/2020,Telangana,1414,430,950,34,1844
+16/05/2020,Telangana,1454,461,959,34,1915
+17/05/2020,Telangana,1509,504,971,34,2013
+18/05/2020,Telangana,1551,525,992,34,2076
+19/05/2020,Telangana,1597,562,1000,35,2159
+20/05/2020,Telangana,1634,586,1010,38,2220
+21/05/2020,Telangana,1661,606,1015,40,2267
+22/05/2020,Telangana,1699,619,1035,45,2318
+23/05/2020,Telangana,1761,673,1043,45,2434
+24/05/2020,Telangana,1813,699,1065,49,2512
+25/05/2020,Telangana,1854,711,1090,53,2565
+26/05/2020,Telangana,1920,700,1164,56,2620
+27/05/2020,Telangana,1991,650,1284,57,2641
+28/05/2020,Telangana,2098,751,1284,63,2849
+29/05/2020,Telangana,2256,844,1345,67,3100
+30/05/2020,Telangana,2425,973,1381,71,3398
+31/05/2020,Telangana,2499,1010,1412,77,3509
+01/06/2020,Telangana,2698,1188,1428,82,3886
+02/06/2020,Telangana,2792,1213,1491,88,4005
+03/06/2020,Telangana,2891,1273,1526,92,4164
+04/06/2020,Telangana,3020,1365,1556,99,4385
+05/06/2020,Telangana,3147,1455,1587,105,4602
+06/06/2020,Telangana,3290,1550,1627,113,4840
+07/06/2020,Telangana,3496,1663,1710,123,5159
+08/06/2020,Telangana,3580,1747,1710,123,5327
+09/06/2020,Telangana,3650,1803,1710,137,5453
+10/06/2020,Telangana,3920,1963,1809,148,5883
+11/06/2020,Telangana,4111,2138,1817,156,6249
+12/06/2020,Telangana,4320,2162,1993,165,6482
+13/06/2020,Telangana,4484,2032,2278,174,6516
+14/06/2020,Telangana,4737,2203,2352,182,6940
+15/06/2020,Telangana,4974,2412,2377,185,7386
+16/06/2020,Telangana,5193,2240,2766,187,7433
+17/06/2020,Telangana,5406,2188,3027,191,7594
+18/06/2020,Telangana,5675,2412,3071,192,8087
+19/06/2020,Telangana,6027,2531,3301,195,8558
+20/06/2020,Telangana,6526,2975,3353,198,9501
+21/06/2020,Telangana,7072,3363,3506,203,10435
+22/06/2020,Telangana,7802,3861,3731,210,11663
+23/06/2020,Telangana,8674,4452,4005,217,13126
+24/06/2020,Telangana,9553,5109,4224,220,14662
+25/06/2020,Telangana,10444,5858,4361,225,16302
+26/06/2020,Telangana,11364,6446,4688,230,17810
+27/06/2020,Telangana,12349,7346,4766,237,19695
+28/06/2020,Telangana,13436,8265,4928,243,21701
+29/06/2020,Telangana,14419,9000,5172,247,23419
+30/06/2020,Telangana,15394,9559,5582,253,24953
+07/04/2020,Tripura,1,1,0,0,2
+08/04/2020,Tripura,1,1,0,0,2
+09/04/2020,Tripura,1,1,0,0,2
+10/04/2020,Tripura,1,1,0,0,2
+11/04/2020,Tripura,1,1,0,0,2
+12/04/2020,Tripura,2,2,0,0,4
+13/04/2020,Tripura,2,2,0,0,4
+14/04/2020,Tripura,2,2,0,0,4
+15/04/2020,Tripura,2,2,0,0,4
+16/04/2020,Tripura,2,1,1,0,3
+17/04/2020,Tripura,2,1,1,0,3
+18/04/2020,Tripura,2,1,1,0,3
+19/04/2020,Tripura,2,1,1,0,3
+20/04/2020,Tripura,2,1,1,0,3
+21/04/2020,Tripura,2,1,1,0,3
+22/04/2020,Tripura,2,1,1,0,3
+23/04/2020,Tripura,2,1,1,0,3
+24/04/2020,Tripura,2,1,1,0,3
+25/04/2020,Tripura,2,1,1,0,3
+26/04/2020,Tripura,2,0,2,0,2
+27/04/2020,Tripura,2,0,2,0,2
+28/04/2020,Tripura,2,0,2,0,2
+29/04/2020,Tripura,2,0,2,0,2
+30/04/2020,Tripura,2,0,2,0,2
+01/05/2020,Tripura,2,0,2,0,2
+02/05/2020,Tripura,2,0,2,0,2
+03/05/2020,Tripura,4,2,2,0,6
+04/05/2020,Tripura,16,14,2,0,30
+05/05/2020,Tripura,29,27,2,0,56
+06/05/2020,Tripura,43,41,2,0,84
+07/05/2020,Tripura,43,41,2,0,84
+08/05/2020,Tripura,65,63,2,0,128
+09/05/2020,Tripura,118,116,2,0,234
+10/05/2020,Tripura,134,132,2,0,266
+11/05/2020,Tripura,150,148,2,0,298
+12/05/2020,Tripura,152,150,2,0,302
+13/05/2020,Tripura,154,152,2,0,306
+14/05/2020,Tripura,155,139,16,0,294
+15/05/2020,Tripura,156,127,29,0,283
+16/05/2020,Tripura,156,114,42,0,270
+17/05/2020,Tripura,167,103,64,0,270
+18/05/2020,Tripura,167,82,85,0,249
+19/05/2020,Tripura,167,82,85,0,249
+20/05/2020,Tripura,173,57,116,0,230
+21/05/2020,Tripura,173,40,133,0,213
+22/05/2020,Tripura,173,25,148,0,198
+23/05/2020,Tripura,175,23,152,0,198
+24/05/2020,Tripura,189,36,153,0,225
+25/05/2020,Tripura,191,26,165,0,217
+26/05/2020,Tripura,194,29,165,0,223
+27/05/2020,Tripura,207,42,165,0,249
+28/05/2020,Tripura,230,65,165,0,295
+29/05/2020,Tripura,242,75,167,0,317
+30/05/2020,Tripura,251,80,171,0,331
+31/05/2020,Tripura,268,96,172,0,364
+01/06/2020,Tripura,313,140,173,0,453
+02/06/2020,Tripura,420,247,173,0,667
+03/06/2020,Tripura,468,295,173,0,763
+04/06/2020,Tripura,468,295,173,0,763
+05/06/2020,Tripura,644,471,173,0,1115
+06/06/2020,Tripura,692,519,173,0,1211
+07/06/2020,Tripura,747,574,173,0,1321
+08/06/2020,Tripura,800,608,192,0,1408
+09/06/2020,Tripura,838,646,192,0,1484
+10/06/2020,Tripura,864,671,192,1,1535
+11/06/2020,Tripura,895,655,239,1,1550
+12/06/2020,Tripura,913,634,278,1,1547
+13/06/2020,Tripura,961,682,278,1,1643
+14/06/2020,Tripura,1046,730,315,1,1776
+15/06/2020,Tripura,1076,760,315,1,1836
+16/06/2020,Tripura,1086,652,433,1,1738
+17/06/2020,Tripura,1092,658,433,1,1750
+18/06/2020,Tripura,1135,578,556,1,1713
+19/06/2020,Tripura,1155,515,639,1,1670
+20/06/2020,Tripura,1178,520,657,1,1698
+21/06/2020,Tripura,1186,505,680,1,1691
+22/06/2020,Tripura,1221,461,759,1,1682
+23/06/2020,Tripura,1237,454,782,1,1691
+24/06/2020,Tripura,1259,451,807,1,1710
+25/06/2020,Tripura,1259,361,897,1,1620
+26/06/2020,Tripura,1290,270,1019,1,1560
+27/06/2020,Tripura,1325,269,1055,1,1594
+28/06/2020,Tripura,1334,262,1071,1,1596
+29/06/2020,Tripura,1346,266,1079,1,1612
+30/06/2020,Tripura,1380,294,1085,1,1674
+24/03/2020,Uttar Pradesh,33,24,9,0,57
+25/03/2020,Uttar Pradesh,33,22,11,0,55
+26/03/2020,Uttar Pradesh,37,26,11,0,63
+27/03/2020,Uttar Pradesh,41,30,11,0,71
+28/03/2020,Uttar Pradesh,55,44,11,0,99
+29/03/2020,Uttar Pradesh,55,44,11,0,99
+30/03/2020,Uttar Pradesh,75,64,11,0,139
+31/03/2020,Uttar Pradesh,101,87,14,0,188
+01/04/2020,Uttar Pradesh,103,89,14,0,192
+02/04/2020,Uttar Pradesh,113,97,14,2,210
+03/04/2020,Uttar Pradesh,113,97,14,2,210
+04/04/2020,Uttar Pradesh,174,153,19,2,327
+05/04/2020,Uttar Pradesh,227,206,19,2,433
+06/04/2020,Uttar Pradesh,227,206,19,2,433
+07/04/2020,Uttar Pradesh,305,281,21,3,586
+08/04/2020,Uttar Pradesh,326,302,21,3,628
+09/04/2020,Uttar Pradesh,361,330,27,4,691
+10/04/2020,Uttar Pradesh,410,375,31,4,785
+11/04/2020,Uttar Pradesh,431,395,32,4,826
+12/04/2020,Uttar Pradesh,452,402,45,5,854
+13/04/2020,Uttar Pradesh,483,432,46,5,915
+14/04/2020,Uttar Pradesh,558,504,49,5,1062
+15/04/2020,Uttar Pradesh,660,605,50,5,1265
+16/04/2020,Uttar Pradesh,735,673,51,11,1408
+17/04/2020,Uttar Pradesh,805,718,74,13,1523
+18/04/2020,Uttar Pradesh,849,753,82,14,1602
+19/04/2020,Uttar Pradesh,969,869,86,14,1838
+20/04/2020,Uttar Pradesh,1084,959,108,17,2043
+21/04/2020,Uttar Pradesh,1184,1026,140,18,2210
+22/04/2020,Uttar Pradesh,1294,1134,140,20,2428
+23/04/2020,Uttar Pradesh,1449,1255,173,21,2704
+24/04/2020,Uttar Pradesh,1510,1280,206,24,2790
+25/04/2020,Uttar Pradesh,1621,1349,247,25,2970
+26/04/2020,Uttar Pradesh,1793,1505,261,27,3298
+27/04/2020,Uttar Pradesh,1868,1550,289,29,3418
+28/04/2020,Uttar Pradesh,1955,1589,335,31,3544
+29/04/2020,Uttar Pradesh,2053,1557,462,34,3610
+30/04/2020,Uttar Pradesh,2134,1585,510,39,3719
+01/05/2020,Uttar Pradesh,2203,1651,513,39,3854
+02/05/2020,Uttar Pradesh,2328,1632,654,42,3960
+03/05/2020,Uttar Pradesh,2487,1755,689,43,4242
+04/05/2020,Uttar Pradesh,2645,1848,754,43,4493
+05/05/2020,Uttar Pradesh,2766,1914,802,50,4680
+06/05/2020,Uttar Pradesh,2880,1837,987,56,4717
+07/05/2020,Uttar Pradesh,2998,1808,1130,60,4806
+08/05/2020,Uttar Pradesh,3071,1759,1250,62,4830
+09/05/2020,Uttar Pradesh,3214,1761,1387,66,4975
+10/05/2020,Uttar Pradesh,3373,1800,1499,74,5173
+11/05/2020,Uttar Pradesh,3467,1740,1653,74,5207
+12/05/2020,Uttar Pradesh,3573,1735,1758,80,5308
+13/05/2020,Uttar Pradesh,3664,1709,1873,82,5373
+14/05/2020,Uttar Pradesh,3729,1744,1902,83,5473
+15/05/2020,Uttar Pradesh,3902,1742,2072,88,5644
+16/05/2020,Uttar Pradesh,4057,1797,2165,95,5854
+17/05/2020,Uttar Pradesh,4258,1713,2441,104,5971
+18/05/2020,Uttar Pradesh,4259,1714,2441,104,5973
+19/05/2020,Uttar Pradesh,4605,1704,2783,118,6309
+20/05/2020,Uttar Pradesh,4926,1885,2918,123,6811
+21/05/2020,Uttar Pradesh,5175,1982,3066,127,7157
+22/05/2020,Uttar Pradesh,5515,2173,3204,138,7688
+23/05/2020,Uttar Pradesh,5735,2345,3238,152,8080
+24/05/2020,Uttar Pradesh,6017,2456,3406,155,8473
+25/05/2020,Uttar Pradesh,6268,2569,3538,161,8837
+26/05/2020,Uttar Pradesh,6532,2786,3581,165,9318
+27/05/2020,Uttar Pradesh,6548,2680,3698,170,9228
+28/05/2020,Uttar Pradesh,6991,2818,3991,182,9809
+29/05/2020,Uttar Pradesh,7170,2758,4215,197,9928
+30/05/2020,Uttar Pradesh,7284,2842,4244,198,10126
+31/05/2020,Uttar Pradesh,7445,2834,4410,201,10279
+01/06/2020,Uttar Pradesh,7823,2901,4709,213,10724
+02/06/2020,Uttar Pradesh,8075,3015,4843,217,11090
+03/06/2020,Uttar Pradesh,8361,3109,5030,222,11470
+04/06/2020,Uttar Pradesh,8729,3324,5176,229,12053
+05/06/2020,Uttar Pradesh,9237,3553,5439,245,12790
+06/06/2020,Uttar Pradesh,9733,3828,5648,257,13561
+07/06/2020,Uttar Pradesh,9733,3828,5648,257,13561
+08/06/2020,Uttar Pradesh,10536,4076,6185,275,14612
+09/06/2020,Uttar Pradesh,10947,4320,6344,283,15267
+10/06/2020,Uttar Pradesh,11335,4365,6669,301,15700
+11/06/2020,Uttar Pradesh,11610,4418,6871,321,16028
+12/06/2020,Uttar Pradesh,12088,4451,7292,345,16539
+13/06/2020,Uttar Pradesh,12616,4642,7609,365,17258
+14/06/2020,Uttar Pradesh,13118,4858,7875,385,17976
+15/06/2020,Uttar Pradesh,13615,4948,8268,399,18563
+16/06/2020,Uttar Pradesh,13615,4948,8268,399,18563
+17/06/2020,Uttar Pradesh,14091,5064,8610,417,19155
+18/06/2020,Uttar Pradesh,14598,5259,8904,435,19857
+19/06/2020,Uttar Pradesh,15181,5477,9239,465,20658
+20/06/2020,Uttar Pradesh,15785,5659,9638,488,21444
+21/06/2020,Uttar Pradesh,16594,6092,9995,507,22686
+22/06/2020,Uttar Pradesh,17731,6186,10995,550,23917
+23/06/2020,Uttar Pradesh,18322,6152,11601,569,24474
+24/06/2020,Uttar Pradesh,18893,6189,12116,588,25082
+25/06/2020,Uttar Pradesh,19557,6375,12586,596,25932
+26/06/2020,Uttar Pradesh,20193,6463,13119,611,26656
+27/06/2020,Uttar Pradesh,20943,6730,13583,630,27673
+28/06/2020,Uttar Pradesh,21549,6685,14215,649,28234
+29/06/2020,Uttar Pradesh,22147,6679,14808,660,28826
+30/06/2020,Uttar Pradesh,22828,6650,15506,672,29478
+24/03/2020,Uttarakhand,3,3,0,0,6
+25/03/2020,Uttarakhand,4,4,0,0,8
+26/03/2020,Uttarakhand,5,5,0,0,10
+27/03/2020,Uttarakhand,5,5,0,0,10
+28/03/2020,Uttarakhand,5,5,0,0,10
+29/03/2020,Uttarakhand,6,5,1,0,11
+30/03/2020,Uttarakhand,7,5,2,0,12
+31/03/2020,Uttarakhand,7,5,2,0,12
+01/04/2020,Uttarakhand,7,5,2,0,12
+02/04/2020,Uttarakhand,7,5,2,0,12
+03/04/2020,Uttarakhand,10,8,2,0,18
+04/04/2020,Uttarakhand,16,14,2,0,30
+05/04/2020,Uttarakhand,22,20,2,0,42
+06/04/2020,Uttarakhand,26,22,4,0,48
+07/04/2020,Uttarakhand,31,26,5,0,57
+08/04/2020,Uttarakhand,31,26,5,0,57
+09/04/2020,Uttarakhand,33,28,5,0,61
+10/04/2020,Uttarakhand,35,30,5,0,65
+11/04/2020,Uttarakhand,35,30,5,0,65
+12/04/2020,Uttarakhand,35,30,5,0,65
+13/04/2020,Uttarakhand,35,30,5,0,65
+14/04/2020,Uttarakhand,35,30,5,0,65
+15/04/2020,Uttarakhand,37,28,9,0,65
+16/04/2020,Uttarakhand,37,28,9,0,65
+17/04/2020,Uttarakhand,37,28,9,0,65
+18/04/2020,Uttarakhand,40,31,9,0,71
+19/04/2020,Uttarakhand,42,33,9,0,75
+20/04/2020,Uttarakhand,44,33,11,0,77
+21/04/2020,Uttarakhand,46,28,18,0,74
+22/04/2020,Uttarakhand,46,27,19,0,73
+23/04/2020,Uttarakhand,46,23,23,0,69
+24/04/2020,Uttarakhand,47,23,24,0,70
+25/04/2020,Uttarakhand,48,23,25,0,71
+26/04/2020,Uttarakhand,48,22,26,0,70
+27/04/2020,Uttarakhand,50,22,28,0,72
+28/04/2020,Uttarakhand,51,18,33,0,69
+29/04/2020,Uttarakhand,54,21,33,0,75
+30/04/2020,Uttarakhand,55,19,36,0,74
+01/05/2020,Uttarakhand,57,21,36,0,78
+02/05/2020,Uttarakhand,58,22,36,0,80
+03/05/2020,Uttarakhand,59,20,39,0,79
+04/05/2020,Uttarakhand,60,21,39,0,81
+05/05/2020,Uttarakhand,60,20,39,1,80
+06/05/2020,Uttarakhand,61,21,39,1,82
+07/05/2020,Uttarakhand,61,21,39,1,82
+08/05/2020,Uttarakhand,61,21,39,1,82
+09/05/2020,Uttarakhand,63,16,46,1,79
+10/05/2020,Uttarakhand,67,20,46,1,87
+11/05/2020,Uttarakhand,68,21,46,1,89
+12/05/2020,Uttarakhand,68,21,46,1,89
+13/05/2020,Uttarakhand,69,22,46,1,91
+14/05/2020,Uttarakhand,72,25,46,1,97
+15/05/2020,Uttarakhand,78,27,50,1,105
+16/05/2020,Uttarakhand,82,30,51,1,112
+17/05/2020,Uttarakhand,88,36,51,1,124
+18/05/2020,Uttarakhand,92,39,52,1,131
+19/05/2020,Uttarakhand,93,40,52,1,133
+20/05/2020,Uttarakhand,111,58,52,1,169
+21/05/2020,Uttarakhand,122,68,53,1,190
+22/05/2020,Uttarakhand,146,91,54,1,237
+23/05/2020,Uttarakhand,153,96,56,1,249
+24/05/2020,Uttarakhand,244,186,56,2,430
+25/05/2020,Uttarakhand,317,256,58,3,573
+26/05/2020,Uttarakhand,349,288,58,3,637
+27/05/2020,Uttarakhand,401,333,64,4,734
+28/05/2020,Uttarakhand,469,386,79,4,855
+29/05/2020,Uttarakhand,500,417,79,4,917
+30/05/2020,Uttarakhand,716,609,102,5,1325
+31/05/2020,Uttarakhand,749,642,102,5,1391
+01/06/2020,Uttarakhand,907,800,102,5,1707
+02/06/2020,Uttarakhand,958,730,222,6,1688
+03/06/2020,Uttarakhand,1043,784,252,7,1827
+04/06/2020,Uttarakhand,1085,795,282,8,1880
+05/06/2020,Uttarakhand,1153,846,297,10,1999
+06/06/2020,Uttarakhand,1215,860,344,11,2075
+07/06/2020,Uttarakhand,1303,869,423,11,2172
+08/06/2020,Uttarakhand,1355,814,528,13,2169
+09/06/2020,Uttarakhand,1411,684,714,13,2095
+10/06/2020,Uttarakhand,1537,769,755,13,2306
+11/06/2020,Uttarakhand,1562,716,831,15,2278
+12/06/2020,Uttarakhand,1643,786,842,15,2429
+13/06/2020,Uttarakhand,1724,756,947,21,2480
+14/06/2020,Uttarakhand,1785,685,1077,23,2470
+15/06/2020,Uttarakhand,1819,684,1111,24,2503
+16/06/2020,Uttarakhand,1845,632,1189,24,2477
+17/06/2020,Uttarakhand,1942,701,1216,25,2643
+18/06/2020,Uttarakhand,2023,743,1254,26,2766
+19/06/2020,Uttarakhand,2102,690,1386,26,2792
+20/06/2020,Uttarakhand,2177,718,1433,26,2895
+21/06/2020,Uttarakhand,2301,824,1450,27,3125
+22/06/2020,Uttarakhand,2344,817,1500,27,3161
+23/06/2020,Uttarakhand,2402,853,1521,28,3255
+24/06/2020,Uttarakhand,2535,903,1602,30,3438
+25/06/2020,Uttarakhand,2623,867,1721,35,3490
+26/06/2020,Uttarakhand,2691,897,1758,36,3588
+27/06/2020,Uttarakhand,2725,866,1822,37,3591
+28/06/2020,Uttarakhand,2791,842,1912,37,3633
+29/06/2020,Uttarakhand,2823,767,2018,38,3590
+30/06/2020,Uttarakhand,2831,681,2111,39,3512
+24/03/2020,West Bengal,7,6,0,1,13
+25/03/2020,West Bengal,9,8,0,1,17
+26/03/2020,West Bengal,9,8,0,1,17
+27/03/2020,West Bengal,10,9,0,1,19
+28/03/2020,West Bengal,15,14,0,1,29
+29/03/2020,West Bengal,17,16,0,1,33
+30/03/2020,West Bengal,19,18,0,1,37
+31/03/2020,West Bengal,26,24,0,2,50
+01/04/2020,West Bengal,26,24,0,2,50
+02/04/2020,West Bengal,37,28,6,3,65
+03/04/2020,West Bengal,53,47,3,3,100
+04/04/2020,West Bengal,63,57,3,3,120
+05/04/2020,West Bengal,69,56,10,3,125
+06/04/2020,West Bengal,80,67,10,3,147
+07/04/2020,West Bengal,91,75,13,3,166
+08/04/2020,West Bengal,99,81,13,5,180
+09/04/2020,West Bengal,103,82,16,5,185
+10/04/2020,West Bengal,116,95,16,5,211
+11/04/2020,West Bengal,116,95,16,5,211
+12/04/2020,West Bengal,134,110,19,5,244
+13/04/2020,West Bengal,152,116,29,7,268
+14/04/2020,West Bengal,190,147,36,7,337
+15/04/2020,West Bengal,213,169,37,7,382
+16/04/2020,West Bengal,231,182,42,7,413
+17/04/2020,West Bengal,255,194,51,10,449
+18/04/2020,West Bengal,287,222,55,10,509
+19/04/2020,West Bengal,310,236,62,12,546
+20/04/2020,West Bengal,339,261,66,12,600
+21/04/2020,West Bengal,392,307,73,12,699
+22/04/2020,West Bengal,423,335,73,15,758
+23/04/2020,West Bengal,456,362,79,15,818
+24/04/2020,West Bengal,514,396,103,15,910
+25/04/2020,West Bengal,571,450,103,18,1021
+26/04/2020,West Bengal,611,488,105,18,1099
+27/04/2020,West Bengal,649,524,105,20,1173
+28/04/2020,West Bengal,697,568,109,20,1265
+29/04/2020,West Bengal,725,584,119,22,1309
+30/04/2020,West Bengal,758,612,124,22,1370
+01/05/2020,West Bengal,795,623,139,33,1418
+02/05/2020,West Bengal,795,623,139,33,1418
+03/05/2020,West Bengal,922,738,151,33,1660
+04/05/2020,West Bengal,963,777,151,35,1740
+05/05/2020,West Bengal,1259,908,218,133,2167
+06/05/2020,West Bengal,1344,840,364,140,2184
+07/05/2020,West Bengal,1456,948,364,144,2404
+08/05/2020,West Bengal,1548,1033,364,151,2581
+09/05/2020,West Bengal,1678,1154,364,160,2832
+10/05/2020,West Bengal,1786,1243,372,171,3029
+11/05/2020,West Bengal,1939,1337,417,185,3276
+12/05/2020,West Bengal,2063,1374,499,190,3437
+13/05/2020,West Bengal,2173,1363,612,198,3536
+14/05/2020,West Bengal,2290,1381,702,207,3671
+15/05/2020,West Bengal,2377,1394,768,215,3771
+16/05/2020,West Bengal,2461,1407,829,225,3868
+17/05/2020,West Bengal,2576,1472,872,232,4048
+18/05/2020,West Bengal,2677,1480,959,238,4157
+19/05/2020,West Bengal,2825,1575,1006,244,4400
+20/05/2020,West Bengal,2961,1637,1074,250,4598
+21/05/2020,West Bengal,3103,1714,1136,253,4817
+22/05/2020,West Bengal,3197,1745,1193,259,4942
+23/05/2020,West Bengal,3332,1846,1221,265,5178
+24/05/2020,West Bengal,3459,1909,1281,269,5368
+25/05/2020,West Bengal,3667,2056,1339,272,5723
+26/05/2020,West Bengal,3816,2124,1414,278,5940
+27/05/2020,West Bengal,4009,2240,1486,283,6249
+28/05/2020,West Bengal,4192,2325,1578,289,6517
+29/05/2020,West Bengal,4536,2573,1668,295,7109
+30/05/2020,West Bengal,4813,2736,1775,302,7549
+31/05/2020,West Bengal,5130,2851,1970,309,7981
+01/06/2020,West Bengal,5501,3027,2157,317,8528
+02/06/2020,West Bengal,5772,3141,2306,325,8913
+03/06/2020,West Bengal,6168,3423,2410,335,9591
+04/06/2020,West Bengal,6508,3583,2580,345,10091
+05/06/2020,West Bengal,6876,3753,2768,355,10629
+06/06/2020,West Bengal,7303,4025,2912,366,11328
+07/06/2020,West Bengal,7738,4236,3119,383,11974
+08/06/2020,West Bengal,8187,4488,3303,396,12675
+09/06/2020,West Bengal,8613,4743,3465,405,13356
+10/06/2020,West Bengal,8985,4950,3620,415,13935
+11/06/2020,West Bengal,9328,5117,3779,432,14445
+12/06/2020,West Bengal,9768,5338,3988,442,15106
+13/06/2020,West Bengal,10244,5587,4206,451,15831
+14/06/2020,West Bengal,10698,5693,4542,463,16391
+15/06/2020,West Bengal,11087,5552,5060,475,16639
+16/06/2020,West Bengal,11494,5515,5494,485,17009
+17/06/2020,West Bengal,11909,5386,6028,495,17295
+18/06/2020,West Bengal,12300,5261,6533,506,17561
+19/06/2020,West Bengal,12735,5216,7001,518,17951
+20/06/2020,West Bengal,13090,5258,7303,529,18348
+21/06/2020,West Bengal,13531,5126,7865,540,18657
+22/06/2020,West Bengal,13945,5093,8297,555,19038
+23/06/2020,West Bengal,14358,5102,8687,569,19460
+24/06/2020,West Bengal,14728,4930,9218,580,19658
+25/06/2020,West Bengal,15173,4880,9702,591,20053
+26/06/2020,West Bengal,15648,4852,10190,606,20500
+27/06/2020,West Bengal,16190,5039,10535,616,21229
+28/06/2020,West Bengal,16711,5293,10789,629,22004
+29/06/2020,West Bengal,17283,5451,11193,639,22734
+30/06/2020,West Bengal,17907,5535,11719,653,23442
