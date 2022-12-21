@@ -77,20 +77,20 @@ glimpse(data_cont)
 
 ###### rename variables' name to bring uniformity
 
-###### ï..state to state
+###### Ã¯..state to state
 
 data_cont<-data_cont%>%
-  rename(state=ï..state)
+  rename(state=Ã¯..state)
 
 ###### shorten area.km2 to area
 
 data_cont<-data_cont%>%
   rename(area=area.km2)
 
-###### ï..state to state for gdp data
+###### Ã¯..state to state for gdp data
 
 gdp<-gdp%>%
-  rename(state=ï..state)
+  rename(state=Ã¯..state)
 
 ###### Check data structure
 
@@ -191,7 +191,7 @@ data_cov20<-read.csv("covid_19_regional.csv")
 ###### Change variables' name
 
 data_cov20<-data_cov20%>%
-  rename(date=ï..date1)
+  rename(date=Ã¯..date1)
 
 data_cov20<-data_cov20%>%
   mutate(date=dmy(date))
@@ -341,15 +341,3 @@ plot_grid(p1,p2,p3,
           label_colour = "black")
 
 ################ END OF EXCERCISE ################
-
-###### Gathering pg. 152 O'Reilley- A common problem is a dataset where some of the 
-###### column names are not names of variables, but values of a variable.
-
-data %>%
-  gather(`1999`, `2000`, key = "year", value = "cases")
-
-
-###### Spreading is the opposite of gathering. 
-###### You use it when an observation is scattered across multiple rows.
-
-spread(data, key = type, value = count)
